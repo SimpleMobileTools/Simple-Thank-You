@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Simple Thank You</string>
+    <string name="app_launcher_name">Thank You</string>
+
+    <!-- Settings -->
+    <string name="settings">Nustatymai</string>
+    <string name="dark_theme">Tamsi tema</string>
+
+    <!-- About -->
+    <string name="about">Apie</string>
+    <string name="website">Daugiau paprastų programėlių ir atviras kodas čia:\nhttp://simplemobiletools.com</string>
+    <string name="email_label">Siųsti savo grįžtamąjį ryšį arba pasiūlymus čia:</string>
+    <string name="third_party_licences_underlined"><u>Trečiųjų šalių licenzijos</u></string>
+    <string name="invite_friends_underlined"><u>Pakvieskite draugus</u></string>
+    <string name="share_text">Ei, ateikite čia ir patikrinkite %1$s čia %2$s</string>
+    <string name="invite_via">Pakviesti per</string>
+    <string name="rate_us_underlined"><u>Įvertinti mus google play parduotuvėje</u></string>
+    <string name="follow_us">Sekti mus:</string>
+    <string name="copyright">v %1$s\nVisos teisės saugomos © Simple Mobile Tools %2$d</string>
+
+    <!-- License -->
+    <string name="notice">Ši programėlė naudoja sekančias trečiųjų šyalių bibliotekas, kad palengvinti man gyvenimą. Ačiū.</string>
+    <string name="third_party_licences">Trečiųjų šalių licenzijos</string>
+    <string name="kotlin_title"><u>Kotlin (programming language)</u></string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <string name="app_short_description">A paid app for people who want to support me this way, not doing anything whatsoever.</string>
+    <string name="app_long_description">
+        a
+    </string>
+</resources>
