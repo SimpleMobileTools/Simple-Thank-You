@@ -27,7 +27,7 @@
     <string name="kotlin_title"><u>Kotlin (プログラミング言語)</u></string>
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
-    <string name="app_short_description">A paid app for people who want to support us this way, not doing anything whatsoever.</string>
+    <string name="app_short_description">A paid app for people who want to support us, not doing anything whatsoever.</string>
     <string name="app_long_description">
         If you like our apps which are free, non-intrusive and have no ads, please consider supporting us in some way. It will be hugely appreciated.
 
