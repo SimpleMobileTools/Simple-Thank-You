@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Simple Thank You</string>
     <string name="app_launcher_name">Thank You</string>
+    <string name="main_text">Thank you for supporting us!\nDrop us a line at \n hello@simplemobiletools.com,\n we\'d love to hear all your feedback and suggestions.</string>
 
     <!-- Settings -->
     <string name="settings">Nustatymai</string>
