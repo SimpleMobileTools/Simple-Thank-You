@@ -5,7 +5,7 @@ A paid app for people who want to support us, not doing anything whatsoever.
 
 If you like our apps which are free, non-intrusive and have no ads, please consider supporting us in some way. It will be hugely appreciated.
 
-This app doesn't do anything, but it has a dark theme. That looks cool. It saves your battery and stuff.
+This one doesn't do anything, but it has a dark theme. That looks cool. It saves your battery and stuff.
 
 This app is just one piece of a bigger series of apps. You can find the rest of them at http://www.simplemobiletools.com
 
