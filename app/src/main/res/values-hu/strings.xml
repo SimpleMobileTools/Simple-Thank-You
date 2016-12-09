@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Simple Thank You</string>
+    <string name="app_launcher_name">Thank You</string>
+
+    <!-- Settings -->
+    <string name="settings">Beállítások</string>
+    <string name="dark_theme">Sötét téma</string>
+
+    <!-- About -->
+    <string name="about">Információ</string>
+    <string name="website">További egyszerű alkalmazások és a forráskód itt:\nhttp://simplemobiletools.com</string>
+    <string name="email_label">Visszajelzés és javaslatok:</string>
+    <string name="third_party_licences_underlined"><u>Harmadik fél licenszek</u></string>
+    <string name="invite_friends_underlined"><u>Barátok meghívása</u></string>
+    <string name="share_text">Szia, ezt nézd meg! %1$s itt: %2$s</string>
+    <string name="invite_via">Meghívó küldése itt</string>
+    <string name="rate_us_underlined"><u>Értékelés a Play Store-ban</u></string>
+    <string name="follow_us">Követés:</string>
+    <string name="copyright">%1$s verzió\nSzerzői jogok: © Simple Mobile Tools %2$d</string>
+
+    <!-- License -->
+    <string name="notice">Ez az alkalmazás az alábbi könyvtárakat használja, hogy a munkám egyszerűbb legyen. Köszönöm szépen.</string>
+    <string name="third_party_licences">Harmadik fél licenszek</string>
+    <string name="kotlin_title"><u>Kotlin (programozási nyelv)</u></string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <string name="app_short_description">A paid app for people who want to support me this way, not doing anything whatsoever.</string>
+    <string name="app_long_description">
+        a
+    </string>
+</resources>
