@@ -1,39 +1,40 @@
 <resources>
     <string name="app_name">Simple Thank You</string>
-    <string name="app_launcher_name">Thank You</string>
-    <string name="main_text">Thank you for supporting us!\nDrop us a line at \n hello@simplemobiletools.com,\n we\'d love to hear all your feedback and suggestions.</string>
+    <string name="app_launcher_name">Спасибо</string>
+    <string name="main_text">Спасибо за вашу поддержку!\nОтправьте нам пару строк на \n hello@simplemobiletools.com,\n мы с радостью прочтём ваши отзывы и предложения.</string>
 
     <!-- Settings -->
     <string name="settings">Настройки</string>
-    <string name="dark_theme">темная тема</string>
+    <string name="dark_theme">Тёмная тема</string>
 
     <!-- About -->
-    <string name="about">О программе</string>
-    <string name="website">For the source codes visit\nhttp://simplemobiletools.com</string>
-    <string name="email_label">Отзывы и предложения отправляйте на:</string>
-    <string name="more_apps_underlined"><u>More apps</u></string>
-    <string name="third_party_licences_underlined"><u>Сторонние лицензии</u></string>
-    <string name="invite_friends_underlined"><u>Invite friends</u></string>
-    <string name="share_text">Hey, come check out %1$s at %2$s</string>
-    <string name="invite_via">Invite via</string>
-    <string name="rate_us_underlined"><u>Оцените нас</u></string>
-    <string name="donate_underlined"><u>Donate</u></string>
-    <string name="follow_us">Подписывайтесь на нас:</string>
+    <string name="about">О приложении</string>
+    <string name="website">Исходный код можно найти по адресу:\nhttp://simplemobiletools.com</string>
+    <string name="email_label">Отправить отзывы или предложения:</string>
+    <string name="more_apps_underlined"><u>Больше простых приложений</u></string>
+    <string name="third_party_licences_underlined"><u>Лицензии третьих сторон</u></string>
+    <string name="invite_friends_underlined"><u>Предложить другу</u></string>
+    <string name="share_text">Попробуй %1$s по ссылке %2$s</string>
+    <string name="invite_via">Предложить с помощью</string>
+    <string name="rate_us_underlined"><u>Оценить нас в Google Play</u></string>
+    <string name="donate_underlined"><u>Поддержать разработчика</u></string>
+    <string name="follow_us">Подписаться на нас:</string>
     <string name="copyright">v %1$s\nCopyright © Simple Mobile Tools %2$d</string>
 
     <!-- License -->
-    <string name="notice">Это приложение использует следующие сторонние библиотеки, что бы сделать мою жизнь проще. Спасибо.</string>
-    <string name="third_party_licences">Сторонние лицензии</string>
-    <string name="kotlin_title"><u>Kotlin (programming language)</u></string>
+    <string name="notice">Это приложение использует следующие библиотеки сторонних разработчиков, чтобы облегчить мой труд. Спасибо.</string>
+    <string name="third_party_licences">Лицензии третьих сторон</string>
+    <string name="kotlin_title"><u>Kotlin (язык программирования)</u></string>
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
-    <string name="app_short_description">A paid app for people who want to support us, not doing anything whatsoever.</string>
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Платное приложение, для тех, кто хочет поддержать Simple Mobile Tools.</string>
     <string name="app_long_description">
-        If you like our apps which are free, non-intrusive and have no ads, please consider supporting us in some way. It will be hugely appreciated.
+        Если вам нравится, что наши приложения бесплатны, ненавязчивы и не содержат рекламы, пожалуйста, поддержите нас. Мы очень ценим вашу поддержку.
 
 
-        This one doesn\'t do anything, but it has a dark theme. That looks cool. It saves your battery and stuff.
+        Хоть приложение ничего не делает, в нём есть тёмная тема. Выглядит круто. Экономит заряд аккумулятора.
 
-        This app is just one piece of a bigger series of apps. You can find the rest of them at http://www.simplemobiletools.com
+        Thank You - это приложение из серии Simple Mobile Tools. Остальные приложения из этой серии можно найти здесь: http://www.simplemobiletools.com
     </string>
 </resources>
