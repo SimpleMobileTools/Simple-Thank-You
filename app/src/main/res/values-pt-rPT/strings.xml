@@ -3,34 +3,10 @@
     <string name="app_launcher_name">Obrigado</string>
     <string name="main_text">Obrigado por nos apoiar!\nEscreva-nos um e-mail para \n hello@simplemobiletools.com.\n Gostaríamos de conhecer os seus comentários e sugestões.</string>
 
-    <!-- Settings -->
-    <string name="settings">Definições</string>
-    <string name="dark_theme">Tema escuro</string>
-
-    <!-- About -->
-    <string name="about">Acerca</string>
-    <string name="website">Para aceder ao código fonte, visite\nhttp://simplemobiletools.com</string>
-    <string name="email_label">Envie os seus comentários ou sugestões para:</string>
-    <string name="more_apps_underlined"><u>Mais aplicações</u></string>
-    <string name="third_party_licences_underlined"><u>Licenças de terceiros</u></string>
-    <string name="invite_friends_underlined"><u>Convidar amigos</u></string>
-    <string name="share_text">Olá, experimenta %1$s em %2$s</string>
-    <string name="invite_via">Convidar via</string>
-    <string name="rate_us_underlined"><u>Avalie-nos</u></string>
-    <string name="donate_underlined"><u>Donativos</u></string>
-    <string name="follow_us">Siga-nos:</string>
-    <string name="copyright">V %1$s\nCopyright © Simple Mobile Tools %2$d</string>
-
-    <!-- License -->
-    <string name="notice">Esta aplicação usa as seguintes bibliotecas de terceiros para facilitar a minha vida. Obrigado.</string>
-    <string name="third_party_licences">Licenças de terceiros</string>
-    <string name="kotlin_title"><u>Kotlin (linguagem de programação)</u></string>
-
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <string name="app_short_description">Uma aplicação paga para aquelas pessoas que nos querem apoiar, mas que nada faz.</string>
     <string name="app_long_description">
         Se você gosta das nossas aplicações, que são gratuitas, não intrusivas e não possuem anúncios, esta é a sua forma de nos ajudar. E será muito apreciada.
-
 
         Esta aplicação nada faz, mas tem um tema escuro para o ajudar a poupar bateria e a não cansar a sua vista.
 

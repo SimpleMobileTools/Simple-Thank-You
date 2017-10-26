@@ -3,34 +3,10 @@
     <string name="app_launcher_name">Thank You</string>
     <string name="main_text">Thank you for supporting us!\nDrop us a line at \n hello@simplemobiletools.com,\n we\'d love to hear all your feedback and suggestions.</string>
 
-    <!-- Settings -->
-    <string name="settings">Beállítások</string>
-    <string name="dark_theme">Sötét téma</string>
-
-    <!-- About -->
-    <string name="about">Információ</string>
-    <string name="website">A forráskód itt:\nhttp://simplemobiletools.com</string>
-    <string name="email_label">Visszajelzés és javaslatok:</string>
-    <string name="more_apps_underlined"><u>More apps</u></string>
-    <string name="third_party_licences_underlined"><u>Harmadik fél licenszek</u></string>
-    <string name="invite_friends_underlined"><u>Barátok meghívása</u></string>
-    <string name="share_text">Szia, ezt nézd meg! %1$s itt: %2$s</string>
-    <string name="invite_via">Meghívó küldése itt</string>
-    <string name="rate_us_underlined"><u>Értékelés</u></string>
-    <string name="donate_underlined"><u>Donate</u></string>
-    <string name="follow_us">Követés:</string>
-    <string name="copyright">%1$s verzió\nSzerzői jogok: © Simple Mobile Tools %2$d</string>
-
-    <!-- License -->
-    <string name="notice">Ez az alkalmazás az alábbi könyvtárakat használja, hogy a munkám egyszerűbb legyen. Köszönöm szépen.</string>
-    <string name="third_party_licences">Harmadik fél licenszek</string>
-    <string name="kotlin_title"><u>Kotlin (programozási nyelv)</u></string>
-
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <string name="app_short_description">A paid app for people who want to support us, not doing anything whatsoever.</string>
     <string name="app_long_description">
         If you like our apps which are free, non-intrusive and have no ads, please consider supporting us in some way. It will be hugely appreciated.
-
 
         This one doesn\'t do anything, but it has a dark theme. That looks cool. It saves your battery and stuff.
 

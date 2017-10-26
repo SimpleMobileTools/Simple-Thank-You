@@ -5,14 +5,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <TextView
+    <com.simplemobiletools.commons.views.MyTextView
         android:id="@+id/text"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:autoLink="email"
         android:gravity="center"
         android:lineSpacingExtra="3dp"
-        android:padding="@dimen/large_margin"
+        android:padding="40dp"
         android:text="@string/main_text"
         android:textSize="@dimen/normal_text_size"/>
 
