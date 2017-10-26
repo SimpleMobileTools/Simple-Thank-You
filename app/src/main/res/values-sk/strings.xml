@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Jednoduché ďakujem</string>
+    <string name="app_launcher_name">Ďakujem</string>
+    <string name="main_text">Ďakujem za našu podporu!\nNapíšte nám na \n hello@simplemobiletools.com,\n chceme počuť každú spätnú väzbu a odporúčania.\n\n(Prosím ponechajte si aplikáciu nainštalovanú aspoň 1 deň, predídete tak automatickému vráteniu peňazí)</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Platená aplikácia pre ľudí, ktorí nás chcú podporiť, veľa zatiaľ toho nerobí.</string>
+    <string name="app_long_description">
+        Ak máte radi naše aplikácie, ktoré sú bezplatné, nie sú dotieravé a neobsahujú ani reklamy, prosím pouvažujte nad našim podporením. Budeme za to veľmi vďační.
+
+        Prosím ponechajte si aplikáciu nainštalovanú aspoň 1 deň, predídete tak automatickému vráteniu peňazí.
+
+        Úlohou tejto aplikácie je zatiaľ iba predídenie zobrazovania dialógu "Podporte nás prosím", v budúcnosti bude možno odomykať dodatočné funkcie.
+
+        Neobsahuje žiadne reklamy a nepotrebné oprávnenia. Je opensource, poskytuje možnosť zmeny farieb.
+
+        Táto aplikácia je iba jednou zo skupiny aplikácií. Ostatné viete nájsť na http://www.simplemobiletools.com
+    </string>
+</resources>
