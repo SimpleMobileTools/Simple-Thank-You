@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:autoLink="email"
-        android:gravity="center"
+        android:gravity="center_horizontal"
         android:lineSpacingExtra="3dp"
         android:padding="40dp"
         android:text="@string/main_text"

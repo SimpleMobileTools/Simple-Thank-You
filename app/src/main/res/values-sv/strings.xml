@@ -1,15 +1,20 @@
 <resources>
     <string name="app_name">Simple Thank You</string>
     <string name="app_launcher_name">Tack</string>
-    <string name="main_text">Tack för att du stödjer oss!\nSkriv till oss på \n hello@simplemobiletools.com,\n vi vill gärna höra alla dina synpunkter och förslag.</string>
+    <string name="main_text">Thank you for supporting us!\nDrop us a line at \n hello@simplemobiletools.com,\n we\'d love to hear all your feedback and suggestions.\n\n(Please keep the app installed at least for a day, to avoid getting automatically refunded)</string>
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
-    <string name="app_short_description">En betalapp för personer som vill stödja oss, gör ingenting alls.</string>
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">A paid app for people who want to support us, not doing much yet.</string>
     <string name="app_long_description">
-        Om du gillar våra appar som är gratis, inte är påträngande och inte innehåller reklam, överväg att stödja oss på något sätt. Det kommer att uppskattas enormt.
+        If you like our apps which are free, non-intrusive and have no ads, please consider supporting us in some way. It will be hugely appreciated.
 
-        Denna app gör ingenting, men den har ett mörkt tema. Det ser coolt ut och sparar ditt batteri.
+        Please keep the app installed at least for a day, to avoid getting automatically refunded.
 
-        Denna app är bara en del av en större serie appar. Du hittar resten av dem på http://www.simplemobiletools.com
+        The purpose of this app is just to avoid sporadically seeing the "Donate please" dialog, it might unlock extra features in the future.
+
+        Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
+
+        This app is just one piece of a bigger series of apps. You can find the rest of them at http://www.simplemobiletools.com
     </string>
 </resources>

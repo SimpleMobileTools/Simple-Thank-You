@@ -1,15 +1,20 @@
 <resources>
     <string name="app_name">Simple Thank You</string>
     <string name="app_launcher_name">Obrigado</string>
-    <string name="main_text">Obrigado por nos apoiar!\nEscreva-nos um e-mail para \n hello@simplemobiletools.com.\n Gostaríamos de conhecer os seus comentários e sugestões.</string>
+    <string name="main_text">Thank you for supporting us!\nDrop us a line at \n hello@simplemobiletools.com,\n we\'d love to hear all your feedback and suggestions.\n\n(Please keep the app installed at least for a day, to avoid getting automatically refunded)</string>
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
-    <string name="app_short_description">Uma aplicação paga para aquelas pessoas que nos querem apoiar, mas que nada faz.</string>
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">A paid app for people who want to support us, not doing much yet.</string>
     <string name="app_long_description">
-        Se você gosta das nossas aplicações, que são gratuitas, não intrusivas e não possuem anúncios, esta é a sua forma de nos ajudar. E será muito apreciada.
+        If you like our apps which are free, non-intrusive and have no ads, please consider supporting us in some way. It will be hugely appreciated.
 
-        Esta aplicação nada faz, mas tem um tema escuro para o ajudar a poupar bateria e a não cansar a sua vista.
+        Please keep the app installed at least for a day, to avoid getting automatically refunded.
 
-        Esta aplicação é apenas parte de um conjunto mais vasto de aplicações. Saiba mais em http://www.simplemobiletools.com
+        The purpose of this app is just to avoid sporadically seeing the "Donate please" dialog, it might unlock extra features in the future.
+
+        Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
+
+        This app is just one piece of a bigger series of apps. You can find the rest of them at http://www.simplemobiletools.com
     </string>
 </resources>
