@@ -5,7 +5,7 @@
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Eine kostenpflichtige App für alle, die uns unterstützen wollen. Macht bisher sonst nicht viel.</string>
+    <string name="app_short_description">Eine kostenpflichtige App für alle, die uns unterstützen wollen.</string>
     <string name="app_long_description">
         Wenn du unsere Apps magst, welche kostenlos, nicht aufdringlich und frei von Werbung sind, überlege bitte uns zu unterstützen. Wir schätzen das unglaublich!
 
