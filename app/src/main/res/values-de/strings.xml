@@ -3,6 +3,9 @@
     <string name="app_launcher_name">Dankeschön</string>
     <string name="main_text">Danke für deine Unterstützung!\nSchreibe uns doch an \n hello@simplemobiletools.com,\n wir hören dein Feedback und deine Vorschläge sehr gerne.\n\n(Bitte lasse diese App für mindestens einen Tag installiert, um eine automatische Rückerstattung zu unterbinden.)</string>
 
+    <!-- Settings -->
+    <string name="hide_launcher_icon">Hide the launcher icon</string>
+
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
     <string name="app_short_description">Eine kostenpflichtige App für alle, die uns unterstützen wollen.</string>

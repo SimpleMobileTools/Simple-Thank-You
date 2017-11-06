@@ -3,6 +3,9 @@
     <string name="app_launcher_name">Ďakujem</string>
     <string name="main_text">Ďakujem za našu podporu!\nNapíšte nám na \n hello@simplemobiletools.com,\n chceme počuť každú spätnú väzbu a odporúčania.\n\n(Prosím ponechajte si aplikáciu nainštalovanú aspoň 1 deň, predídete tak automatickému vráteniu peňazí)</string>
 
+    <!-- Settings -->
+    <string name="hide_launcher_icon">Skryť spúšťaciu ikonku</string>
+
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
     <string name="app_short_description">Platená aplikácia pre ľudí, ktorí nás chcú podporiť, veľa zatiaľ toho nerobí.</string>

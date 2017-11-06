@@ -29,5 +29,25 @@
                 android:text="@string/customize_colors"/>
 
         </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/settings_hide_launcher_icon_holder"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/medium_margin"
+            android:background="?attr/selectableItemBackground"
+            android:padding="@dimen/activity_margin">
+
+            <com.simplemobiletools.commons.views.MySwitchCompat
+                android:id="@+id/settings_hide_launcher_icon"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@null"
+                android:clickable="false"
+                android:paddingLeft="@dimen/medium_margin"
+                android:paddingStart="@dimen/medium_margin"
+                android:text="@string/hide_launcher_icon"/>
+
+        </RelativeLayout>
     </LinearLayout>
 </ScrollView>
