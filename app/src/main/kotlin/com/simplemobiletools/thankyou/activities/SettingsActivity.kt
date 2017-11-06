@@ -36,7 +36,7 @@ class SettingsActivity : BaseSimpleActivity() {
             settings_hide_launcher_icon.toggle()
             config.hideLauncherIcon = settings_hide_launcher_icon.isChecked
 
-            val componentName = ComponentName(this, MainActivity::class.java)
+            val componentName = ComponentName(this, SplashActivity::class.java)
             val state = if (config.hideLauncherIcon) PackageManager.COMPONENT_ENABLED_STATE_DISABLED else PackageManager.COMPONENT_ENABLED_STATE_ENABLED
             packageManager.setComponentEnabledSetting(componentName, state, PackageManager.DONT_KILL_APP)
         }
