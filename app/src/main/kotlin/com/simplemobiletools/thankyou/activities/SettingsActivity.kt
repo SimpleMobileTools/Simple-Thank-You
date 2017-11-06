@@ -4,6 +4,7 @@ import android.content.ComponentName
 import android.content.pm.PackageManager
 import android.os.Bundle
 import com.simplemobiletools.commons.activities.BaseSimpleActivity
+import com.simplemobiletools.commons.dialogs.ConfirmationDialog
 import com.simplemobiletools.commons.extensions.updateTextColors
 import com.simplemobiletools.thankyou.R
 import com.simplemobiletools.thankyou.extensions.config
@@ -33,12 +34,22 @@ class SettingsActivity : BaseSimpleActivity() {
     private fun setupHideLauncherIcon() {
         settings_hide_launcher_icon.isChecked = config.hideLauncherIcon
         settings_hide_launcher_icon_holder.setOnClickListener {
-            settings_hide_launcher_icon.toggle()
-            config.hideLauncherIcon = settings_hide_launcher_icon.isChecked
-
-            val componentName = ComponentName(this, SplashActivity::class.java)
-            val state = if (config.hideLauncherIcon) PackageManager.COMPONENT_ENABLED_STATE_DISABLED else PackageManager.COMPONENT_ENABLED_STATE_ENABLED
-            packageManager.setComponentEnabledSetting(componentName, state, PackageManager.DONT_KILL_APP)
+            if (config.hideLauncherIcon) {
+                toggleHideLauncherIcon()
+            } else {
+                ConfirmationDialog(this, "", R.string.hide_launcher_icon_explanation, R.string.ok, R.string.cancel) {
+                    toggleHideLauncherIcon()
+                }
+            }
         }
+    }
+
+    private fun toggleHideLauncherIcon() {
+        settings_hide_launcher_icon.toggle()
+        config.hideLauncherIcon = settings_hide_launcher_icon.isChecked
+
+        val componentName = ComponentName(this, SplashActivity::class.java)
+        val state = if (config.hideLauncherIcon) PackageManager.COMPONENT_ENABLED_STATE_DISABLED else PackageManager.COMPONENT_ENABLED_STATE_ENABLED
+        packageManager.setComponentEnabledSetting(componentName, state, PackageManager.DONT_KILL_APP)
     }
 }
