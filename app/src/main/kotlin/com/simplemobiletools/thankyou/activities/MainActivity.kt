@@ -5,8 +5,10 @@ import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
 import com.simplemobiletools.commons.activities.BaseSimpleActivity
+import com.simplemobiletools.commons.extensions.checkWhatsNew
 import com.simplemobiletools.commons.extensions.updateTextColors
 import com.simplemobiletools.commons.helpers.LICENSE_KOTLIN
+import com.simplemobiletools.commons.models.Release
 import com.simplemobiletools.thankyou.BuildConfig
 import com.simplemobiletools.thankyou.R
 import kotlinx.android.synthetic.main.activity_main.*
@@ -16,6 +18,7 @@ class MainActivity : BaseSimpleActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        checkWhatsNewDialog()
     }
 
     override fun onResume() {
@@ -43,5 +46,12 @@ class MainActivity : BaseSimpleActivity() {
 
     private fun launchAbout() {
         startAboutActivity(R.string.app_name, LICENSE_KOTLIN, BuildConfig.VERSION_NAME)
+    }
+
+    private fun checkWhatsNewDialog() {
+        arrayListOf<Release>().apply {
+            add(Release(3, R.string.release_3))
+            checkWhatsNew(this, BuildConfig.VERSION_CODE)
+        }
     }
 }

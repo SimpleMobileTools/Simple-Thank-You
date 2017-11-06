@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Release notes -->
+    <string name="release_3">Added a toggle for hiding the launcher icon</string>
+
+</resources>
