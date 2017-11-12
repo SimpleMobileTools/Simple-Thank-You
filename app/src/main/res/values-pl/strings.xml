@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">Simple Thank You</string>
-    <string name="app_launcher_name">Simple Thank You</string>
+    <string name="app_name">Proste Podziękowania</string>
+    <string name="app_launcher_name">Proste Podziękowania</string>
     <string name="main_text">Dziękujemy za wsparcie!\nDaj nam znać, wysyłając wiadomość na:\n hello@simplemobiletools.com,\n chcielibyśmy od Ciebie usłyszeć wszystkie sugestie oraz opinie!\n\n(Prosimy nie usuwać tej aplikacji przynajmniej przez dzień, aby uniknąć automatycznego zwrotu pieniędzy)</string>
 
     <!-- Settings -->
@@ -9,7 +9,7 @@
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Płatna aplikacja dla osób, które chcą nas wesprzeć, obecnie nie posiadająca żadnych funkcji.</string>
+    <string name="app_short_description">Płatna i obecnie bezfunkcyjna aplikacja dla osób, które chcą nas wesprzeć.</string>
     <string name="app_long_description">
         Jeżeli lubisz nasze aplikacje, które są darmowe, nieinwazyjne oraz nie zawierają reklam, prosimy o wsparcie nas w ten sposób.
 
