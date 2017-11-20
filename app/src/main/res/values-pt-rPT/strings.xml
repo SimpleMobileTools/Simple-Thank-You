@@ -1,24 +1,24 @@
 <resources>
     <string name="app_name">Simple Thank You</string>
     <string name="app_launcher_name">Obrigado</string>
-    <string name="main_text">Thank you for supporting us!\nDrop us a line at \n hello@simplemobiletools.com,\n we\'d love to hear all your feedback and suggestions.\n\n(Please keep the app installed at least for a day, to avoid getting automatically refunded)</string>
+    <string name="main_text">Obrigado por nos ajudar!\nEscreva-nos um e-mail para \n hello@simplemobiletools.com,\n com as suas sugestões ou comentários.\n\n(Mantenha a aplicação instalada por, pelo menos, um dia de modo a não ser reembolsado automaticamente.)</string>
 
     <!-- Settings -->
-    <string name="hide_launcher_icon">Hide the launcher icon</string>
-    <string name="hide_launcher_icon_explanation">To have the launcher icon displayed again, you will have to reinstall the app. Don\'t worry, you won\'t have to pay again.</string>
+    <string name="hide_launcher_icon">Ocultar ícone</string>
+    <string name="hide_launcher_icon_explanation">Para voltar a mostrar o ícone terá que reinstalar a aplicação. Mas não se preocupe porque não ter que a compra novamente.</string>
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">A paid app for people who want to support us, not doing much yet.</string>
+    <string name="app_short_description">Uma aplicação paga para os que nos querem ajudar e que, por enquanto, nada faz.</string>
     <string name="app_long_description">
-        If you like our apps which are free, non-intrusive and have no ads, please consider supporting us in some way. It will be hugely appreciated.
+        Se gosta das nossas aplicações que são gratuitas, não intrusivas e não possuem anúncios queira por favor considerar a hipótese de nos ajudar de alguma forma. A ajuda será extremamente apreciada.
 
-        Please keep the app installed at least for a day, to avoid getting automatically refunded.
+        Mantenha a aplicação instalada por, pelo menos, um dia de modo a não ser reembolsado automaticamente.
 
-        The purpose of this app is just to avoid sporadically seeing the "Donate please" dialog, it might unlock extra features in the future.
+        O objetivo desta aplicação é remover o aparecimento esporádico do diálogo "Donativos" mas, no futuro poderá servir para desbloquear funções extra.
 
-        Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
+        Não contém anúncios nem permissões desnecessárias. Permite a personalização de cores e é totalmente \'open source\'.
 
-        This app is just one piece of a bigger series of apps. You can find the rest of them at http://www.simplemobiletools.com
-    </string>
+        Esta aplicação é apenas parte de um conjunto mais vasto de aplicações. Saiba mais em http://www.simplemobiletools.com
+     </string>
 </resources>
