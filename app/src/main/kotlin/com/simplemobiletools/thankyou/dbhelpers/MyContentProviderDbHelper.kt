@@ -46,12 +46,16 @@ class MyContentProviderDbHelper private constructor(private val context: Context
     }
 
     fun updateTheme(values: ContentValues): Int {
+        if (!isThemeAvailable()) {
+            insertDefaultTheme()
+        }
+
         val selection = "$COL_ID = ?"
         val selectionArgs = arrayOf(THEME_ID.toString())
         return mDb.update(TABLE_NAME, values, selection, selectionArgs)
     }
 
-    fun isThemeAvailable(): Boolean {
+    private fun isThemeAvailable(): Boolean {
         val cols = arrayOf(COL_ID)
         val selection = "$COL_ID = ?"
         val selectionArgs = arrayOf(THEME_ID.toString())
@@ -65,10 +69,6 @@ class MyContentProviderDbHelper private constructor(private val context: Context
     }
 
     fun getSharedTheme(): Cursor? {
-        if (!isThemeAvailable()) {
-            insertDefaultTheme()
-        }
-
         val cols = arrayOf(COL_TEXT_COLOR, COL_BACKGROUND_COLOR, COL_PRIMARY_COLOR, COL_LAST_UPDATED_TS)
         val selection = "$COL_ID = ?"
         val selectionArgs = arrayOf(THEME_ID.toString())

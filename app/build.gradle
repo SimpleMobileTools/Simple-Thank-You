@@ -38,7 +38,7 @@ android {
 }
 
 dependencies {
-    compile 'com.simplemobiletools:commons:2.41.19'
+    compile 'com.simplemobiletools:commons:2.42.6'
 }
 
 Properties props = new Properties()
