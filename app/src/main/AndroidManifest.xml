@@ -47,5 +47,9 @@
             android:label="@string/customize_colors"
             android:parentActivityName=".activities.SettingsActivity"/>
 
+        <provider
+            android:name=".contentproviders.MyContentProvider"
+            android:authorities="com.simplemobiletools.commons.provider"
+            android:exported="true"/>
     </application>
 </manifest>
