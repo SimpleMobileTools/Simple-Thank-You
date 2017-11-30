@@ -3,14 +3,13 @@ package com.simplemobiletools.thankyou.activities
 import android.content.ComponentName
 import android.content.pm.PackageManager
 import android.os.Bundle
-import com.simplemobiletools.commons.activities.BaseSimpleActivity
 import com.simplemobiletools.commons.dialogs.ConfirmationDialog
 import com.simplemobiletools.commons.extensions.updateTextColors
 import com.simplemobiletools.thankyou.R
 import com.simplemobiletools.thankyou.extensions.config
 import kotlinx.android.synthetic.main.activity_settings.*
 
-class SettingsActivity : BaseSimpleActivity() {
+class SettingsActivity : SimpleActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
