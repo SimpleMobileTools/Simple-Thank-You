@@ -4,8 +4,8 @@
     <string name="main_text">Danke für deine Unterstützung!\nSchreibe uns doch an \n hello@simplemobiletools.com,\n wir hören dein Feedback und deine Vorschläge sehr gerne.\n\n(Bitte lasse diese App für mindestens einen Tag installiert, um eine automatische Rückerstattung zu unterbinden.)</string>
 
     <!-- Settings -->
-    <string name="hide_launcher_icon">Hide the launcher icon</string>
-    <string name="hide_launcher_icon_explanation">To have the launcher icon displayed again, you will have to reinstall the app. Don\'t worry, you won\'t have to pay again.</string>
+    <string name="hide_launcher_icon">App im Menü verstecken</string>
+    <string name="hide_launcher_icon_explanation">Um die App im Menü wieder anzuzeigen, musst du sie neu installieren. Keine Sorge, du musst die App dafür nicht nochmals kaufen.</string>
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
