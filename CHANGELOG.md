@@ -1,6 +1,12 @@
 Changelog
 ==========
 
+Version 3.0.0 *(2017-12-04)*
+----------------------------
+
+ * Improved primary color customization
+ * Added handling for color synchronization between apps
+
 Version 2.1.0 *(2017-11-06)*
 ----------------------------
 
