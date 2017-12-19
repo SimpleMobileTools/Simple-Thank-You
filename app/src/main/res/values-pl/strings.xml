@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Proste Podziękowania</string>
     <string name="app_launcher_name">Proste Podziękowania</string>
-    <string name="main_text">Dziękujemy za wsparcie!\nDaj nam znać, wysyłając wiadomość na:\n hello@simplemobiletools.com,\n chcielibyśmy od Ciebie usłyszeć wszystkie sugestie oraz opinie!\n\n(Prosimy nie usuwać tej aplikacji przynajmniej przez dzień, aby uniknąć automatycznego zwrotu pieniędzy)</string>
+    <string name="main_text">Thank you for supporting us!\nDrop us a line at \n hello@simplemobiletools.com,\n we\'d love to hear all your feedback and suggestions.\n\n(Please keep the app installed to avoid seeing the \'Purchase\' dialog and have all app features unlocked)</string>
 
     <!-- Settings -->
     <string name="hide_launcher_icon">Ukryj ikonę launchera</string>
@@ -21,4 +21,9 @@
 
         Niniejsza aplikacja jest tylko częścią naszej kolekcji prostych narzędzi. Ta, jak i pozostałe, dostępne są na stronie http://www.simplemobiletools.com
     </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
 </resources>

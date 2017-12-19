@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Simple Thank You</string>
     <string name="app_launcher_name">Dankeschön</string>
-    <string name="main_text">Danke für deine Unterstützung!\nSchreibe uns doch an \n hello@simplemobiletools.com,\n wir hören dein Feedback und deine Vorschläge sehr gerne.\n\n(Bitte lasse diese App für mindestens einen Tag installiert, um eine automatische Rückerstattung zu unterbinden.)</string>
+    <string name="main_text">Thank you for supporting us!\nDrop us a line at \n hello@simplemobiletools.com,\n we\'d love to hear all your feedback and suggestions.\n\n(Please keep the app installed to avoid seeing the \'Purchase\' dialog and have all app features unlocked)</string>
 
     <!-- Settings -->
     <string name="hide_launcher_icon">App im Menü verstecken</string>
@@ -21,4 +21,9 @@
 
         Diese App ist nur eine von vielen unserer Apps. Du kannst alle anderen hier finden: http://www.simplemobiletools.com
     </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
 </resources>
