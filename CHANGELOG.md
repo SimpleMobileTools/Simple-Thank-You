@@ -1,6 +1,11 @@
 Changelog
 ==========
 
+Version 3.0.2 *(2017-12-26)*
+----------------------------
+
+ * Updated the main text to make it clearer
+
 Version 3.0.1 *(2017-12-07)*
 ----------------------------
 
