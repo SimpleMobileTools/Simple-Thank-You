@@ -1,25 +1,25 @@
 <resources>
     <string name="app_name">Simple Thank You</string>
     <string name="app_launcher_name">Tack</string>
-    <string name="main_text">Thank you for supporting us!\nDrop us a line at \n hello@simplemobiletools.com,\n we\'d love to hear all your feedback and suggestions.\n\n(Please keep the app installed to avoid seeing the \'Purchase\' dialog and have all app features unlocked)</string>
+    <string name="main_text">Tack för att du stödjer oss!\nSkriv till oss på \n hello@simplemobiletools.com,\n vi vill gärna höra alla dina synpunkter och förslag.\n\n(Behåll appen installerad för att låsa upp alla appfunktioner och hindra dialogrutan \'Köp\' från att visas)</string>
 
     <!-- Settings -->
-    <string name="hide_launcher_icon">Hide the launcher icon</string>
-    <string name="hide_launcher_icon_explanation">To have the launcher icon displayed again, you will have to reinstall the app. Don\'t worry, you won\'t have to pay again.</string>
+    <string name="hide_launcher_icon">Dölj appens ikon</string>
+    <string name="hide_launcher_icon_explanation">Om du vill visa appens ikon igen, måste du installera om appen. Oroa dig inte, du behöver inte betala igen.</string>
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">A paid app for people who want to support us, not doing much yet.</string>
+    <string name="app_short_description">En betalapp för personer som vill stödja oss, gör inte så mycket ännu.</string>
     <string name="app_long_description">
-        If you like our apps which are free, non-intrusive and have no ads, please consider supporting us in some way. It will be hugely appreciated.
+        Om du gillar våra appar som är gratis, inte är påträngande och inte innehåller reklam, överväg att stödja oss på något sätt. Det kommer att uppskattas enormt.
 
-        Please keep the app installed at least for a day, to avoid getting automatically refunded.
+        Behåll appen installerad i minst en dag för att undvika en automatisk återbetalning.
 
-        The purpose of this app is just to avoid sporadically seeing the "Donate please" dialog, it might unlock extra features in the future.
+        Syftet med denna app är bara att hindra dialogrutan "Donera" från att visas sporadiskt. Den kan kanske låsa upp extrafunktioner i framtiden.
 
-        Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
+        Innehåller ingen reklam eller onödiga behörigheter. Den har helt öppen källkod och anpassningsbara färger.
 
-        This app is just one piece of a bigger series of apps. You can find the rest of them at http://www.simplemobiletools.com
+        Denna app är bara en del av en större serie appar. Du hittar resten av dem på http://www.simplemobiletools.com
     </string>
 
     <!--
