@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Simple Thank You</string>
+    <string name="app_launcher_name">Merci</string>
+    <string name="main_text">Merci de nous soutenir !\nÉcrivez moi un petit message à l\'adresse \n hello@simplemobiletools.com,\n nous aimerions connaître votre avis et vos suggestions.\n\n(Veuillez conserver l\'appli installée pour éviter de voir apparaître la boîte de dialogue \'Achat\' et également pour avoir accès aux fonctionnalités déverrouillées par cette appli)</string>
+
+    <!-- Settings -->
+    <string name="hide_launcher_icon">Masquer l\'icône de lancement</string>
+    <string name="hide_launcher_icon_explanation">Pour que l\'icône de lancement s'affiche à nouveau, vous devrez réinstaller l\'appli. Ne vous inquiétez pas, vous ne devrez pas repayer.</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Une appli payante pour ceux qui veulent me soutenir. Ne fait rien de spécial.</string>
+    <string name="app_long_description">
+        Si vous aimez nos applications gratuites, non intrusives et sans publicité, vous pouvez nous soutenir en achetant cette appli. Ce sera énormément apprécié.
+        
+        Veuillez conserver l\'appli installée au moins pendant une journée, pour éviter d'être automatiquement remboursé.
+
+        Le but de cette application est juste d\'éviter de voir sporadiquement un bouton "Vous pouvez faire un don". Elle pourra débloquer des fonctionnalités supplémentaires à l\'avenir.
+
+        Ne contient aucune publicité ou autorisation inutile. Elle est entièrement opensource et elle propose de personnaliser les couleurs de l\'appli.
+
+        Cette application est juste le composant d\'une plus grande série d'applications. Vous pouvez retrouver les autres sur http://www.simplemobiletools.com
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>
