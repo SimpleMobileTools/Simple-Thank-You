@@ -5,7 +5,7 @@
 
     <!-- Settings -->
     <string name="hide_launcher_icon">Masquer l\'icône de lancement</string>
-    <string name="hide_launcher_icon_explanation">Pour que l\'icône de lancement s'affiche à nouveau, vous devrez réinstaller l\'appli. Ne vous inquiétez pas, vous ne devrez pas repayer.</string>
+    <string name="hide_launcher_icon_explanation">Pour que l\'icône de lancement s\'affiche à nouveau, vous devrez réinstaller l\'appli. Ne vous inquiétez pas, vous ne devrez pas repayer.</string>
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
@@ -13,7 +13,7 @@
     <string name="app_long_description">
         Si vous aimez nos applications gratuites, non intrusives et sans publicité, vous pouvez nous soutenir en achetant cette appli. Ce sera énormément apprécié.
         
-        Veuillez conserver l\'appli installée au moins pendant une journée, pour éviter d'être automatiquement remboursé.
+        Veuillez conserver l\'appli installée au moins pendant une journée, pour éviter d\'être automatiquement remboursé.
 
         Le but de cette application est juste d\'éviter de voir sporadiquement un bouton "Vous pouvez faire un don". Elle pourra débloquer des fonctionnalités supplémentaires à l\'avenir.
 
