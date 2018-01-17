@@ -13,8 +13,10 @@ This app is just one piece of a bigger series of apps. You can find the rest of 
 
 <a href='https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou'><img src='http://simplemobiletools.github.io/assets/public/google-play.png' alt='Get it on Google Play' height=45/></a>
 
-<img alt="App image" src="screenshots/app.png" width="250">
-<img alt="App image" src="screenshots/app_2.png" width="250">
+<div style="display:flex;">
+<img alt="App image" src="screenshots/app.png" width="30%">
+<img alt="App image" src="screenshots/app_2.png" width="30%">
+</div>
 
 License
 -------
