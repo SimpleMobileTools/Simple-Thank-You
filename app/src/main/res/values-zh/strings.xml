@@ -1,25 +1,25 @@
 <resources>
     <string name="app_name">Simple Thank You</string>
     <string name="app_launcher_name">Thank You</string>
-    <string name="main_text">Thank you for supporting us!\nDrop us a line at \n hello@simplemobiletools.com,\n we\'d love to hear all your feedback and suggestions.\n\n(Please keep the app installed to avoid seeing the \'Purchase\' dialog and have all app features unlocked)</string>
+    <string name="main_text">感謝您支持我們!\n寫信給我們 \n hello@simplemobiletools.com \n我們非常樂於聽取您所有的反饋和建議\n\n(請一直安裝著這程式以避免看見[購買]對話框，並解鎖應用程式全部功能)</string>
 
     <!-- Settings -->
-    <string name="hide_launcher_icon">Hide the launcher icon</string>
-    <string name="hide_launcher_icon_explanation">To have the launcher icon displayed again, you will have to reinstall the app. Don\'t worry, you won\'t have to pay again.</string>
+    <string name="hide_launcher_icon">在啟動器隱藏圖標</string>
+    <string name="hide_launcher_icon_explanation">想在啟動器再次顯示圖標，你必須重新安裝這程式。不用擔心，你不必再付費。</string>
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">A paid app for people who want to support us, not doing much yet.</string>
+    <string name="app_short_description">這付費程式是給想要支持我們的人，還沒什麼功能。</string>
     <string name="app_long_description">
-        If you like our apps which are free, non-intrusive and have no ads, please consider supporting us in some way. It will be hugely appreciated.
-
-        Please keep the app installed at least for a day, to avoid getting automatically refunded.
-
-        The purpose of this app is just to avoid sporadically seeing the "Donate please" dialog, it might unlock extra features in the future.
-
-        Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
-
-        This app is just one piece of a bigger series of apps. You can find the rest of them at http://www.simplemobiletools.com
+        如果你喜歡我們免費、非侵入性而且無廣告的應用程式，請考慮用某些方式來支持我們。我們會非常感激。
+		
+        請一直安裝著這程式至少一天，避免自動退費。
+		
+        這程式的用除只是避免偶爾看到"請購買"對話框，未來可能用來解鎖額外功能。
+		
+        不包含廣告及非必要的權限，而且完全開放原始碼，並提供自訂顏色。
+		
+        這程式只是一系列眾多應用程式的其中一項，你可以在這發現更多 http://www.simplemobiletools.com
     </string>
 
     <!--
