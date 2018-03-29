@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Jednostavno hvala</string>
+    <string name="app_launcher_name">Hvala</string>
+    <string name="main_text">Hvala Vam na podršci!\nPošaljite nam poruku na \n hello@simplemobiletools.com,\n rado bi čuli Vaše mišljenje i prijedloge.\n\n(Molimo Vas da aplikaciju imate instaliranu kako biste izbjegli dialog \'Kupi\' i imali sve značajke aplikacije otključane)</string>
+
+    <!-- Settings -->
+    <string name="hide_launcher_icon">Sakrij ikonu pokretanja</string>
+    <string name="hide_launcher_icon_explanation">Da bi ikona pokretanja ponovno bila prikazana, morat ćete ponovno instalirati aplikaciju. Ne brinite, nećete morati platiti ponovno.</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Plaćena aplikacija za ljude koji nas žele podržati, a ne čine ništa posebno.</string>
+    <string name="app_long_description">
+        Ako Vam se sviđaju naše aplikacije koje su besplatne, neupadljive i nemaju oglasa, razmotrite opciju da nas podržite na neki način. To će biti iznimno cijenjeno.
+
+        Aplikacija mora biti instalirana najmanje jedan dan, kako bi se izbjegao auomatski povrat sredstava.
+
+        Svrha ove aplikacije je da izbjegnete povremeno gledanje dijaloškog okvira "Doniraj molim", što bi moglo otključati dodatne značajke u budućnosti.
+
+        Ne sadrži oglase ili nepotrebne dozvole. Aplikacije je otvorenog koda, pruža prilagodljive boje.
+
+        Ova je aplikacija samo dio većeg broja aplikacija. Možete pronaći ostatak na http://www.simplemobiletools.com
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>
