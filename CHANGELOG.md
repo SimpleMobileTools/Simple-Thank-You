@@ -1,6 +1,11 @@
 Changelog
 ==========
 
+Version 3.1.0 *(2018-04-05)*
+----------------------------
+
+ * Couple smaller fixes and translation improvements
+
 Version 3.0.3 *(2018-01-24)*
 ----------------------------
 
