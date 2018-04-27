@@ -20,7 +20,7 @@ class MyContentProviderDbHelper private constructor(private val context: Context
 
     companion object {
         private const val DB_NAME = "Commons.db"
-        private const val DB_VERSION = 1
+        private const val DB_VERSION = 2
         private const val TABLE_NAME = "commons_colors"
         private const val THEME_ID = 1    // for now we are storing just 1 theme
 
@@ -29,10 +29,14 @@ class MyContentProviderDbHelper private constructor(private val context: Context
 
     override fun onCreate(db: SQLiteDatabase) {
         db.execSQL("CREATE TABLE $TABLE_NAME ($COL_ID INTEGER PRIMARY KEY AUTOINCREMENT, $COL_TEXT_COLOR INTEGER DEFAULT 0, $COL_BACKGROUND_COLOR INTEGER DEFAULT 0," +
-                " $COL_PRIMARY_COLOR INTEGER DEFAULT 0, $COL_LAST_UPDATED_TS INTEGER DEFAULT 0)")
+                " $COL_PRIMARY_COLOR INTEGER DEFAULT 0, $COL_APP_ICON_COLOR INTEGER DEFAULT 0, $COL_LAST_UPDATED_TS INTEGER DEFAULT 0)")
     }
 
-    override fun onUpgrade(db: SQLiteDatabase, oldVersion: Int, newVersion: Int) {}
+    override fun onUpgrade(db: SQLiteDatabase, oldVersion: Int, newVersion: Int) {
+        if (oldVersion == 1) {
+            db.execSQL("ALTER TABLE $TABLE_NAME ADD COLUMN $COL_APP_ICON_COLOR INTEGER DEFAULT 0")
+        }
+    }
 
     private fun insertDefaultTheme() {
         val resources = context.resources
