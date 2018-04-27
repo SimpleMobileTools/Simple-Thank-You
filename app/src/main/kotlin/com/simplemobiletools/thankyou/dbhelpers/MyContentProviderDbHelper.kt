@@ -18,10 +18,10 @@ class MyContentProviderDbHelper private constructor(private val context: Context
     private val mDb = writableDatabase
 
     companion object {
-        private val DB_NAME = "Commons.db"
-        private val DB_VERSION = 1
-        private val TABLE_NAME = "commons_colors"
-        private val THEME_ID = 1    // for now we are storing just 1 theme
+        private const val DB_NAME = "Commons.db"
+        private const val DB_VERSION = 1
+        private const val TABLE_NAME = "commons_colors"
+        private const val THEME_ID = 1    // for now we are storing just 1 theme
 
         fun newInstance(context: Context) = MyContentProviderDbHelper(context)
     }
@@ -36,7 +36,7 @@ class MyContentProviderDbHelper private constructor(private val context: Context
     private fun insertDefaultTheme() {
         val resources = context.resources
         val theme = SharedTheme(resources.getColor(R.color.theme_dark_text_color), resources.getColor(R.color.theme_dark_background_color),
-                resources.getColor(R.color.color_primary))
+                resources.getColor(R.color.color_primary), resources.getColor(R.color.color_primary))
         insertTheme(theme, mDb)
     }
 
