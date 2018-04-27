@@ -6,6 +6,7 @@ import android.database.Cursor
 import android.database.sqlite.SQLiteDatabase
 import android.database.sqlite.SQLiteOpenHelper
 import com.simplemobiletools.commons.R
+import com.simplemobiletools.commons.helpers.MyContentProvider.Companion.COL_APP_ICON_COLOR
 import com.simplemobiletools.commons.helpers.MyContentProvider.Companion.COL_BACKGROUND_COLOR
 import com.simplemobiletools.commons.helpers.MyContentProvider.Companion.COL_ID
 import com.simplemobiletools.commons.helpers.MyContentProvider.Companion.COL_LAST_UPDATED_TS
@@ -69,7 +70,7 @@ class MyContentProviderDbHelper private constructor(private val context: Context
     }
 
     fun getSharedTheme(): Cursor? {
-        val cols = arrayOf(COL_TEXT_COLOR, COL_BACKGROUND_COLOR, COL_PRIMARY_COLOR, COL_LAST_UPDATED_TS)
+        val cols = arrayOf(COL_TEXT_COLOR, COL_BACKGROUND_COLOR, COL_PRIMARY_COLOR, COL_APP_ICON_COLOR, COL_LAST_UPDATED_TS)
         val selection = "$COL_ID = ?"
         val selectionArgs = arrayOf(THEME_ID.toString())
         return mDb.query(TABLE_NAME, cols, selection, selectionArgs, null, null, null)
