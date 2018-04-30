@@ -1,31 +1,47 @@
 package com.simplemobiletools.thankyou.activities
 
-import android.content.ComponentName
-import android.content.pm.PackageManager
 import android.os.Bundle
 import com.simplemobiletools.commons.dialogs.ConfirmationDialog
 import com.simplemobiletools.commons.extensions.beVisibleIf
+import com.simplemobiletools.commons.extensions.getAppIconColors
+import com.simplemobiletools.commons.extensions.toggleAppIconColor
 import com.simplemobiletools.commons.extensions.updateTextColors
+import com.simplemobiletools.thankyou.BuildConfig
 import com.simplemobiletools.thankyou.R
 import com.simplemobiletools.thankyou.extensions.config
 import kotlinx.android.synthetic.main.activity_settings.*
 import java.util.*
 
 class SettingsActivity : SimpleActivity() {
+    private var storedAppIconColor = 0
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_settings)
+        storeStateVariables()
     }
 
     override fun onResume() {
         super.onResume()
+
+        checkAppIconColorChange(storedAppIconColor, BuildConfig.APPLICATION_ID)
 
         setupCustomizeColors()
         setupUseEnglish()
         setupAvoidWhatsNew()
         setupHideLauncherIcon()
         updateTextColors(settings_holder)
+    }
+
+    override fun onPause() {
+        super.onPause()
+        storeStateVariables()
+    }
+
+    private fun storeStateVariables() {
+        config.apply {
+            storedAppIconColor = appIconColor
+        }
     }
 
     private fun setupCustomizeColors() {
@@ -69,8 +85,9 @@ class SettingsActivity : SimpleActivity() {
         settings_hide_launcher_icon.toggle()
         config.hideLauncherIcon = settings_hide_launcher_icon.isChecked
 
-        val componentName = ComponentName(this, SplashActivity::class.java)
-        val state = if (config.hideLauncherIcon) PackageManager.COMPONENT_ENABLED_STATE_DISABLED else PackageManager.COMPONENT_ENABLED_STATE_ENABLED
-        packageManager.setComponentEnabledSetting(componentName, state, PackageManager.DONT_KILL_APP)
+        val appId = BuildConfig.APPLICATION_ID
+        getAppIconColors().forEachIndexed { index, color ->
+            toggleAppIconColor(appId, index, false)
+        }
     }
 }
