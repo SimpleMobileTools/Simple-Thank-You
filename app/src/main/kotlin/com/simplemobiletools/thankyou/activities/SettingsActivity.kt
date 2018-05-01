@@ -13,35 +13,19 @@ import kotlinx.android.synthetic.main.activity_settings.*
 import java.util.*
 
 class SettingsActivity : SimpleActivity() {
-    private var storedAppIconColor = 0
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_settings)
-        storeStateVariables()
     }
 
     override fun onResume() {
         super.onResume()
-
-        checkAppIconColorChange(storedAppIconColor, BuildConfig.APPLICATION_ID)
 
         setupCustomizeColors()
         setupUseEnglish()
         setupAvoidWhatsNew()
         setupHideLauncherIcon()
         updateTextColors(settings_holder)
-    }
-
-    override fun onPause() {
-        super.onPause()
-        storeStateVariables()
-    }
-
-    private fun storeStateVariables() {
-        config.apply {
-            storedAppIconColor = appIconColor
-        }
     }
 
     private fun setupCustomizeColors() {
