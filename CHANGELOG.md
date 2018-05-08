@@ -1,6 +1,12 @@
 Changelog
 ==========
 
+Version 4.0.0 *(2018-05-08)*
+----------------------------
+
+ * Refreshed the launcher icon appearance
+ * Allow customizing the launcher icon color
+
 Version 3.1.0 *(2018-04-05)*
 ----------------------------
 
