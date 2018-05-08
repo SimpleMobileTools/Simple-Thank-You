@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Simple Thank You</string>
     <string name="app_launcher_name">Obrigado</string>
-    <string name="main_text">Agradecemos a sua ajuda!\nEscreva um e-mail para\nhello@simplemobiletools.com,\npois gostaríamos de saber as suas opiniões e sugestões.\n\n(Mantenha esta aplicação instalada para impedir a exibição do diálogo \'Comprar\' e para ter acesso a todas as funcionalidades da nossas outras aplicações)</string>
+    <string name="main_text">Agradecemos a sua ajuda!\n\nEscreva um e-mail para\nhello@simplemobiletools.com,\npois gostaríamos de saber as suas opiniões e sugestões.\n\n(Mantenha esta aplicação instalada para impedir a exibição do diálogo \'Comprar\' e para ter acesso a todas as funcionalidades da nossas outras aplicações)</string>
 
     <!-- Settings -->
     <string name="hide_launcher_icon">Ocultar ícone</string>
