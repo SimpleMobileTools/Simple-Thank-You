@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Basit Teşekkürler</string>
+    <string name="app_launcher_name">Teşekkürler</string>
+    <string name="main_text">Bizi desteklediğiniz için teşekkürler!\n\nhello@simplemobiletools.com\nadresinden bize bir yazı bırakın,\ntüm geribildirimlerinizi ve önerilerinizi duymak isteriz.\n\n(Lütfen \'Satın Al\' penceresini görmemek ve tüm uygulama özelliklerini kullanmaya devam etmek için uygulamayı yüklü tutun)</string>
+
+    <!-- Settings -->
+    <string name="hide_launcher_icon">Başlatıcı simgesini gizle</string>
+    <string name="hide_launcher_icon_explanation">Başlatıcı simgesinin tekrar görüntülenmesi için uygulamayı yeniden yüklemeniz gerekir. Endişelenmeyin, tekrar ödeme yapmanız gerekmez.</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Bize destek olmak isteyenler için henüz bir şey yapmayan ücretli bir uygulama.</string>
+    <string name="app_long_description">
+        Ücretsiz, rahatsız edici olmayan ve reklamsız uygulamalarımızı beğenirseniz, lütfen bizi bir şekilde desteklemeyi düşünün. Bu oldukça takdir edilecektir.
+
+        Otomatik olarak iade edilmesini önlemek için lütfen uygulamayı en az bir gün boyunca yüklü tutun.
+
+        Bu uygulamanın amacı, sadece "Lütfen bağış yapın" penceresini sürekli görmezden gelmekten kaçınmaktır, gelecekte ekstra özelliklerin kilidini açabilir.
+
+        Reklam veya gereksiz izinler içermez. Tamamen açık kaynaktır, özelleştirilebilir renkler sağlar.
+
+        Bu uygulama, daha büyük bir uygulama serisinden sadece bir parça. Geri kalanı http://www.simplemobiletools.com adresinde bulabilirsiniz
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>
