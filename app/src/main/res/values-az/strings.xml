@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Sadə Təşəkkür</string>
+    <string name="app_launcher_name">Təşəkkürlər</string>
+    <string name="main_text">Bizə dəstək olduğunuz üçün minnətdarıq!\n\nÜrək sözlərinizi buradan söyləyin \n hello@simplemobiletools.com,\n geri dönüş və tövsiyələrinizi eşitmək bizim üçün şərəfdir.\n\n(\'Al\' dialoqunu aradan qaldırmaq və bütün əlavə xüsusiyyətlərdən düzgün bir şəkildə faydalanmaq üçün xahiş edirik tətbiqi cihazınızda yüklü saxlayın.)</string>
+
+    <!-- Settings -->
+    <string name="hide_launcher_icon">Başlatma ikonunu gizlət</string>
+    <string name="hide_launcher_icon_explanation">Başladıcı ikonu yenidən görünən etmək üçün tətbiqi yenidən yükləməlisiniz, amma tətbiqi bir də almağa ehtiyac yoxdur.</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Bizi dəstəkləmək istəyən insanlar üçün ödənişli tətbiq, əlavə heçnə.</string>
+    <string name="app_long_description">
+        If you like our apps which are free, non-intrusive and have no ads, please consider supporting us in some way. It will be hugely appreciated.
+
+        Please keep the app installed at least for a day, to avoid getting automatically refunded.
+
+        The purpose of this app is just to avoid sporadically seeing the "Donate please" dialog, it might unlock extra features in the future.
+
+        Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
+
+        This app is just one piece of a bigger series of apps. You can find the rest of them at http://www.simplemobiletools.com
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>
