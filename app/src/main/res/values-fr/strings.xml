@@ -9,7 +9,7 @@
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Une appli payante pour ceux qui veulent me soutenir. Ne fait rien de spécial.</string>
+    <string name="app_short_description">Une appli payante pour ceux qui veulent me soutenir.</string>
     <string name="app_long_description">
         Si vous aimez nos applications gratuites, non intrusives et sans publicité, vous pouvez nous soutenir en achetant cette appli. Ce sera énormément apprécié.
         
@@ -19,7 +19,7 @@
 
         Ne contient aucune publicité ou autorisation inutile. Elle est entièrement opensource et elle propose de personnaliser les couleurs de l\'appli.
 
-        Cette application est juste le composant d\'une plus grande série d'applications. Vous pouvez retrouver les autres sur http://www.simplemobiletools.com
+        Cette application est juste le composant d\'une plus grande série d'applications. Vous pouvez retrouver les autres sur https://www.simplemobiletools.com
     </string>
 
     <!--

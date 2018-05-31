@@ -9,17 +9,17 @@
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Platená aplikácia pre ľudí, ktorí nás chcú podporiť, veľa zatiaľ toho nerobí.</string>
+    <string name="app_short_description">Platená aplikácia pre ľudí, ktorí nás chcú podporiť.</string>
     <string name="app_long_description">
         Ak máte radi naše aplikácie, ktoré sú bezplatné, nie sú dotieravé a neobsahujú ani reklamy, prosím pouvažujte nad našim podporením. Budeme za to veľmi vďační.
 
-        Prosím ponechajte si aplikáciu nainštalovanú aspoň 1 deň, predídete tak automatickému vráteniu peňazí.
+        Ak máte nainštalovanú túto aplikáciu, nebude sa vám zobrazovať okno "Podporte nás prosím". Taktiež budete môcť použiť Zdieľanú tému, čo znamená, že akonáhle zmeníte niektorú farbu v jednej aplikácií, ostatné sa zmenia tiež. Zdieľané farby budú automagicky aplikované aj na novo nainštalované aplikácie z tejto skupiny.
 
-        Úlohou tejto aplikácie je zatiaľ iba predídenie zobrazovania dialógu "Podporte nás prosím", v budúcnosti bude možno odomykať dodatočné funkcie.
+        V budúcnosti bude možno odomykať dodatočné funkcie. Prosím ponechajte si aplikáciu nainštalovanú aspoň 1 deň, predídete tak automatickému vráteniu peňazí.
 
         Neobsahuje žiadne reklamy a nepotrebné oprávnenia. Je opensource, poskytuje možnosť zmeny farieb.
 
-        Táto aplikácia je iba jednou zo skupiny aplikácií. Ostatné viete nájsť na http://www.simplemobiletools.com
+        Táto aplikácia je iba jednou zo skupiny aplikácií. Ostatné viete nájsť na https://www.simplemobiletools.com
     </string>
 
     <!--

@@ -1,9 +1,9 @@
 If you like our apps which are free, non-intrusive and have no ads, please consider supporting us in some way. It will be hugely appreciated.
 
-Please keep the app installed at least for a day, to avoid getting automatically refunded.
+Having this app installed will prevent the displaying of a "Donate please" dialog. Other than that, it also allows using a Shared Theme, which means that as soon as you change a color in one app, all other apps will be updated. Newly installed apps from the suite will automagically receive the shared colors too.
 
-The purpose of this app is just to avoid sporadically seeing the "Donate please" dialog, it might unlock extra features in the future.
+It might unlock more extra features in the future. Please keep the app installed at least for a day, to avoid getting automatically refunded.
 
 Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
 
-This app is just one piece of a bigger series of apps. You can find the rest of them at http://www.simplemobiletools.com
+This app is just one piece of a bigger series of apps. You can find the rest of them at https://www.simplemobiletools.com

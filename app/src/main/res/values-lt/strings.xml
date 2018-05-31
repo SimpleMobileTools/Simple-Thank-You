@@ -11,7 +11,7 @@
     <!-- Short description has to have less than 80 chars -->
     <string name="app_short_description">Mokama programėlė žmonėms, kurie nori mus paremti, nieko neveikiant.</string>
     <string name="app_long_description">
-       Jei jums patinka mūsų programėlės, kurios yra laisvos, neklaidinančios ir neturinčios skelbimų, prašome apsvarstyti, ar palaikysite mus tokiu būdu. Tai bus labai vertinama.
+        Jei jums patinka mūsų programėlės, kurios yra laisvos, neklaidinančios ir neturinčios skelbimų, prašome apsvarstyti, ar palaikysite mus tokiu būdu. Tai bus labai vertinama.
 
         Nepamirškite, laikyti programėlės įdiegtos mažiausiai vieną dieną, kad nebūtų automatiškai grąžinti pinigai.
 
@@ -19,7 +19,7 @@
 
         CNeturi reklamų ar nereikalingų leidimų. Programėlė visiškai atviro kodo, yra galimybė keisti spalvas.
 
-        Ši programėle yra viena iš keletos mūsų programėlių. Likusias Jūs galite rasti čia http://www.simplemobiletools.com
+        Ši programėle yra viena iš keletos mūsų programėlių. Likusias Jūs galite rasti čia https://www.simplemobiletools.com
     </string>
 
     <!--

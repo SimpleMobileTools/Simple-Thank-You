@@ -9,7 +9,7 @@
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Plaćena aplikacija za ljude koji nas žele podržati, a ne čine ništa posebno.</string>
+    <string name="app_short_description">Plaćena aplikacija za ljude koji nas žele podržati.</string>
     <string name="app_long_description">
         Ako Vam se sviđaju naše aplikacije koje su besplatne, neupadljive i nemaju oglasa, razmotrite opciju da nas podržite na neki način. To će biti iznimno cijenjeno.
 
@@ -19,7 +19,7 @@
 
         Ne sadrži oglase ili nepotrebne dozvole. Aplikacije je otvorenog koda, pruža prilagodljive boje.
 
-        Ova je aplikacija samo dio većeg broja aplikacija. Možete pronaći ostatak na http://www.simplemobiletools.com
+        Ova je aplikacija samo dio većeg broja aplikacija. Možete pronaći ostatak na https://www.simplemobiletools.com
     </string>
 
     <!--

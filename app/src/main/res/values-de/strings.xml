@@ -9,7 +9,7 @@
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Eine kostenpflichtige App für alle, die uns unterstützen wollen.</string>
+    <string name="app_short_description">Eine kostenpflichtige App für alle.</string>
     <string name="app_long_description">
         Wenn du unsere Apps magst, welche kostenlos, nicht aufdringlich und frei von Werbung sind, überlege bitte uns zu unterstützen. Wir schätzen das unglaublich!
 
@@ -19,7 +19,7 @@
 
         Beinhaltet keine Werbung oder unnötige Berechtigungen. Sie ist komplett Open Source, alle verwendeten Farben sind anpassbar.
 
-        Diese App ist nur eine aus einer größeren Serie von schlichten Apps. Der Rest davon findet sich auf http://www.simplemobiletools.com
+        Diese App ist nur eine aus einer größeren Serie von schlichten Apps. Der Rest davon findet sich auf https://www.simplemobiletools.com
     </string>
 
     <!--
