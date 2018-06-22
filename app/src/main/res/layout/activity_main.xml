@@ -9,7 +9,7 @@
         android:id="@+id/text"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:autoLink="email"
+        android:autoLink="email|web"
         android:gravity="center_horizontal"
         android:lineSpacingExtra="3dp"
         android:padding="40dp"

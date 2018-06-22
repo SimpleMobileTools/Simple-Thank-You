@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Simple Thank You</string>
     <string name="app_launcher_name">Tack</string>
-    <string name="main_text">Tack för att du stödjer oss!\n\nSkriv till oss på \n hello@simplemobiletools.com,\n vi vill gärna höra alla dina synpunkter och förslag.\n\n(Behåll appen installerad för att låsa upp alla appfunktioner och hindra dialogrutan \'Köp\' från att visas)</string>
+    <string name="main_text">Tack för att du stödjer oss!\n\nSkriv till oss på \n hello@simplemobiletools.com,\n vi vill gärna höra alla dina synpunkter och förslag.\n\nIn case you want to support us even more, there are multiple other ways of donating at https://simplemobiletools.com/donate\n\n(Behåll appen installerad för att låsa upp alla appfunktioner och hindra dialogrutan \'Köp\' från att visas)</string>
 
     <!-- Settings -->
     <string name="hide_launcher_icon">Dölj appens ikon</string>

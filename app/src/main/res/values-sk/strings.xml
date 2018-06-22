@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Jednoduché ďakujem</string>
     <string name="app_launcher_name">Ďakujem</string>
-    <string name="main_text">Ďakujeme za vašu podporu!\n\nNapíšte nám na \n hello@simplemobiletools.com,\n chceme počuť každú spätnú väzbu a odporúčania.\n\n(Prosím ponechajte si aplikáciu nainštalovanú, aby sa vám nezobrazoval dialóg \'Podporte nás\' a mali všetky funkcie aplikácií odomknuté)</string>
+    <string name="main_text">Ďakujeme za vašu podporu!\n\nNapíšte nám na \n hello@simplemobiletools.com,\n chceme počuť každú spätnú väzbu a odporúčania.\n\nAk nás chcete podporiť ešte niečím navyše, viete nájsť ďalšie spôsoby finančnej podpory na https://simplemobiletools.com/donate\n\n(Prosím ponechajte si aplikáciu nainštalovanú, aby sa vám nezobrazoval dialóg \'Podporte nás\' a mali všetky funkcie aplikácií odomknuté)</string>
 
     <!-- Settings -->
     <string name="hide_launcher_icon">Skryť spúšťaciu ikonku</string>
