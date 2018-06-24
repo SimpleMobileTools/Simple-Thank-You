@@ -1,6 +1,11 @@
 Changelog
 ==========
 
+Version 4.0.1 *(2018-06-24)*
+----------------------------
+
+ * Added a link with some extra donating options at the app main screen text
+
 Version 4.0.0 *(2018-05-08)*
 ----------------------------
 
