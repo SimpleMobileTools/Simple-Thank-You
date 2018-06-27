@@ -9,7 +9,7 @@
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Platená aplikácia pre ľudí, ktorí nás chcú podporiť.</string>
+    <string name="app_short_description">Platená aplikácia pre ľudí, ktorí chcú podporiť Simple Mobile Tools.</string>
     <string name="app_long_description">
         Ak máte radi naše aplikácie, ktoré sú bezplatné, nie sú dotieravé a neobsahujú ani reklamy, prosím pouvažujte nad našim podporením. Budeme za to veľmi vďační.
 
