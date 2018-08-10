@@ -1,6 +1,11 @@
 Changelog
 ==========
 
+Version 4.1.0 *(2018-08-10)*
+----------------------------
+
+ * Removed the Donate link to avoid violating Googles Purchase policy
+
 Version 4.0.1 *(2018-06-24)*
 ----------------------------
 
