@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Jednostavno hvala</string>
     <string name="app_launcher_name">Hvala</string>
-    <string name="main_text">Hvala Vam na podršci!\n\nPošaljite nam poruku na \n hello@simplemobiletools.com,\n rado bi čuli Vaše mišljenje i prijedloge.\n\nIn case you want to support us even more, there are multiple other ways of donating at https://simplemobiletools.com/donate\n\n(Molimo Vas da aplikaciju imate instaliranu kako biste izbjegli dialog \'Kupi\' i imali sve značajke aplikacije otključane)</string>
+    <string name="main_text">Hvala Vam na podršci!\n\nPošaljite nam poruku na \n hello@simplemobiletools.com,\n rado bi čuli Vaše mišljenje i prijedloge.\n\n(Molimo Vas da aplikaciju imate instaliranu kako biste izbjegli dialog \'Kupi\' i imali sve značajke aplikacije otključane)</string>
 
     <!-- Settings -->
     <string name="hide_launcher_icon">Sakrij ikonu pokretanja</string>

@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Basit Teşekkürler</string>
     <string name="app_launcher_name">Teşekkürler</string>
-    <string name="main_text">Bizi desteklediğiniz için teşekkürler!\n\nhello@simplemobiletools.com\nadresinden bize bir yazı bırakın,\ntüm geribildirimlerinizi ve önerilerinizi duymak isteriz.\n\nIn case you want to support us even more, there are multiple other ways of donating at https://simplemobiletools.com/donate\n\n(Lütfen \'Satın Al\' penceresini görmemek ve tüm uygulama özelliklerini kullanmaya devam etmek için uygulamayı yüklü tutun)</string>
+    <string name="main_text">Bizi desteklediğiniz için teşekkürler!\n\nhello@simplemobiletools.com\nadresinden bize bir yazı bırakın,\ntüm geribildirimlerinizi ve önerilerinizi duymak isteriz.\n\n(Lütfen \'Satın Al\' penceresini görmemek ve tüm uygulama özelliklerini kullanmaya devam etmek için uygulamayı yüklü tutun)</string>
 
     <!-- Settings -->
     <string name="hide_launcher_icon">Başlatıcı simgesini gizle</string>

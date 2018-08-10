@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Simple Thank You</string>
     <string name="app_launcher_name">Thank You</string>
-    <string name="main_text">感謝您支持我們!\n寫信給我們 \n\n hello@simplemobiletools.com \n我們非常樂於聽取您所有的反饋和建議\n\n如果您想要更進一步支持我們，這裡有多種其它捐款方式 https://simplemobiletools.com/donate \n\n(請一直安裝著這程式以避免看見[購買]對話框，並解鎖應用程式全部功能)</string>
+    <string name="main_text">感謝您支持我們!\n寫信給我們 \n\n hello@simplemobiletools.com \n我們非常樂於聽取您所有的反饋和建議\n\n(請一直安裝著這程式以避免看見[購買]對話框，並解鎖應用程式全部功能)</string>
 
     <!-- Settings -->
     <string name="hide_launcher_icon">在啟動器隱藏圖標</string>

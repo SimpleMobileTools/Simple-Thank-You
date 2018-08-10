@@ -1,8 +1,7 @@
 <resources>
     <string name="app_name">Simple Thank You</string>
     <string name="app_launcher_name">Thank You</string>
-    <string name="main_text">우리를 지원해 주셔서 감사합니다.\n\n아래 링크를 이용해서 당신의 의견과 제안내용을 보내주세요.\n hello@simplemobiletools.com \n우리는 당신의 의견과 제안을 듣는 것을 종아 합니다.\nSimple Thank You 런처 아이콘은 설정 메뉴의 옵션을 이용해서 숨길 수 있습니다.\n\nIn case you want to support us even more, there are multiple other ways of donating at https://simplemobiletools.com/donate\n\n(애플리케이션을 설치 한 상태로 유지해야 잠금 해제된 기능이 이용가능하고, \'구매\' 다이얼로그가 다시 나타나지 않습니다.)
-</string>
+    <string name="main_text">우리를 지원해 주셔서 감사합니다.\n\n아래 링크를 이용해서 당신의 의견과 제안내용을 보내주세요.\n hello@simplemobiletools.com \n우리는 당신의 의견과 제안을 듣는 것을 종아 합니다.\nSimple Thank You 런처 아이콘은 설정 메뉴의 옵션을 이용해서 숨길 수 있습니다.\n\n(애플리케이션을 설치 한 상태로 유지해야 잠금 해제된 기능이 이용가능하고, \'구매\' 다이얼로그가 다시 나타나지 않습니다.)</string>
 
     <!-- Settings -->
     <string name="hide_launcher_icon">런처 아이콘 숨김</string>

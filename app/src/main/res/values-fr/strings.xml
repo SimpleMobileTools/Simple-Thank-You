@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Un petit Merci</string>
     <string name="app_launcher_name">Merci</string>
-    <string name="main_text">Merci de nous soutenir !\n\nÉcrivez moi un petit message à l\'adresse \n hello@simplemobiletools.com,\n nous aimerions connaître votre avis et vos suggestions.\n\nIn case you want to support us even more, there are multiple other ways of donating at https://simplemobiletools.com/donate\n\n(Veuillez conserver l\'appli installée pour éviter de voir apparaître la boîte de dialogue \'Achat\' et également pour avoir accès aux fonctionnalités déverrouillées par cette appli)</string>
+    <string name="main_text">Merci de nous soutenir !\n\nÉcrivez moi un petit message à l\'adresse \n hello@simplemobiletools.com,\n nous aimerions connaître votre avis et vos suggestions.\n\n(Veuillez conserver l\'appli installée pour éviter de voir apparaître la boîte de dialogue \'Achat\' et également pour avoir accès aux fonctionnalités déverrouillées par cette appli)</string>
 
     <!-- Settings -->
     <string name="hide_launcher_icon">Masquer l\'icône de lancement</string>
