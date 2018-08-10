@@ -49,7 +49,7 @@ class MainActivity : SimpleActivity() {
                 FAQItem(R.string.faq_2_title_commons, R.string.faq_2_text_commons)
         )
 
-        startAboutActivity(R.string.app_name, 0, BuildConfig.VERSION_NAME, faqItems)
+        startAboutActivity(R.string.app_name, 0, BuildConfig.VERSION_NAME, faqItems, false)
     }
 
     private fun checkWhatsNewDialog() {

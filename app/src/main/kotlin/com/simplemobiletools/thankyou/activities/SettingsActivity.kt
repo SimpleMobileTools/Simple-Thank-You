@@ -71,7 +71,7 @@ class SettingsActivity : SimpleActivity() {
 
         val appId = BuildConfig.APPLICATION_ID
         getAppIconColors().forEachIndexed { index, color ->
-            toggleAppIconColor(appId, index, false)
+            toggleAppIconColor(appId, index, color, false)
         }
     }
 }
