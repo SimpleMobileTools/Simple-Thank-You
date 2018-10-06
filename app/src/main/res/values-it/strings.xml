@@ -1,25 +1,25 @@
 <resources>
     <string name="app_name">Simple Thank You</string>
-    <string name="app_launcher_name">Thank You</string>
-    <string name="main_text">Thank you for supporting us!\n\nDrop us a line at \n hello@simplemobiletools.com,\n we\'d love to hear all your feedback and suggestions.\n\n(Please keep the app installed to avoid seeing the \'Purchase\' dialog and have all app features unlocked)</string>
+    <string name="app_launcher_name">Grazie</string>
+    <string name="main_text">Grazie per supportarci!\n\nLasciaci un pensiero a \n hello@simplemobiletools.com,\n saremo felici di ascoltare le tue opinioni e suggerimenti.\n\n(Tenere questa applicazione installata per evitare di vedere il dialogo \'Compra\' e continuare ad avere tutte le funzionalità sbloccate)</string>
 
     <!-- Settings -->
-    <string name="hide_launcher_icon">Hide the launcher icon</string>
-    <string name="hide_launcher_icon_explanation">To have the launcher icon displayed again, you will have to reinstall the app. Don\'t worry, you won\'t have to pay again.</string>
+    <string name="hide_launcher_icon">Nascondi l\'icona nel lanciatore</string>
+    <string name="hide_launcher_icon_explanation">Per fare in modo che l\'icona venga di nuovo visualizzata nel lanciatore, è necessario reinstallare l\'applicazione. Non preoccuparti, non dovrai riacquistarla.</string>
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">A paid app for people who want to support Simple Mobile Tools.</string>
+    <string name="app_short_description">Un\'applicazione a pagamento per chi vuole supportare Simple Mobile Tools.</string>
     <string name="app_long_description">
-        If you like our apps which are free, non-intrusive and have no ads, please consider supporting us in some way. It will be hugely appreciated.
+        Se ti piaccono le applicazioni gratuite, non intrusive e senza pubblicità, considera di supportarci in qualche modo. Verrà molto apprezzato.
 
-        Having this app installed will prevent the displaying of a "Donate please" dialog. Other than that, it also allows using a Shared Theme, which means that as soon as you change a color in one app, all other apps will be updated. Newly installed apps from the suite will automagically receive the shared colors too.
+        Avere questa applicazione installate previene la visualizzazione del dialogo "Dona". Oltre a questo, potrai utilizzare i temi condivisi, il che significa che se tu cambi il colore in un'applicazione, anche le altre applicazioni verranno aggiornate. Le nuove applicazioni installate della serie automagicamente utilizzeranno il tema condiviso.
 
-        It might unlock more extra features in the future. Please keep the app installed at least for a day, to avoid getting automatically refunded.
+        Potrebbe sbloccare funzionalità aggiuntive in futuro. Si consiglia di mantenere quest\'applicazione per qualche giorno, per evitare il rimborso automatico.
 
-        Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
+        Non contiene pubblicità o permessi non necessari. È completamente open source, fornisce colori personalizzabili.
 
-        This app is just one piece of a bigger series of apps. You can find the rest of them at https://www.simplemobiletools.com
+        Questa applicazione fa parte di una serie. Puoi trovare le altre su https://www.simplemobiletools.com
     </string>
 
     <!--
