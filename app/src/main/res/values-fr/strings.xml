@@ -1,25 +1,25 @@
 <resources>
-    <string name="app_name">Un petit Merci</string>
+    <string name="app_name">Simple Thank You</string>
     <string name="app_launcher_name">Merci</string>
-    <string name="main_text">Merci de nous soutenir !\n\nÉcrivez moi un petit message à l\'adresse \n hello@simplemobiletools.com,\n nous aimerions connaître votre avis et vos suggestions.\n\n(Veuillez conserver l\'appli installée pour éviter de voir apparaître la boîte de dialogue \'Achat\' et également pour avoir accès aux fonctionnalités déverrouillées par cette appli)</string>
+    <string name="main_text">Merci pour votre soutien !\n\nÉcrivez-nous un petit message à l\'adresse \n hello@simplemobiletools.com,\n nous aimerions connaître votre avis et vos suggestions.\n\n(Veuillez conserver l\'application installée pour éviter l\'affichage de la boîte de dialogue \"Acheter Simple Thank You\" et avoir accès aux fonctionnalités déverrouillées par cette application)</string>
 
     <!-- Settings -->
-    <string name="hide_launcher_icon">Masquer l\'icône de lancement</string>
-    <string name="hide_launcher_icon_explanation">Pour que l\'icône de lancement s\'affiche à nouveau, vous devrez réinstaller l\'appli. Ne vous inquiétez pas, vous ne devrez pas repayer.</string>
+    <string name="hide_launcher_icon">Masquer l\'icône de l\'application</string>
+    <string name="hide_launcher_icon_explanation">Pour que l\'icône de l\'application s\'affiche de nouveau dans votre lanceur d\'applications, vous devrez réinstaller l\'application. Aucune inquiétude, vous ne devrez pas effectuer un nouveau paiement.</string>
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Une appli payante pour ceux qui veulent me soutenir.</string>
+    <string name="app_short_description">Une application payante pour ceux qui veulent soutenir Simple Mobile Tools.</string>
     <string name="app_long_description">
-        Si vous aimez nos applications gratuites, non intrusives et sans publicité, vous pouvez nous soutenir en achetant cette appli. Ce sera énormément apprécié.
+        Si vous aimez nos application gratuites, non intrusives et sans publicité, vous pouvez nous soutenir en achetant cette application. Ce sera énormément apprécié.
         
-        Veuillez conserver l\'appli installée au moins pendant une journée, pour éviter d\'être automatiquement remboursé.
+        Veuillez conserver l\'application installée au moins pendant une journée, pour éviter d\'être automatiquement remboursé.
 
-        Le but de cette application est juste d\'éviter de voir sporadiquement un bouton \"Vous pouvez faire un don\". Elle pourra débloquer des fonctionnalités supplémentaires à l\'avenir.
+        Le but de cette application est simplement d\'éviter l\'affichage du bouton \"Vous pouvez faire un don\". Elle pourra débloquer des fonctionnalités supplémentaires à l\'avenir.
 
-        Ne contient aucune publicité ou autorisation inutile. Elle est entièrement opensource et elle propose de personnaliser les couleurs de l\'appli.
-
-        Cette application est juste le composant d\'une plus grande série d\'applications. Vous pouvez retrouver les autres sur https://www.simplemobiletools.com
+        L\'application ne contient ni publicité, ni autorisation inutile. Elle est totalement opensource et est également fournie avec des couleurs personnalisables.
+          
+        Cette application fait partie d\'une plus grande suite. Vous pouvez trouver les autres applications sur https://www.simplemobiletools.com
     </string>
 
     <!--
