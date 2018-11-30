@@ -8,10 +8,10 @@ android {
 
     defaultConfig {
         applicationId "com.simplemobiletools.thankyou"
-        minSdkVersion 16
+        minSdkVersion 21
         targetSdkVersion 28
         versionCode 11
-        versionName "4.1.0"
+        versionName "5.0.0"
         setProperty("archivesBaseName", "thank-you")
     }
 
@@ -41,7 +41,7 @@ android {
 }
 
 dependencies {
-    implementation 'com.simplemobiletools:commons:4.8.8'
+    implementation 'com.simplemobiletools:commons:5.5.1'
 }
 
 Properties props = new Properties()
