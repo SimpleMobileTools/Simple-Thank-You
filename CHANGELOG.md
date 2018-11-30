@@ -1,6 +1,11 @@
 Changelog
 ==========
 
+Version 5.0.0 *(2018-11-30)*
+----------------------------
+
+ * Increased min required Android OS version to 5
+
 Version 4.1.0 *(2018-08-10)*
 ----------------------------
 
