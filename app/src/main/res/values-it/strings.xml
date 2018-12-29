@@ -1,25 +1,25 @@
 <resources>
-    <string name="app_name">Simple Thank You</string>
+    <string name="app_name">Semplice Ringraziamento</string>
     <string name="app_launcher_name">Grazie</string>
-    <string name="main_text">Grazie per supportarci!\n\nLasciaci un pensiero a \n hello@simplemobiletools.com,\n saremo felici di ascoltare le tue opinioni e suggerimenti.\n\n(Tenere questa applicazione installata per evitare di vedere il dialogo \'Compra\' e continuare ad avere tutte le funzionalità sbloccate)</string>
+    <string name="main_text">Grazie per supportarci!\n\nSi può lasciare un pensiero a \n hello@simplemobiletools.com,\n saremo felici di ascoltare le opinioni e suggerimenti.\n\n(Tenere questa applicazione installata per evitare di vedere il dialogo \'Compra\' e continuare ad avere tutte le funzionalità sbloccate)</string>
 
     <!-- Settings -->
     <string name="hide_launcher_icon">Nascondi l\'icona nel lanciatore</string>
-    <string name="hide_launcher_icon_explanation">Per fare in modo che l\'icona venga di nuovo visualizzata nel lanciatore, è necessario reinstallare l\'applicazione. Non preoccuparti, non dovrai riacquistarla.</string>
+    <string name="hide_launcher_icon_explanation">Per fare in modo che l\'icona venga di nuovo visualizzata nel lanciatore, è necessario reinstallare l\'applicazione. Non preoccuparti, non si dovrà riacquistarla.</string>
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
     <string name="app_short_description">Un\'applicazione a pagamento per chi vuole supportare Simple Mobile Tools.</string>
     <string name="app_long_description">
-        Se ti piaccono le applicazioni gratuite, non intrusive e senza pubblicità, considera di supportarci in qualche modo. Verrà molto apprezzato.
+        Se piaccono le applicazioni gratuite, non intrusive e senza pubblicità, si può considerare di supportarci in qualche modo. Verrà molto apprezzato.
 
-        Avere questa applicazione installate previene la visualizzazione del dialogo "Dona". Oltre a questo, potrai utilizzare i temi condivisi, il che significa che se tu cambi il colore in un\'applicazione, anche le altre applicazioni verranno aggiornate. Le nuove applicazioni installate della serie automagicamente utilizzeranno il tema condiviso.
+        Avere questa applicazione installata impedisce la visualizzazione del dialogo "Dona". Oltre a questo, potrai utilizzare i temi condivisi, il che significa che se si cambia cambi il colore in un\'applicazione, anche le altre applicazioni verranno aggiornate. Le nuove applicazioni installate della serie automagicamente utilizzeranno il tema condiviso.
 
         Potrebbe sbloccare funzionalità aggiuntive in futuro. Si consiglia di mantenere quest\'applicazione per qualche giorno, per evitare il rimborso automatico.
 
-        Non contiene pubblicità o permessi non necessari. È completamente open source, fornisce colori personalizzabili.
+        L\'applicazione non contiene pubblicità o permessi non necessari; è completamente opensource e la si può personalizzare con i propri colori preferiti.
 
-        Questa applicazione fa parte di una serie. Puoi trovare le altre su https://www.simplemobiletools.com
+        Questa è solamente una delle tante applicazioni della serie Simple Mobile Tools. Si possono trovare le altre su https://www.simplemobiletools.com
     </string>
 
     <!--
