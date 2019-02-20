@@ -9,9 +9,9 @@ The purpose of this app is just to avoid sporadically seeing the "Donate please"
 
 Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
 
-This app is just one piece of a bigger series of apps. You can find the rest of them at http://www.simplemobiletools.com
+This app is just one piece of a bigger series of apps. You can find the rest of them at https://www.simplemobiletools.com
 
-<a href='https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou'><img src='http://simplemobiletools.github.io/assets/public/google-play.png' alt='Get it on Google Play' height=45/></a>
+<a href='https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou'><img src='https://simplemobiletools.com/assets/images/google-play.png' alt='Get it on Google Play' height=45/></a>
 
 <div style="display:flex;">
 <img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/app.png" width="30%">
