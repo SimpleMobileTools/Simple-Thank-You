@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Simple Thank You</string>
+    <string name="app_launcher_name">Terima Kasih</string>
+    <string name="main_text">Terima kasih telah mendukung kami!\n\nJangan ragu untuk menghubungi kami di \n hello@simplemobiletools.com,\n kami akan sangat senang bisa membaca semua umpanbalik dan saran dari anda.\n\n(Biarkan aplikasi tetap terpasang untuk menghindari dialog \'Beli\' dan terus menikmati semua fitur yang ada)</string>
+
+    <!-- Settings -->
+    <string name="hide_launcher_icon">Sembunyikan ikon launcher</string>
+    <string name="hide_launcher_icon_explanation">Untuk menampilkan lagi ikon launcher, anda harus memasang ulang aplikasi. Jangan khawatir, anda tidak perlu membelinya lagi.</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Aplikasi berbayar untuk kalian yang ingin mendukung Simple Mobile Tools.</string>
+    <string name="app_long_description">
+        Jika anda menyukai aplikasi gratis kami, yang sederhana dan tanpa iklan, jangan ragu untuk memberi dukungan. Kami akan sangat menghargainya.
+
+        Membiarkan aplikasi tetap terpasang akan mencegah ditampilkannya dialog "Donasi". Alasan lainnya, anda bisa menggunakan Tema Bersama, yang artinya saat anda mengganti warna salah satu aplikasi, semua aplikasi lainnya juga akan berubah warnanya. Aplikasi yang baru dipasang juga akan secara otomatis menyesuaikan warnanya dengan aplikasi yang sudah ada.
+
+        Ada kemungkinan membuka lebih banyak fitur di masa depan. Biarkan aplikasi tetap terpasang paling tidak satu hari penuh, untuk menghindari dibatalkannya pembelian dan pengembalian dana secara otomatis.
+
+        Sama sekali tidak berisi iklan dan tidak membutuhkan perizinan yang tidak perlu. Sepenuhnya bersumber terbuka, dengan warna yang bisa disesuaikan.
+
+        Aplikasi ini hanya salah satu bagian dari rangkaian aplikasi yang lebih besar. Anda bisa menemukan yang lainnya di https://www.simplemobiletools.com
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>
