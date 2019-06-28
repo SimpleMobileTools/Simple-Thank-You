@@ -9,7 +9,7 @@
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Płatna i obecnie bezfunkcyjna aplikacja dla osób, które chcą nas wesprzeć.</string>
+    <string name="app_short_description">Thank you for supporting us!</string>
     <string name="app_long_description">
         Jeżeli lubisz nasze aplikacje, które są darmowe, nieinwazyjne oraz nie zawierają reklam, prosimy o wsparcie nas w ten sposób.
 

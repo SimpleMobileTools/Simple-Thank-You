@@ -9,7 +9,7 @@
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Plaćena aplikacija za ljude koji nas žele podržati.</string>
+    <string name="app_short_description">Thank you for supporting us!</string>
     <string name="app_long_description">
         Ako Vam se sviđaju naše aplikacije koje su besplatne, neupadljive i nemaju oglasa, razmotrite opciju da nas podržite na neki način. To će biti iznimno cijenjeno.
 

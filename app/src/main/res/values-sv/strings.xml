@@ -9,7 +9,7 @@
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">En betalapp för personer som vill stödja oss, gör inte så mycket ännu.</string>
+    <string name="app_short_description">Thank you for supporting us!</string>
     <string name="app_long_description">
         Om du gillar våra appar som är gratis, inte är påträngande och inte innehåller reklam, överväg att stödja oss på något sätt. Det kommer att uppskattas enormt.
 

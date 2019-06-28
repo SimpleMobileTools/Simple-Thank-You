@@ -9,7 +9,7 @@
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Une application payante pour ceux qui veulent soutenir Simple Mobile Tools.</string>
+    <string name="app_short_description">Thank you for supporting us!</string>
     <string name="app_long_description">
         Si vous aimez nos application gratuites, non intrusives et sans publicité, vous pouvez nous soutenir en achetant cette application. Ce sera énormément apprécié.
         

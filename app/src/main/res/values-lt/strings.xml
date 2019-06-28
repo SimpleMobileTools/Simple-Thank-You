@@ -9,7 +9,7 @@
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Mokama programėlė žmonėms, kurie nori mus paremti, nieko neveikiant.</string>
+    <string name="app_short_description">Thank you for supporting us!</string>
     <string name="app_long_description">
         Jei jums patinka mūsų programėlės, kurios yra laisvos, neklaidinančios ir neturinčios skelbimų, prašome apsvarstyti, ar palaikysite mus tokiu būdu. Tai bus labai vertinama.
 

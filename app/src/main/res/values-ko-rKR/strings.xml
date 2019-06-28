@@ -9,7 +9,7 @@
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">우리의 개발을 돕고 싶어하는 사람을 위한 유료애플리케이션 이지만, 아직 많이 참여하지 않았습니다.</string>
+    <string name="app_short_description">Thank you for supporting us!</string>
     <string name="app_long_description">
         무료이면서 광고가 없는 우리 애플리케이션이 마음에 드신다면, 우리를 지원해 주세요. 그렇게 해주신다면 정말로 감사할 것 같습니다.
 

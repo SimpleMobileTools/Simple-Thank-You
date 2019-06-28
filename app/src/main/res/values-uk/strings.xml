@@ -9,7 +9,7 @@
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Платний додаток для тих, хто бажає підтримати Simple Mobile Tools.</string>
+    <string name="app_short_description">Thank you for supporting us!</string>
     <string name="app_long_description">
         Якщо вам подобаються наші додатки, які є безкоштовними, неінструктивними і не містять реклами, будь ласка, підтримайте нас у зручний для вас спосіб. Така підтримка для нас дуже важлива.
 
