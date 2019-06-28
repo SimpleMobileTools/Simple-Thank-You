@@ -1,21 +1,21 @@
 <resources>
     <string name="app_name">Simple Thank You</string>
     <string name="app_launcher_name">Thank You</string>
-    <string name="main_text">Hartelijk dank voor het steunen van Simple Mobile Tools!\n\nNeem even contact met ons op via\nhello@simplemobiletools.com,\n we stellen alle feedback en suggesties erg op prijs.\n\n(Houd deze app geïnstalleerd om alle functies te ontgrendelen en om te voorkomen dat het venster \'Kopen\' wordt getoond)</string>
+    <string name="main_text">Hartelijk dank voor het steunen van Simple Mobile Tools!\n\nNeem even contact met ons op via\nhello@simplemobiletools.com,\n we stellen alle feedback en suggesties erg op prijs.\n\n(Houd deze app geÃ¯nstalleerd om alle functies te ontgrendelen en om te voorkomen dat het venster \'Kopen\' wordt getoond)</string>
 
     <!-- Settings -->
     <string name="hide_launcher_icon">Launcher-icoon verbergen</string>
-    <string name="hide_launcher_icon_explanation">Om het launcher-icoon weer te tonen, deïnstalleer en herinstalleer de app. Wees niet bang, betalen hoeft maar een keer.</string>
+    <string name="hide_launcher_icon_explanation">Om het launcher-icoon weer te tonen, deÃ¯nstalleer en herinstalleer de app. Wees niet bang, betalen hoeft maar een keer.</string>
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Een betaalde app voor mensen die Simple Mobile Tools willen steunen.</string>
+    <string name="app_short_description">Thank you for supporting us!</string>
     <string name="app_long_description">
         Door deze app aan te schaffen kunt u de ontwikkeling van onze apps steunen. Dit zou enorm op prijs worden gesteld.
 
-        Deze app zal voorkomen dat het venster \'Doneren\' wordt getoond. Verder geeft het de mogelijkheid om een gedeeld thema te gebruiken, wat betekent dat kleuraanpassingen in de ene app zullen worden doorgevoerd in de andere apps. Ook nieuw geïnstalleerde apps zullen deze kleuren automatisch ontvangen.
+        Deze app zal voorkomen dat het venster \'Doneren\' wordt getoond. Verder geeft het de mogelijkheid om een gedeeld thema te gebruiken, wat betekent dat kleuraanpassingen in de ene app zullen worden doorgevoerd in de andere apps. Ook nieuw geÃ¯nstalleerde apps zullen deze kleuren automatisch ontvangen.
 
-        Mogelijk zal deze app extra functies in apps ontgrendelen. Houd de app minstens een dag geïnstalleerd om te voorkomen dat de aanschaf automatisch ongedaan wordt gemaakt.
+        Mogelijk zal deze app extra functies in apps ontgrendelen. Houd de app minstens een dag geÃ¯nstalleerd om te voorkomen dat de aanschaf automatisch ongedaan wordt gemaakt.
 
         Bevat geen advertenties of onnodige machtigingen. Volledig open-source. Kleuren van de app kunnen worden aangepast.
 
