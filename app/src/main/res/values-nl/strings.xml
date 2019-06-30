@@ -9,7 +9,7 @@
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Thank you for supporting us!</string>
+    <string name="app_short_description">Hartelijk dank voor uw steun!</string>
     <string name="app_long_description">
         Door deze app aan te schaffen kunt u de ontwikkeling van onze apps steunen. Dit zou enorm op prijs worden gesteld.
 
