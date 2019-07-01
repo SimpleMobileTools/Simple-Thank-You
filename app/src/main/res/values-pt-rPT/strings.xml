@@ -9,7 +9,7 @@
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Thank you for supporting us!</string>
+    <string name="app_short_description">Obrigado por nos ajudar!</string>
     <string name="app_long_description">
         Se gosta das nossas aplicações que são gratuitas, não intrusivas e não possuem anúncios queira por favor considerar a hipótese de nos ajudar de alguma forma. A ajuda será extremamente apreciada.
 
