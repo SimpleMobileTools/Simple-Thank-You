@@ -55,6 +55,7 @@ class MainActivity : SimpleActivity() {
 
     private fun checkWhatsNewDialog() {
         arrayListOf<Release>().apply {
+            add(Release(14, R.string.release_14))
             add(Release(3, R.string.release_3))
             checkWhatsNew(this, BuildConfig.VERSION_CODE)
         }
