@@ -6,10 +6,12 @@ import android.database.Cursor
 import android.database.sqlite.SQLiteDatabase
 import android.database.sqlite.SQLiteOpenHelper
 import com.simplemobiletools.commons.R
+import com.simplemobiletools.commons.helpers.INVALID_NAVIGATION_BAR_COLOR
 import com.simplemobiletools.commons.helpers.MyContentProvider.Companion.COL_APP_ICON_COLOR
 import com.simplemobiletools.commons.helpers.MyContentProvider.Companion.COL_BACKGROUND_COLOR
 import com.simplemobiletools.commons.helpers.MyContentProvider.Companion.COL_ID
 import com.simplemobiletools.commons.helpers.MyContentProvider.Companion.COL_LAST_UPDATED_TS
+import com.simplemobiletools.commons.helpers.MyContentProvider.Companion.COL_NAVIGATION_BAR_COLOR
 import com.simplemobiletools.commons.helpers.MyContentProvider.Companion.COL_PRIMARY_COLOR
 import com.simplemobiletools.commons.helpers.MyContentProvider.Companion.COL_TEXT_COLOR
 import com.simplemobiletools.commons.helpers.MyContentProvider.Companion.fillThemeContentValues
@@ -20,7 +22,7 @@ class MyContentProviderDbHelper private constructor(private val context: Context
 
     companion object {
         private const val DB_NAME = "Commons.db"
-        private const val DB_VERSION = 2
+        private const val DB_VERSION = 3
         private const val TABLE_NAME = "commons_colors"
         private const val THEME_ID = 1    // for now we are storing just 1 theme
 
@@ -29,19 +31,24 @@ class MyContentProviderDbHelper private constructor(private val context: Context
 
     override fun onCreate(db: SQLiteDatabase) {
         db.execSQL("CREATE TABLE $TABLE_NAME ($COL_ID INTEGER PRIMARY KEY AUTOINCREMENT, $COL_TEXT_COLOR INTEGER DEFAULT 0, $COL_BACKGROUND_COLOR INTEGER DEFAULT 0," +
-                " $COL_PRIMARY_COLOR INTEGER DEFAULT 0, $COL_APP_ICON_COLOR INTEGER DEFAULT 0, $COL_LAST_UPDATED_TS INTEGER DEFAULT 0)")
+                " $COL_PRIMARY_COLOR INTEGER DEFAULT 0, $COL_APP_ICON_COLOR INTEGER DEFAULT 0, $COL_NAVIGATION_BAR_COLOR INTEGER DEFAULT $INVALID_NAVIGATION_BAR_COLOR," +
+                " $COL_LAST_UPDATED_TS INTEGER DEFAULT 0)")
     }
 
     override fun onUpgrade(db: SQLiteDatabase, oldVersion: Int, newVersion: Int) {
         if (oldVersion == 1) {
             db.execSQL("ALTER TABLE $TABLE_NAME ADD COLUMN $COL_APP_ICON_COLOR INTEGER DEFAULT 0")
         }
+
+        if (oldVersion < 3) {
+            db.execSQL("ALTER TABLE $TABLE_NAME ADD COLUMN $COL_NAVIGATION_BAR_COLOR INTEGER DEFAULT $INVALID_NAVIGATION_BAR_COLOR")
+        }
     }
 
     private fun insertDefaultTheme() {
         val resources = context.resources
         val theme = SharedTheme(resources.getColor(R.color.theme_dark_text_color), resources.getColor(R.color.theme_dark_background_color),
-                resources.getColor(R.color.color_primary), resources.getColor(R.color.color_primary))
+                resources.getColor(R.color.color_primary), resources.getColor(R.color.color_primary), INVALID_NAVIGATION_BAR_COLOR)
         insertTheme(theme, mDb)
     }
 
@@ -74,7 +81,7 @@ class MyContentProviderDbHelper private constructor(private val context: Context
     }
 
     fun getSharedTheme(): Cursor? {
-        val cols = arrayOf(COL_TEXT_COLOR, COL_BACKGROUND_COLOR, COL_PRIMARY_COLOR, COL_APP_ICON_COLOR, COL_LAST_UPDATED_TS)
+        val cols = arrayOf(COL_TEXT_COLOR, COL_BACKGROUND_COLOR, COL_PRIMARY_COLOR, COL_APP_ICON_COLOR, COL_NAVIGATION_BAR_COLOR, COL_LAST_UPDATED_TS)
         val selection = "$COL_ID = ?"
         val selectionArgs = arrayOf(THEME_ID.toString())
         return mDb.query(TABLE_NAME, cols, selection, selectionArgs, null, null, null)
