@@ -50,5 +50,5 @@ android {
 }
 
 dependencies {
-    implementation 'com.simplemobiletools:commons:5.15.7'
+    implementation 'com.simplemobiletools:commons:5.17.17'
 }
