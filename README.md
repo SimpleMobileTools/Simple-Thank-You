@@ -14,8 +14,7 @@ This app is just one piece of a bigger series of apps. You can find the rest of 
 <a href='https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou'><img src='https://simplemobiletools.com/assets/images/google-play.png' alt='Get it on Google Play' height=45/></a>
 
 <div style="display:flex;">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/app.png" width="30%">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/app_2.png" width="30%">
+<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/app_1.jpg" width="30%">
 </div>
 
 License
