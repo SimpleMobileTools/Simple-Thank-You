@@ -8,6 +8,8 @@
     <string name="hide_launcher_icon_explanation">런처 아이콘이 다시 표시되게 하려면 앱을 다시 설치해야 합니다. 앱을 다시 설치해도 추가 결제가 되지 않으니 안심하셔도 됩니다.</string>
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
+    <string name="app_title">Simple Thank You - To our supporters</string>
     <!-- Short description has to have less than 80 chars -->
     <string name="app_short_description">Thank you for supporting us!</string>
     <string name="app_long_description">

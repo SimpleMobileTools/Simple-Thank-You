@@ -8,6 +8,8 @@
     <string name="hide_launcher_icon_explanation">想在啟動器再次顯示圖標，你必須重新安裝這程式。不用擔心，你不必再付費。</string>
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
+    <string name="app_title">Simple Thank You - To our supporters</string>
     <!-- Short description has to have less than 80 chars -->
     <string name="app_short_description">感謝您支持我們!</string>
     <string name="app_long_description">

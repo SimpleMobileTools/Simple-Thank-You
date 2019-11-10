@@ -8,6 +8,8 @@
     <string name="hide_launcher_icon_explanation">Na opätovné zobrazenie ikonky budete musieť preinštalovať apku. Nebojte sa, už nebudete musieť platiť.</string>
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
+    <string name="app_title">Jednoduché ďakujem - Pre našich podporovateľov</string>
     <!-- Short description has to have less than 80 chars -->
     <string name="app_short_description">Ďakujeme za podporu!</string>
     <string name="app_long_description">
