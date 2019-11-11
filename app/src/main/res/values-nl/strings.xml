@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">Simple Thank You</string>
-    <string name="app_launcher_name">Thank You</string>
+    <string name="app_name">Eenvoudig Bedankje</string>
+    <string name="app_launcher_name">Bedankt!</string>
     <string name="main_text">Hartelijk dank voor het steunen van Simple Mobile Tools!\n\nNeem even contact met ons op via\nhello@simplemobiletools.com,\n we stellen alle feedback en suggesties erg op prijs.\n\n(Houd deze app geïnstalleerd om alle functies te ontgrendelen en om te voorkomen dat het venster \'Kopen\' wordt getoond)</string>
 
     <!-- Settings -->
@@ -9,7 +9,7 @@
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
-    <string name="app_title">Simple Thank You - To our supporters</string>
+    <string name="app_title">Eenvoudig bedankje aan onze ondersteuners</string>
     <!-- Short description has to have less than 80 chars -->
     <string name="app_short_description">Hartelijk dank voor uw steun!</string>
     <string name="app_long_description">
