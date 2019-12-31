@@ -1,29 +1,29 @@
 <resources>
     <string name="app_name">Simple Thank You</string>
-    <string name="app_launcher_name">Thank You</string>
-    <string name="main_text">Thank you for supporting us!\n\nDrop us a line at \n hello@simplemobiletools.com,\n we\'d love to hear all your feedback and suggestions.\n\n(Please keep the app installed to avoid seeing the \'Purchase\' dialog and have all app features unlocked)</string>
+    <string name="app_launcher_name">Gracias</string>
+    <string name="main_text">¡Gracias por apoyarnos!\n\nEscríbenos \n hello@simplemobiletools.com,\n nos encantaría escuchar toda tu retroalimentación y sugerencias.\n\n(Por favor, mantén la aplicación instalada para evitar ver el cuadro de \'Comprar\' y tener todas las características de las aplicaciones desbloqueadas)</string>
 
     <!-- Settings -->
-    <string name="hide_launcher_icon">Hide the launcher icon</string>
-    <string name="hide_launcher_icon_explanation">To have the launcher icon displayed again, you will have to reinstall the app. Don\'t worry, you won\'t have to pay again.</string>
+    <string name="hide_launcher_icon">Ocultar el ícono del launcher</string>
+    <string name="hide_launcher_icon_explanation">Para volver a mostrar el ícono del launcher, tendrás que reinstalar la aplicación. No te preocupes, no tendrás que pagar de nuevo.</string>
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
-    <string name="app_title">Simple Thank You - To our supporters</string>
+    <string name="app_title">Simple Thank You - A nuestros seguidores</string>
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Thank you for supporting us!</string>
+    <string name="app_short_description">¡Gracias por apoyarnos!</string>
     <string name="app_long_description">
-        If you like our apps which are free, non-intrusive and have no ads, please consider supporting us in some way. It will be hugely appreciated.
+        Si te gustan nuestras aplicaciones que son gratuitas, no invasivas y sin anuncios, por favor, considera apoyarnos de alguna forma. Será enormemente apreciado.
 
-        Having this app installed will prevent the displaying of a "Donate please" dialog in the free apps. Other than that, it also allows using a Shared Theme, which means that as soon as you change a color in one app, all other apps will be updated. Newly installed apps from the suite will automagically receive the shared colors too.
+        Tener esta aplicación instalada evitará que se muestre el cuadro de "Por favor dona" en las aplicaciones gratuitas. Además de eso, también te permitirá usar un Tema Compartido, lo que significa que tan pronto como cambies un color en una aplicación, todas las demás se actualizarán. Las nuevas aplicaciones instaladas de la suite también recibirán los colores compartidos.
 
-        It might unlock more extra features in the future. Please keep the app installed at least for a day, to avoid getting automatically refunded.
+        Podría desbloquear más características extra en el futuro. Por favor, mantén la aplicación instalada al menos por un día, para evitar ser reembolsado automáticamente.
 
-        This app is not a a replacement for the Pro app versions. You will still have to purchase them separately, in case you want to use them.
+        Esta aplicación no es un remplazo de las aplicaciones de versión Pro. Aún tendrás que comprarlas por separado en caso de que quieras usarlas.
 
-        Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
+        No contiene anuncios o permisos innecesarios. Es completamente de código abierto, provee colores personalizables.
 
-        This app is just one piece of a bigger series of apps. You can find the rest of them at https://www.simplemobiletools.com
+        Esta es solo una aplicación de una serie de aplicaciónes más grande. Puedes encontrar el resto en https://www.simplemobiletools.com
     </string>
 
     <!--
