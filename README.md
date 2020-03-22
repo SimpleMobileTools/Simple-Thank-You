@@ -1,5 +1,5 @@
 # Simple Thank You
-<img alt="Logo" src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="80">
+<img alt="Logo" src="fastlane/metadata/android/en-US/images/icon.png" width="120" />
 
 If you like our apps which are free, non-intrusive and have no ads, please consider supporting us in some way. It will be hugely appreciated.
 
