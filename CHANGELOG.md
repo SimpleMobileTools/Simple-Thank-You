@@ -1,6 +1,11 @@
 Changelog
 ==========
 
+Version 5.1.0 *(2020-04-04)*
+----------------------------
+
+ * Updating the app icon and some translations
+
 Version 5.0.3 *(2019-12-31)*
 ----------------------------
 
