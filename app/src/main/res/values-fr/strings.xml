@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Simple Thank You</string>
     <string name="app_launcher_name">Merci</string>
-    <string name="main_text">Merci pour votre soutien !\n\nÉcrivez-nous un petit message à l\'adresse \n hello@simplemobiletools.com,\n nous aimerions connaître votre avis et vos suggestions.\n\n(Veuillez conserver l\'application installée pour éviter l\'affichage de la boîte de dialogue \"Acheter Simple Thank You\" et avoir accès aux fonctionnalités déverrouillées par cette application)</string>
+    <string name="main_text">Merci pour votre soutien!\n\nÉcrivez-nous un petit message à l\'adresse \n hello@simplemobiletools.com,\n nous aimerions connaître votre avis et vos suggestions.\n\n(Veuillez conserver l\'application installée pour éviter l\'affichage de la boîte de dialogue \"Acheter Simple Thank You\" et avoir accès aux fonctionnalités déverrouillées par cette application)</string>
 
     <!-- Settings -->
     <string name="hide_launcher_icon">Masquer l\'icône de l\'application</string>
@@ -9,9 +9,9 @@
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
-    <string name="app_title">Simple Thank You - To our supporters</string>
+    <string name="app_title">Simple Thank You - À nos supporters</string>
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Thank you for supporting us!</string>
+    <string name="app_short_description">Merci pour votre soutien!</string>
     <string name="app_long_description">
         Si vous aimez nos application gratuites, non intrusives et sans publicité, vous pouvez nous soutenir en achetant cette application. Ce sera énormément apprécié.
         
@@ -23,7 +23,7 @@
 
         L\'application ne contient ni publicité, ni autorisation inutile. Elle est totalement opensource et est également fournie avec des couleurs personnalisables.
 
-        <b>Check out the full suite of Simple Tools here:</b>
+        <b>Découvrez la série complète d\'outils simples ici:</b>
         https://www.simplemobiletools.com
 
         <b>Facebook:</b>
