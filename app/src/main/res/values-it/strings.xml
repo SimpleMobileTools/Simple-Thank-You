@@ -9,9 +9,9 @@
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
-    <string name="app_title">Simple Thank You - To our supporters</string>
+    <string name="app_title">Simple Thank You - Ai sostenitori</string>
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Thank you for supporting us!</string>
+    <string name="app_short_description">Grazie per supportarci!</string>
     <string name="app_long_description">
         Se piaccono le applicazioni gratuite, non intrusive e senza pubblicità, si può considerare di supportarci in qualche modo. Verrà molto apprezzato.
 
@@ -19,11 +19,11 @@
 
         Potrebbe sbloccare funzionalità aggiuntive in futuro. Si consiglia di mantenere quest\'applicazione per qualche giorno, per evitare il rimborso automatico.
 
-        This app is not a a replacement for the Pro app versions. You will still have to purchase them separately, in case you want to use them.
+        Questa app non è un rimpiazzo per la versione Pro. È necessario comprarla separatamente se vuoi utilizzarla.
 
         L\'applicazione non contiene pubblicità o permessi non necessari; è completamente opensource e la si può personalizzare con i propri colori preferiti.
 
-        <b>Check out the full suite of Simple Tools here:</b>
+        <b>Dai un\'occhiata alle altre applicazioni Simple Tools:</b>
         https://www.simplemobiletools.com
 
         <b>Facebook:</b>
