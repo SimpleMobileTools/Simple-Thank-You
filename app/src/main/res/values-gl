@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Simple Thank You</string>
+    <string name="app_launcher_name">Grazas</string>
+    <string name="main_text">Agradecemos a túa axuda!\n\nEscribe un e-mail a\nhello@simplemobiletools.com,\npois gustaríanos saber as tuas opinións e suxerencias.\n\n(Manteña este aplicativo instalado para impedir a exibición do diálogo \'Comprar\' e para ter acceso a todas as funcionalidades da dos nosos aplicativos)</string>
+
+    <!-- Settings -->
+    <string name="hide_launcher_icon">Ocultar icona</string>
+    <string name="hide_launcher_icon_explanation">Para volver a mostrar a icona terá que reinstalar o aplicativo. Mais non te preocupes porque non tes que acomprala novamente.</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
+    <string name="app_title">Simple Thank You - Para os que nos apoian</string>
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Grazas por axudarnos!</string>
+    <string name="app_long_description">
+        Se che gustan os nosos aplicativos gratuítos, non intrusivos e sen anuncios, considera axudarnos dalgunha forma:
+
+        Manteña o aplicativo instalado polo menos un día de modo para non ser reembolsado automaticamente.
+
+        O obxectivo deste aplicativo é eliminar a aparición esporádica do diálogo “Donativos” pero non descartamos que nun futuro poida servir para desbloquear funcións extra.
+
+        Este aplicativo non substitúe ás versións Pro dos aplicativos. Terá que compralas individualmente, por se algún día as pretende utilizar.
+
+        Non contén anuncios nin permisos innecesarias. Permite a personalización de cores e é totalmente de código aberto.
+
+        <b>Visita a nosa páxina a través desta ligazón:</b>
+        https://www.simplemobiletools.com
+
+        <b>Facebook:</b>
+        https://www.facebook.com/simplemobiletools
+
+        <b>Reddit:</b>
+        https://www.reddit.com/r/SimpleMobileTools
+     </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>
