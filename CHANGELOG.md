@@ -1,6 +1,11 @@
 Changelog
 ==========
 
+Version 5.3.0 *(2020-12-28)*
+----------------------------
+
+ * Allow stopping the Shared Theme by disabling it here, no need to uninstall the app anymore
+
 Version 5.2.0 *(2020-08-20)*
 ----------------------------
 
