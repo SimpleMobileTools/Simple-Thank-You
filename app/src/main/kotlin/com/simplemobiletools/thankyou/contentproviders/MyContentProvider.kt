@@ -4,6 +4,7 @@ import android.content.ContentProvider
 import android.content.ContentValues
 import android.net.Uri
 import com.simplemobiletools.thankyou.dbhelpers.MyContentProviderDbHelper
+import com.simplemobiletools.thankyou.extensions.config
 
 class MyContentProvider : ContentProvider() {
     lateinit var dbHelper: MyContentProviderDbHelper
@@ -17,7 +18,10 @@ class MyContentProvider : ContentProvider() {
         return true
     }
 
-    override fun update(uri: Uri, contentValues: ContentValues?, selection: String?, selectionArgs: Array<out String>?): Int = dbHelper.updateTheme(contentValues!!)
+    override fun update(uri: Uri, contentValues: ContentValues?, selection: String?, selectionArgs: Array<out String>?): Int {
+        context?.config?.shouldUseSharedTheme = true
+        return dbHelper.updateTheme(contentValues!!)
+    }
 
     override fun delete(uri: Uri, selection: String?, selectionArgs: Array<out String>?): Int = 0
 

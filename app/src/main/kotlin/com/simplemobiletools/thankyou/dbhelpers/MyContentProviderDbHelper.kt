@@ -15,7 +15,9 @@ import com.simplemobiletools.commons.helpers.MyContentProvider.Companion.COL_NAV
 import com.simplemobiletools.commons.helpers.MyContentProvider.Companion.COL_PRIMARY_COLOR
 import com.simplemobiletools.commons.helpers.MyContentProvider.Companion.COL_TEXT_COLOR
 import com.simplemobiletools.commons.helpers.MyContentProvider.Companion.fillThemeContentValues
+import com.simplemobiletools.commons.helpers.mydebug
 import com.simplemobiletools.commons.models.SharedTheme
+import com.simplemobiletools.thankyou.extensions.config
 
 class MyContentProviderDbHelper private constructor(private val context: Context) : SQLiteOpenHelper(context, DB_NAME, null, DB_VERSION) {
     private val mDb = writableDatabase
@@ -81,6 +83,10 @@ class MyContentProviderDbHelper private constructor(private val context: Context
     }
 
     fun getSharedTheme(): Cursor? {
+        if (!context.config.shouldUseSharedTheme) {
+            return null
+        }
+
         val cols = arrayOf(COL_TEXT_COLOR, COL_BACKGROUND_COLOR, COL_PRIMARY_COLOR, COL_APP_ICON_COLOR, COL_NAVIGATION_BAR_COLOR, COL_LAST_UPDATED_TS)
         val selection = "$COL_ID = ?"
         val selectionArgs = arrayOf(THEME_ID.toString())
