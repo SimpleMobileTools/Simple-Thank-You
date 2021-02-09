@@ -1,6 +1,11 @@
 Changelog
 ==========
 
+Version 5.3.1 *(2021-22-09)*
+----------------------------
+
+ * Adding White theme with an accent color
+
 Version 5.3.0 *(2020-12-28)*
 ----------------------------
 
