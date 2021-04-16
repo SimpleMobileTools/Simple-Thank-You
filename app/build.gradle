@@ -15,8 +15,8 @@ android {
         applicationId "com.simplemobiletools.thankyou"
         minSdkVersion 21
         targetSdkVersion 30
-        versionCode 19
-        versionName "5.3.1"
+        versionCode 20
+        versionName "5.3.2"
         setProperty("archivesBaseName", "thank-you")
     }
 
