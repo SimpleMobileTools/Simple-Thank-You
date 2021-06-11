@@ -4,26 +4,26 @@
     <string name="main_text">Kiitos tuestasi!\N\nLaita ihmeessä palautetta osoitteeseen\n hello@simplemobiletools.com,\n haluaisimme kuulla kaikki palautteesi ja ehdotuksesi.\N\n(Pidä sovellus asennettuna, jotta et näe \"Osta\"-valintaikkunaa ja kaikkien sovellusten ominaisuuksien lukitus on avattu)</string>
 
     <!-- Settings -->
-    <string name="hide_launcher_icon">Hide the launcher icon</string>
-    <string name="hide_launcher_icon_explanation">To have the launcher icon displayed again, you will have to reinstall the app. Don\'t worry, you won\'t have to pay again.</string>
+    <string name="hide_launcher_icon">Piilota kuvake aloitusnäyttösovelluksesta</string>
+    <string name="hide_launcher_icon_explanation">Kuvakkeen tuominen uudelleen näkyviin vaatii sovelluksen uudelleenasentamisen. Ei huolta, et joudu ostamaan sovellusta uudelleen.</string>
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
     <string name="app_title">Simple Thank You - To our supporters</string>
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Thank you for supporting us!</string>
+    <string name="app_short_description">Kiitos, kun tuet meitä!</string>
     <string name="app_long_description">
-        If you like our apps which are free, non-intrusive and have no ads, please consider supporting us in some way. It will be hugely appreciated.
+        Jos pidät ilmaisista, tunkeilemattomista ja mainosvapaista sovelluksistamme, harkitse tukemistamme tavalla tai toisella. Arvostamme sitä suuresti.
 
-        Having this app installed will prevent the displaying of a "Donate please" dialog in the free apps. Other than that, it also allows using a Shared Theme, which means that as soon as you change a color in one app, all other apps will be updated. Newly installed apps from the suite will automagically receive the shared colors too.
+        Kun tämä sovellus on asennettuna, "Lahjoita, kiitos"-ilmoitusta ei näytetä ilmaisissa soveluksissa. Sen lisäksi saat käyttöösi jaetut teemat, joten kun valitset yhdessä sovelluksessa teeman värin, sama väri vaihtuu myös muihin sovelluksiin. Sovellusvalikoimasta jälkikäteen asennetut sovellukset ottavat automaattisesti jaetun teeman käyttöön.
 
-        It might unlock more extra features in the future. Please keep the app installed at least for a day, to avoid getting automatically refunded.
+        Tulevaisuudessa sinulle avataan mahdollisesti myös muita extraominaisuuksia. Pidä sovellus asennettuna ainakin päivän, jotta vältät automaattisen hyvityksen.
 
-        This app is not a a replacement for the Pro app versions. You will still have to purchase them separately, in case you want to use them.
+        Tämä sovellus ei korvaa Pro-sovellusversioita. Niitä käyttääksesi sinun tulee ostaa ne erikseen.
 
-        Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
+        Ei sisällä mainoksia eikä vaadi tarpeettomia käyttöoikeuksia. Täysin vapaata lähdekoodia, mukautettavilla väreillä.
 
-        <b>Check out the full suite of Simple Tools here:</b>
+        <b>Katso koko Simple Tools-sovellusvalikoima täältä:</b>
         https://www.simplemobiletools.com
 
         <b>Facebook:</b>
