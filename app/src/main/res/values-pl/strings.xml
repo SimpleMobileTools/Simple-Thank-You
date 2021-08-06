@@ -1,11 +1,11 @@
 <resources>
     <string name="app_name">Proste podziękowanie</string>
     <string name="app_launcher_name">Podziękowanie</string>
-    <string name="main_text">Dziękujmy za wsparcie!\n\nNapisz do nas na adres \n hello@simplemobiletools.com,\n z przyjemnością posłuchamy Twojej opinii i sugestii.\n\n(Trzymaj tę aplikację zainstalowaną, aby unikać okna \"Kup\" i mieć odblokowane wszystkie funkcje)</string>
+    <string name="main_text">Dziękujmy za wsparcie!\n\nNapisz do nas na adres: \n hello@simplemobiletools.com\n Z przyjemnością posłuchamy Twoich opinii i sugestii.\n\n(Trzymaj tę aplikację zainstalowaną, aby unikać okna „Kup” i mieć odblokowane wszystkie funkcje.)</string>
 
     <!-- Settings -->
-    <string name="hide_launcher_icon">Ukryj ikonę aplikacji w launcherze</string>
-    <string name="hide_launcher_icon_explanation">Aby ikona pojawiła się ponownie w launcherze, należy przeinstalować aplikację. Nie martw się - nie będziesz musiał/a płacić ponownie za aplikację.</string>
+    <string name="hide_launcher_icon">Ukryj ikonę aplikacji w launcherze</string>
+    <string name="hide_launcher_icon_explanation">Aby ikona pojawiła się ponownie w launcherze, należy przeinstalować aplikację. Nie martw się\u00A0—\u00A0nie będziesz musiał(a) płacić ponownie za aplikację.</string>
 
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
@@ -13,13 +13,13 @@
     <!-- Short description has to have less than 80 chars -->
     <string name="app_short_description">Dziękujemy za wsparcie!</string>
     <string name="app_long_description">
-        Jeżeli lubisz nasze aplikacje, które są darmowe, nieinwazyjne oraz nie zawierają reklam, prosimy o wsparcie nas w jakiś sposób. Będzie to bardzo docenione.
+        Jeśli lubisz nasze aplikacje, które są darmowe, nieinwazyjne oraz nie zawierają reklam, prosimy o wsparcie nas w jakiś sposób. Będzie to bardzo docenione.
 
-        Zainstalowanie tej aplikacji uniemożliwi wyświetlanie okna „Przekaż datek” w bezpłatnych aplikacjach. Poza tym umożliwia korzystanie ze wspólnego motywu, co oznacza, że gdy tylko zmienisz kolor w jednej aplikacji, zastosuje się to do pozostałych aplikacji. Nowo zainstalowane aplikacje z zestawu również automatycznie otrzymają współdzielone kolory.
+        Zainstalowanie tej aplikacji uniemożliwi wyświetlanie okna „Przekaż datek” w bezpłatnych aplikacjach. Poza tym umożliwi korzystanie ze wspólnego motywu, co oznacza, że gdy tylko zmienisz kolor w jednej aplikacji, zastosuje się to do pozostałych aplikacji. Nowo zainstalowane aplikacje z zestawu również automatycznie otrzymają współdzielone kolory.
 
         Aplikacja może odblokować w przyszłości więcej dodatkowych funkcjonalności. Prosimy nie usuwać jej przynajmniej przez dzień, aby uniknąć automatycznego zwrotu pieniędzy.
 
-        Ta aplikacja nie zastępuje wersji Pro aplikacji. Nadal będziesz musiał/a kupić je osobno, gdy będziesz chciał/a z nich korzystać.
+        Ta aplikacja nie zastępuje wersji Pro aplikacji. Nadal będziesz musiał(a) kupić je osobno, gdy będziesz chciał(a) z nich korzystać.
 
         Nie zawiera reklam ani niepotrzebnych uprawnień. Jest w pełni otwartoźródłowa, zapewnia konfigurowalną kolorystykę.
 
