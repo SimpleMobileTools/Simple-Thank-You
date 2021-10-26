@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Proste podziękowanie</string>
     <string name="app_launcher_name">Podziękowanie</string>
-    <string name="main_text">Dziękujmy za wsparcie!\n\nNapisz do nas na adres: \n hello@simplemobiletools.com\n Z przyjemnością posłuchamy Twoich opinii i sugestii.\n\n(Trzymaj tę aplikację zainstalowaną, aby unikać okna „Kup” i mieć odblokowane wszystkie funkcje.)</string>
+    <string name="main_text">Dziękujemy za wsparcie!\n\nNapisz do nas na adres: \n hello@simplemobiletools.com\n Z przyjemnością posłuchamy Twoich opinii i sugestii.\n\n(Trzymaj tę aplikację zainstalowaną, aby unikać okna „Kup” i mieć odblokowane wszystkie funkcje.)</string>
 
     <!-- Settings -->
     <string name="hide_launcher_icon">Ukryj ikonę aplikacji w launcherze</string>
