@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Simple Thank You</string>
+    <string name="app_launcher_name">Îţi mulţumesc</string>
+    <string name="main_text">Vă mulțumim că ne sprijiniți!\n\nScrieţi-ne la \n hello@simplemobiletools.com,\n ne-ar plăcea să auzim toate comentariile și sugestiile dumneavoastră.\n\n(Vă rugăm să păstrați aplicația instalată pentru a evita să vedeți fereastra de dialog \'Cumpărare\' și pentru a debloca toate funcțiile aplicației.)</string>
+
+    <!-- Settings -->
+    <string name="hide_launcher_icon">Ascunde pictograma de lansare</string>
+    <string name="hide_launcher_icon_explanation">Pentru ca pictograma de lansare să fie afișată din nou, va trebui să reinstalați aplicația. Nu vă faceți griji, nu va trebui să plătiți din nou.</string>
+
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
+    <string name="app_title">Simple Thank You - Pentru susținătorii noștri</string>
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Vă mulțumim că ne sprijiniți!</string>
+    <string name="app_long_description">
+        Dacă vă plac aplicațiile noastre, care sunt gratuite, neintruzive și nu au reclame, vă rugăm să vă gândiți să ne sprijiniți într-un fel sau altul. Va fi extrem de apreciat.
+
+        Instalarea acestei aplicații va împiedica afișarea dialogului "Donați, vă rog" în aplicațiile gratuite. În afară de aceasta, permite, de asemenea, utilizarea unei teme partajate, ceea ce înseamnă că, de îndată ce schimbați o culoare într-o aplicație, toate celelalte aplicații vor fi actualizate. De asemenea, aplicațiile nou instalate din suită vor primi automat culorile partajate.
+
+        S-ar putea debloca mai multe caracteristici suplimentare în viitor. Vă rugăm să păstrați aplicația instalată cel puțin o zi, pentru a evita rambursarea automată.
+
+        Această aplicație nu înlocuiește versiunile aplicației Pro. Va trebui să le achiziționați în continuare separat, în cazul în care doriți să le folosiți.
+
+        Nu conține reclame sau permisiuni inutile. Codul sursă este complet open source şi oferă culori personalizabile.
+
+        <b>Consultaţi întreaga suită de aplicaţii Simple Tools aici:</b>
+        https://www.simplemobiletools.com
+
+        <b>Facebook:</b>
+        https://www.facebook.com/simplemobiletools
+
+        <b>Reddit:</b>
+        https://www.reddit.com/r/SimpleMobileTools
+    </string>
+
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>
