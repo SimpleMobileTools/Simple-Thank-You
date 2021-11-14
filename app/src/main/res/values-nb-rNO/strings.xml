@@ -1,2 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">Enkel takk</string>
+    <string name="hide_launcher_icon_explanation">Reinstaller programmet igjen for å se oppstarterikonet igjen. Du må ikke betale igjen.</string>
+    <string name="app_launcher_name">Takk skal du ha</string>
+    <string name="hide_launcher_icon">Skjul oppstarter-ikonet</string>
+    <string name="app_short_description">Takk for at du støtter oss.</string>
+    <string name="app_title">Enkel takk – til våre støttespillere</string>
+    <string name="main_text">Takk for at du støtter oss.
+\n
+\nSkriv til oss på
+\nhello@simplemobiletools.com
+\nVi setter pris på tilbakemeldinger.
+\n
+\n(Behold programmet installert for å unngå å se «Kjøp»-dialogen og for å ha alle funksjonene opplåst.)</string>
+</resources>
