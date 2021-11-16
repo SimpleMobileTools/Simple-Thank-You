@@ -1,38 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">البسيط (شكراً لكم)</string>
-    <string name="app_launcher_name">Thank You</string>
+    <string name="app_launcher_name">شكرًا لك</string>
     <string name="main_text">شكراً لدعمكم لنا!\n\nرأسلنا علي \n hello@simplemobiletools.com,\n نود أن نسمع جميع ملاحظاتك وأقتراحاتك..\n\n(يرجى الإحتفاظ بالتطبيق مثبتاً لتجنب رؤية مربع الحوار \'شراء\' وفتح جميع ميزات التطبيق )</string>
-
     <!-- Settings -->
     <string name="hide_launcher_icon">إخفاء أيقونة مشغل التطبيق</string>
     <string name="hide_launcher_icon_explanation">لعرض أيقونة مشغل التطبيق مرة أخرى، سيتعين عليك إعادة تثبيت التطبيق "لا تقلق"، ولن تضطر إلى الدفع مرة أخرى.</string>
-
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
     <string name="app_title">(البسيط) شكراً لكم  - إلي داعمينا</string>
     <!-- Short description has to have less than 80 chars -->
     <string name="app_short_description">شكراً لدعمكم لنا!</string>
-    <string name="app_long_description">
-        إذا كنت تحب تطبيقاتنا المجانية, غير التطفلية ولا تحتوي على إعلانات ، فيرجى التفكير في دعمنا بطريقة ما. سيكون موضع تقدير كبير.
-
-        سيؤدي تثبيت هذا التطبيق الي منع عرض مربع حوار "تبرع من فضلك" في التطبيقات المجانية. غير ذلك، فإنه يسمح أيضاً باستخدام سمة مشتركة، مما يعني أنه بمجرد تغيير اللون في تطبيق واحد، سيتم تحديث جميع التطبيقات الأخرى. سوف تتلقى التطبيقات المثبتة حديثاً من المجموعة الألوان المشتركة تلقائياً أيضاً.
-
-        قد يفتح المزيد من الميزات الإضافية في المستقبل. يرجى الإحتفاظ بالتطبيق مثبتاً على الأقل لمدة يوم واحد ، لتجنب إعادة الأموال تلقائياً.
-
-        هذا التطبيق ليس بديلاً لإصدارات التطبيقات الـ (Pro). سيتعين عليك شراؤها بشكل منفصل ، في حالة كنت تريد إستخدامها.
-
-        لا يحتوي على إعلانات أو أذونات غير ضرورية. فهو مفتوح المصدر بالكامل ، ويوفر ألواناً قابلة للتخصيص.
-
-        <b>Check out the full suite of Simple Tools here:</b>
-        https://www.simplemobiletools.com
-
-        <b>Facebook:</b>
-        https://www.facebook.com/simplemobiletools
-
-        <b>Reddit:</b>
-        https://www.reddit.com/r/SimpleMobileTools
-    </string>
-
+    <string name="app_long_description"> إذا كنت تحب تطبيقاتنا المجانية وغير التدخلية وليس لديها إعلانات ، يرجى النظر في دعمنا بطريقة ما. وسوف يكون موضع تقدير كبير. وجود هذا التطبيق تثبيت سيمنع عرض التبرع يرجى الحوار في التطبيقات المجانية. بخلاف ذلك ، فإنه يسمح أيضا باستخدام موضوع مشترك ، مما يعني أنه بمجرد تغيير لون في تطبيق واحد ، سيتم تحديث جميع التطبيقات الأخرى. ستتلقى التطبيقات المثبتة حديثا من الجناح الألوان المشتركة تلقائيا أيضا. قد يفتح المزيد من الميزات الإضافية في المستقبل. يرجى الحفاظ على التطبيق مثبتا لمدة يوم على الأقل، لتجنب استرداد المبلغ تلقائيا. هذا التطبيق ليس بديلا لإصدارات التطبيق برو. سيظل عليك شرائها بشكل منفصل ، في حال كنت ترغب في استخدامها. لا يحتوي على إعلانات أو أذونات غير ضرورية. فمن مفتوحة المصدر تماما، ويوفر ألوان قابلة للتخصيص. <b> تحقق من مجموعة كاملة من أدوات بسيطة هنا:</b> https://www.simplemobiletools.com <b>الفيسبوك:</b> https://www.facebook.com/simplemobiletools <b>Reddit:</b> https://www.reddit.com/r/SimpleMobileTools </string>
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
