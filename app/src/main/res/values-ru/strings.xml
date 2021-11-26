@@ -2,7 +2,15 @@
 <resources>
     <string name="app_name">Simple Thank You</string>
     <string name="app_launcher_name">Спасибо</string>
-    <string name="main_text">Thank you for supporting us!\n\nDrop us a line at \n hello@simplemobiletools.com,\n we\'d love to hear all your feedback and suggestions.\n\nIn case you want to support us even more, there are multiple other ways of donating at https://simplemobiletools.com/donate\n\n(Please keep the app installed to avoid seeing the \'Purchase\' dialog and have all app features unlocked)</string>
+    <string name="main_text">Спасибо вам за поддержку!
+\n
+\nНапишите нам по адресу
+\n hello@simplemobiletools.com,
+\n мы будем рады услышать все ваши отзывы и предложения.
+\n
+\nЕсли вы хотите ещё поддержать нас, есть несколько других способов сделать пожертвование на сайте https://simplemobiletools.com/donate
+\n
+\n(Пожалуйста, сохраняйте приложение установленным, чтобы не видеть диалоговое окно \"Покупка\" и чтобы все функции приложения оставались разблокированными.)</string>
     <!-- Settings -->
     <string name="hide_launcher_icon">Скрыть значок приложения</string>
     <string name="hide_launcher_icon_explanation">Чтобы значок снова появился, вам потребуется переустановить приложение. Не волнуйтесь, ещё раз платить не придётся.</string>
