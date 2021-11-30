@@ -1,38 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Simple Thank You</string>
     <string name="app_launcher_name">Dankeschön</string>
     <string name="main_text">Danke für deine Unterstützung!\n\nSchreibe uns doch an \n hello@simplemobiletools.com,\n wir hören dein Feedback und deine Vorschläge sehr gerne.\n\n(Bitte lasse diese App installiert, um den \'Kaufen\' Dialog auszublenden und alle Features der App freizuschalten)</string>
-
     <!-- Settings -->
     <string name="hide_launcher_icon">App im Menü verstecken</string>
     <string name="hide_launcher_icon_explanation">Um die App im Menü wieder anzuzeigen, musst du sie neu installieren. Keine Sorge, du musst die App dafür nicht nochmals kaufen.</string>
-
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
     <string name="app_title">Simple Thank You - An alle unsere Unterstützer</string>
     <!-- Short description has to have less than 80 chars -->
     <string name="app_short_description">Vielen Dank für die Unterstützung!</string>
-    <string name="app_long_description">
-        Wenn du unsere Apps magst, welche kostenlos, nicht aufdringlich und frei von Werbung sind, überlege bitte uns zu unterstützen. Wir schätzen das unglaublich!
-
-        Bitte lasse diese App für mindestens einen Tag installiert, um eine automatische Rückerstattung zu verhindern.
-
-        Der Zweck dieser App ist es, den auftauchenden "Bitte spenden" Dialog zu unterbinden. Möglicherweise wird sie in Zukunft Extra-Features freischalten.
-
-        Diese App ist kein Ersatz für die Pro-App-Versionen. Sie müssen sie weiterhin separat installieren, falls Sie sie verwenden möchten.
-
-        Enthält keine Werbungen und benötigt keine unnötigen Berechtigungen. Vollständig OpenSource und bietet anpassbare Farben.
-
-        <b>Schau dir die vollständige Serie der Schlichten Apps hier an:</b>
-        https://www.simplemobiletools.com
-
-        <b>Facebook:</b>
-        https://www.facebook.com/simplemobiletools
-
-        <b>Reddit:</b>
-        https://www.reddit.com/r/SimpleMobileTools
-    </string>
-
+    <string name="app_long_description"> Wenn du unsere Apps magst, welche kostenlos, nicht aufdringlich und frei von Werbung sind, überlege bitte uns zu unterstützen. Wir schätzen das unglaublich! Bitte lasse diese App für mindestens einen Tag installiert, um eine automatische Rückerstattung zu verhindern. Der Zweck dieser App ist es, den auftauchenden Bitte spenden Dialog zu unterbinden. Möglicherweise wird sie in Zukunft Extra-Features freischalten. Diese App ist kein Ersatz für die Pro-App-Versionen. Sie müssen sie weiterhin separat installieren, falls Sie sie verwenden möchten. Enthält keine Werbungen und benötigt keine unnötigen Berechtigungen. Vollständig OpenSource und bietet anpassbare Farben. <b>Schau dir die vollständige Serie der Schlichten Apps hier an:</b> https://www.simplemobiletools.com <b>Facebook:</b> https://www.facebook.com/simplemobiletools <b>Reddit:</b> https://www.reddit.com/r/SimpleMobileTools </string>
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
