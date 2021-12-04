@@ -11,26 +11,7 @@
     <string name="app_title">Simple Thank You - Tukijoillemme</string>
     <!-- Short description has to have less than 80 chars -->
     <string name="app_short_description">Kiitos, kun tuet meitä!</string>
-    <string name="app_long_description">
-        Jos pidät ilmaisista, tunkeilemattomista ja mainosvapaista sovelluksistamme, harkitse tukemistamme tavalla tai toisella. Arvostamme sitä suuresti.
-
-        Kun tämä sovellus on asennettuna, "Lahjoita, kiitos"-ilmoitusta ei näytetä ilmaisissa soveluksissa. Sen lisäksi saat käyttöösi jaetut teemat, joten kun valitset yhdessä sovelluksessa teeman värin, sama väri vaihtuu myös muihin sovelluksiin. Sovellusvalikoimasta jälkikäteen asennetut sovellukset ottavat automaattisesti jaetun teeman käyttöön.
-
-        Tulevaisuudessa sinulle avataan mahdollisesti myös muita extraominaisuuksia. Pidä sovellus asennettuna ainakin päivän, jotta vältät automaattisen hyvityksen.
-
-        Tämä sovellus ei korvaa Pro-sovellusversioita. Niitä käyttääksesi sinun tulee ostaa ne erikseen.
-
-        Ei sisällä mainoksia eikä vaadi tarpeettomia käyttöoikeuksia. Täysin vapaata lähdekoodia, mukautettavilla väreillä.
-
-        <b>Katso koko Simple Tools-sovellusvalikoima täältä:</b>
-        https://www.simplemobiletools.com
-
-        <b>Facebook:</b>
-        https://www.facebook.com/simplemobiletools
-
-        <b>Reddit:</b>
-        https://www.reddit.com/r/SimpleMobileTools
-    </string>
+    <string name="app_long_description"> Jos pidät ilmaisista, yksityisyyttä kunnioittavista ja mainosvapaista sovelluksistamme, harkitse tukemistamme tavalla tai toisella. Arvostamme sitä suuresti. Kun tämä sovellus on asennettuna, \"Lahjoita, kiitos\"-ilmoitusta ei näytetä ilmaisissa sovelluksissa. Sen lisäksi saat käyttöösi jaetut teemat, jolloin yhdessä sovelluksessa valittu teeman väri on käytössä myös muissa sovelluksissamme. Sovellusvalikoimasta jälkikäteen asennetut sovellukset ottavat automaattisesti jaetun teeman käyttöön. Tulevaisuudessa sinulle avataan mahdollisesti myös muita extraominaisuuksia. Pidä sovellus asennettuna ainakin päivän, jotta vältät automaattisen hyvityksen. Tämä sovellus ei korvaa Pro-sovellusversioita. Niitä käyttääksesi sinun tulee ostaa ne erikseen. Ei sisällä mainoksia eikä vaadi tarpeettomia käyttöoikeuksia, lähdekoodi on täysin vapaata, värit ovat mukautettavissa. <b>Katso koko Simple Tools-sovellusvalikoima täältä:</b> https://www.simplemobiletools.com <b>Facebook:</b> https://www.facebook.com/simplemobiletools <b>Reddit:</b> https://www.reddit.com/r/SimpleMobileTools </string>
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
