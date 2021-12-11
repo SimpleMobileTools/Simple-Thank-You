@@ -1,2 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_launcher_name">Suur tänu</string>
+    <string name="app_name">Lihtne tänuavaldus</string>
+    <string name="hide_launcher_icon">Peida rakenduse ikoon</string>
+    <string name="hide_launcher_icon_explanation">Kui soovid rakenduse ikooni uuesti näha, siis paigalda rakendus uuesti. Ära muretse, uuesti maksta pole vaja.</string>
+    <string name="app_title">Lihtne tänuavaldus - meie toetajatele</string>
+    <string name="app_short_description">Täname, et toetad meid!</string>
+    <string name="main_text">Aitäh, et toetad meid!
+\n
+\nKui tahad suhelda, siis kirjuta meile
+\n hello@simplemobiletools.com aadressil
+\n ja kirjelda meile oma ettepanekuid ja soove.
+\n
+\n(Kui see rakendus on nutiseadmes olemas, siis ei teki ka „Ostupakkumiste“ akent ning rakenduse kõik valikud on saadaval)</string>
+    <string name="app_long_description"> Kui sulle meeldivad meie tasuta, mittepealetükkivad ning reklaamivabad rakendused, siis palun toeta meid mõnel viisil. Ja me hindaks seda tõeliselt. Kui see rakendus on nutiseadmes olemas, siis ei teki meie tasuta rakendustes „Toeta meid“ teadet. Lisaks sellele saad määrata kõikidele meie rakendustele ühise välimuse. Ka hiljem paigaldatud meie rakendused kasutavad neid ühiseid värve. Tulevikus võime ka lisada muid lisaväärtust pakkuvaid võimalusi. Vältimaks automaatset ostusumma tagastust palun jäta rakendus paigaldatuks vähemalt üheks päevaks. See rakendus ei asenda sama tootegrupi Pro-taseme rakenduse versioone. Kui soovid neid kasutada, siis palun osta nad eraldi. Meie rakenduses pole reklaame ega asjatute õiguste eeldamist. Rakenduse lähtekood on avalikult saadaval ning välimust saad alati kohendada. <b>Teavet Lihtsate tarvikute rakendustest leiad siit:</b>https://www.simplemobiletools.com <b>Facebook:</b> https://www.facebook.com/simplemobiletools <b>Reddit:</b> https://www.reddit.com/r/SimpleMobileTools </string>
+</resources>
