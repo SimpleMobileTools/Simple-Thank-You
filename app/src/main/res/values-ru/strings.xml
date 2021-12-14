@@ -1,17 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Simple Thank You</string>
     <string name="app_launcher_name">Спасибо</string>
-    <string name="main_text">Thank you for supporting us!\n\nDrop us a line at \n hello@simplemobiletools.com,\n we\'d love to hear all your feedback and suggestions.\n\nIn case you want to support us even more, there are multiple other ways of donating at https://simplemobiletools.com/donate\n\n(Please keep the app installed to avoid seeing the \'Purchase\' dialog and have all app features unlocked)</string>
-
+    <string name="main_text">Спасибо вам за поддержку!
+\n
+\nНапишите нам по адресу
+\n hello@simplemobiletools.com,
+\n мы будем рады услышать все ваши отзывы и предложения.
+\n
+\nЕсли вы хотите ещё поддержать нас, есть несколько других способов сделать пожертвование на сайте https://simplemobiletools.com/donate
+\n
+\n(Пожалуйста, сохраняйте приложение установленным, чтобы не видеть диалоговое окно \"Покупка\" и чтобы все функции приложения оставались разблокированными.)</string>
     <!-- Settings -->
-    <string name="hide_launcher_icon">Hide the launcher icon</string>
-    <string name="hide_launcher_icon_explanation">To have the launcher icon displayed again, you will have to reinstall the app. Don\'t worry, you won\'t have to pay again.</string>
-
+    <string name="hide_launcher_icon">Скрыть значок приложения</string>
+    <string name="hide_launcher_icon_explanation">Чтобы значок снова появился, вам потребуется переустановить приложение. Не волнуйтесь, ещё раз платить не придётся.</string>
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
-    <string name="app_title">Simple Thank You - To our supporters</string>
+    <string name="app_title">Simple Thank You — поддержавшим нас</string>
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Thank you for supporting us!</string>
+    <string name="app_short_description">Спасибо вам за поддержку!</string>
     <string name="app_long_description">
         If you like our apps which are free, non-intrusive and have no ads, please consider supporting us in some way. It will be hugely appreciated.
 
@@ -32,7 +39,6 @@
         <b>Reddit:</b>
         https://www.reddit.com/r/SimpleMobileTools
     </string>
-
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
