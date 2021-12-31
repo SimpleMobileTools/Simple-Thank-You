@@ -1,2 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">Simple Thank You</string>
+    <string name="app_launcher_name">Gràcies</string>
+    <string name="main_text">Gràcies per donar-nos suport!
+\n
+\nEnvieu-nos unes línies a
+\n hola@simplemobiletools.com,
+\n ens agradaria escoltar tots els vostres comentaris i suggeriments.
+\n
+\n(Si us plau, mantingueu l\'aplicació instal·lada per evitar veure el diàleg «Compra« i tenir totes les funcions desbloquejades de l\'aplicació)</string>
+    <string name="hide_launcher_icon">Oculta la icona del llançador</string>
+    <string name="hide_launcher_icon_explanation">Per tornar a mostrar la icona del llançador, cal tornar a instal·lar l\'aplicació. No us preocupeu, no cal tornar a pagar.</string>
+    <string name="app_title">Gràcies simples: Als nostres seguidors</string>
+    <string name="app_short_description">Gràcies per donar-nos suport!</string>
+    <string name="app_long_description"> Si us agraden les nostres aplicacions que són gratuïtes, no intrusives i no tenen anuncis, considereu donar-nos suport d\'alguna manera. Serà molt apreciat. Tenir instal·lada aquesta aplicació evitarà que es mostri un diàleg de donació a les aplicacions gratuïtes. A part d\'això, també permet utilitzar un tema compartit, que significa que tan aviat com canvieu un color en una aplicació, totes les altres aplicacions s\'actualitzaran. Les aplicacions instal·lades recentment de la suite també rebran automàticament els colors compartits. Podria desbloquejar més funcions addicionals en el futur. Si us plau, mantingueu l\'aplicació instal·lada almenys durant un dia, per evitar que es reemborsin automàticament. Aquesta aplicació no substitueix les versions de l\'aplicació Pro. Encara les haureu de comprar per separat, per si les voleu utilitzar. No conté anuncis ni permisos innecessaris. És totalment de codi obert, proporciona colors personalitzables. <b>Consulteu el conjunt complet d\'eines Simples aquí:</b> https://www.simplemobiletools.com <b>Facebook:</b> https://www.facebook.com/simplemobiletools <b>Reddit:</b> https://www.reddit.com/r/SimpleMobileTools </string>
+</resources>
