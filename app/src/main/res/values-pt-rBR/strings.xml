@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Obrigado Simples</string>
+    <string name="app_launcher_name">Obrigado</string>
+    <string name="main_text">Obrigado por nos apoiar!
+\n
+\nEscreva para
+\n hello@simplemobiletools.com,
+\n adoraríamos ouvir todos os seus comentários e sugestões.
+\n
+\n(Por favor, mantenha o aplicativo instalado para evitar ver o diálogo \'Comprar\' e ter todos os recursos do aplicativo desbloqueados)</string>
+    <!-- Settings -->
+    <string name="hide_launcher_icon">Ocultar o ícone do aplicativo</string>
+    <string name="hide_launcher_icon_explanation">Para que o ícone do aplicativo seja exibido novamente, você terá que reinstalar o aplicativo. Não se preocupe, você não precisará pagar novamente.</string>
+    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
+    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
+    <string name="app_title">Obrigado Simples - Aos apoiadores</string>
+    <!-- Short description has to have less than 80 chars -->
+    <string name="app_short_description">Obrigado por nos apoiar!</string>
+    <string name="app_long_description"> Se você gosta de nossos aplicativos que são gratuitos, não intrusivos e não têm anúncios, por favor, considere apoiar-nos de alguma forma. Será muito bem-vindo. Ter este aplicativo instalado irá impedir a exibição de um diálogo \'Doe, por favor\' nos aplicativos gratuitos. Além disso, também permite usar um Tema Compartilhado, o que significa que, assim que você mudar uma cor em um aplicativo, todos os outros aplicativos serão atualizados. Os aplicativos recém-instalados da suíte também receberão automaticamente as cores compartilhadas. Ele pode desbloquear mais recursos extras no futuro. Por favor, mantenha o aplicativo instalado pelo menos por um dia, para evitar ser automaticamente reembolsado. Este aplicativo não é um substituto para as versões Pro. Você ainda terá que comprá-las separadamente, caso queira usá-las. Não contém anúncios ou permissões desnecessárias. Ele é totalmente de código aberto, fornece cores personalizáveis. <b>Check out the full suite of Simple Tools here:</b> https://www.simplemobiletools.com <b>Facebook:</b> https://www.facebook.com/simplemobiletools <b>Reddit:</b> https://www.reddit.com/r/SimpleMobileTools </string>
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>
