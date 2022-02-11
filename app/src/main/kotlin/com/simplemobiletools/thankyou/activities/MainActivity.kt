@@ -6,6 +6,7 @@ import android.view.Menu
 import android.view.MenuItem
 import com.simplemobiletools.commons.extensions.appLaunched
 import com.simplemobiletools.commons.extensions.checkWhatsNew
+import com.simplemobiletools.commons.extensions.hideKeyboard
 import com.simplemobiletools.commons.extensions.updateTextColors
 import com.simplemobiletools.commons.models.FAQItem
 import com.simplemobiletools.commons.models.Release
@@ -41,6 +42,7 @@ class MainActivity : SimpleActivity() {
     }
 
     private fun launchSettings() {
+        hideKeyboard()
         startActivity(Intent(this, SettingsActivity::class.java))
     }
 
