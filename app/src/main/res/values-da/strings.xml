@@ -2,7 +2,13 @@
 <resources>
     <string name="app_name">Simpel tak</string>
     <string name="app_launcher_name">Tak</string>
-    <string name="main_text">Tak fordi du støtter os!\n\nSkriv til os på\n hello@simplemobiletools.com,\n vi vil gerne høre din feedback og dine forslag.\n\n(Behold venligst appen installeret for at undgå at se dialogboksen \'Køb\' og få alle app-funktioner låst op)</string>
+    <string name="main_text">Tak fordi du støtter os!
+\n
+\nSkriv til os på
+\n hello@simplemobiletools.com,
+\n vi vil gerne høre din feedback og dine forslag.
+\n
+\n(Behold venligst appen installeret for at undgå at se dialogboksen \'Køb\' og få alle app-funktioner låst op)</string>
     <!-- Settings -->
     <string name="hide_launcher_icon">Skjul startikonet</string>
     <string name="hide_launcher_icon_explanation">For at få startikonet vist igen, skal du geninstallere appen. Bare rolig, du skal ikke betale igen.</string>
