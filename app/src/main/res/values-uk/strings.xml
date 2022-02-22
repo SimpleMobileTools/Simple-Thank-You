@@ -1,17 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Просто Подяка</string>
     <string name="app_launcher_name">Подяка</string>
     <string name="main_text">Дякуємо, що підтримуєте нас!\n\nНапишіть нам сюди \n hello@simplemobiletools.com,\n ми б хотіли почути ваші відгуки і пропозиції.\n\n(Будь ласка, залиште додаток встановленим, щоб не бачити діалогове вікно \'Купити\' , а також розблокувати всі можливості, які надає додаток)</string>
-
     <!-- Settings -->
     <string name="hide_launcher_icon">Приховати додаток у Меню</string>
     <string name="hide_launcher_icon_explanation">Щоб знову побачити додаток у Меню, вам доведеться знову встановити додаток. Не хвилюйтесь, ви не будете знову сплачувати.</string>
-
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
-    <string name="app_title">Simple Thank You - To our supporters</string>
+    <string name="app_title">Simple Thank You - Нашим прихильникам</string>
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Thank you for supporting us!</string>
+    <string name="app_short_description">Дякуємо, що підтримуєте нас!</string>
     <string name="app_long_description">
         Якщо вам подобаються наші додатки, які є безкоштовними, неінструктивними і не містять реклами, будь ласка, підтримайте нас у зручний для вас спосіб. Така підтримка для нас дуже важлива.
 
@@ -32,7 +31,6 @@
         <b>Reddit:</b>
         https://www.reddit.com/r/SimpleMobileTools
     </string>
-
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
