@@ -9,12 +9,12 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    compileSdkVersion 30
+    compileSdkVersion 31
 
     defaultConfig {
         applicationId "com.simplemobiletools.thankyou"
         minSdkVersion 21
-        targetSdkVersion 30
+        targetSdkVersion 31
         versionCode 23
         versionName "5.4.2"
         setProperty("archivesBaseName", "thank-you")
@@ -61,5 +61,5 @@ android {
 }
 
 dependencies {
-    implementation 'com.github.SimpleMobileTools:Simple-Commons:03e4d214b1'
+    implementation 'com.github.SimpleMobileTools:Simple-Commons:a6fa9c19ac'
 }
