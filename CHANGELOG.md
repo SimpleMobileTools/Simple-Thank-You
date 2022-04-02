@@ -1,6 +1,12 @@
 Changelog
 ==========
 
+Version 5.5.0 *(2022-04-02)*
+----------------------------
+
+ * Added Material You theme on Android 12+
+ * Added some translation improvements
+
 Version 5.4.2 *(2022-02-11)*
 ----------------------------
 
