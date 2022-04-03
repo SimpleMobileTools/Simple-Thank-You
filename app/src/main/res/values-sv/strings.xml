@@ -1,17 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Simple Thank You</string>
+    <string name="app_name">Simpelt tack</string>
     <string name="app_launcher_name">Tack</string>
     <string name="main_text">Tack för att du stödjer oss!\n\nSkriv till oss på \n hello@simplemobiletools.com,\n vi vill gärna höra alla dina synpunkter och förslag.\n\n(Behåll appen installerad för att låsa upp alla appfunktioner och hindra dialogrutan \'Köp\' från att visas)</string>
-
     <!-- Settings -->
     <string name="hide_launcher_icon">Dölj appens ikon</string>
     <string name="hide_launcher_icon_explanation">Om du vill visa appens ikon igen, måste du installera om appen. Oroa dig inte, du behöver inte betala igen.</string>
-
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
-    <string name="app_title">Simple Thank You - To our supporters</string>
+    <string name="app_title">Simpelt tack - till våra stödjare</string>
     <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Thank you for supporting us!</string>
+    <string name="app_short_description">Tack så mycket för att du stödjer oss!</string>
     <string name="app_long_description">
         Om du gillar våra appar som är gratis, inte är påträngande och inte innehåller reklam, överväg att stödja oss på något sätt. Det kommer att uppskattas enormt.
 
@@ -32,7 +31,6 @@
         <b>Reddit:</b>
         https://www.reddit.com/r/SimpleMobileTools
     </string>
-
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
