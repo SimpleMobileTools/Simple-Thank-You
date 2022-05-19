@@ -2,16 +2,16 @@
 <resources>
     <string name="app_name">Schlichtes Dankeschön</string>
     <string name="app_launcher_name">Dankeschön</string>
-    <string name="main_text">Danke für deine Unterstützung!
+    <string name="main_text">Vielen Dank für deine Unterstützung!
 \n
 \nSchreibe uns doch an
 \n hello@simplemobiletools.com,
-\n wir hören deine Rückmeldung und Kommentare und deine Vorschläge sehr gerne.
+\n wir freuen uns über jede Rückmeldung und jeden Vorschlag.
 \n
-\n(Bitte lasse diese Anwendung installiert, um den „Kaufen“-Dialog auszublenden und alle Features der Anwendung freizuschalten)</string>
+\n(Bitte diese Anwendung installiert lassen, um den „Kaufen“-Dialog auszublenden und alle Features der Anwendung freizuschalten)</string>
     <!-- Settings -->
     <string name="hide_launcher_icon">Das Launcher-Symbol ausblenden</string>
-    <string name="hide_launcher_icon_explanation">Um die App im Menü wieder anzuzeigen, musst du sie neu installieren. Keine Sorge, du musst die App dafür nicht nochmals kaufen.</string>
+    <string name="hide_launcher_icon_explanation">Um die App im Menü wieder anzuzeigen, muss sie neu installiert werden. Keine Sorge, die App muss nicht erneut gekauft werden.</string>
     <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
     <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
     <string name="app_title">Schlichtes Dankeschön – An alle unsere Unterstützer</string>
