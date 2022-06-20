@@ -3,17 +3,26 @@
 
 If you like our apps which are free, non-intrusive and have no ads, please consider supporting us in some way. It will be hugely appreciated.
 
-Please keep the app installed at least for a day, to avoid getting automatically refunded.
+Having this app installed will prevent the displaying of a "Donate please" dialog in the free apps. Other than that, it also allows using a Shared Theme, which means that as soon as you change a color in one app, all other apps will be updated. Newly installed apps from the suite will automagically receive the shared colors too.
 
-The purpose of this app is just to avoid sporadically seeing the "Donate please" dialog, it might unlock extra features in the future.
+It might unlock more extra features in the future. Please keep the app installed at least for a day, to avoid getting automatically refunded.
+
+This app is not a replacement for the Pro app versions. You will still have to purchase them separately, in case you want to use them.
 
 Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
 
-This app is just one piece of a bigger series of apps. You can find the rest of them at https://www.simplemobiletools.com
+Check out the full suite of Simple Tools here:  
+https://www.simplemobiletools.com
+
+Facebook:  
+https://www.facebook.com/simplemobiletools
+
+Reddit:  
+https://www.reddit.com/r/SimpleMobileTools
 
 <a href='https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou'><img src='https://simplemobiletools.com/images/button-google-play.svg' alt='Get it on Google Play' height=45/></a>
 
 <div style="display:flex;">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/english/1.jpg" width="30%">
-<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/english/2.jpg" width="30%">
+<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg" width="30%">
+<img alt="App image" src="fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg" width="30%">
 </div>
