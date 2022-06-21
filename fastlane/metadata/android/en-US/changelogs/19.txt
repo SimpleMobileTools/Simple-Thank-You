@@ -1,1 +1,0 @@
- * Adding White theme with an accent color
