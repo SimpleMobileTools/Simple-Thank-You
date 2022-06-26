@@ -1,11 +1,18 @@
-Se piaccono le applicazioni gratuite, non intrusive e senza pubblicità, si può considerare di supportarci in qualche modo. Verrà molto apprezzato.
+Se ti piacciono le nostre app che sono gratuite, non invadenti e non hanno pubblicità, considera di supportarci in qualche modo. Sarà molto apprezzato.
 
 Avere questa applicazione installata impedisce la visualizzazione del dialogo "Dona". Oltre a questo, potrai utilizzare i temi condivisi, il che significa che se si cambia cambi il colore in un'applicazione, anche le altre applicazioni verranno aggiornate. Le nuove applicazioni installate della serie automagicamente utilizzeranno il tema condiviso.
 
-Potrebbe sbloccare funzionalità aggiuntive in futuro. Si consiglia di mantenere quest'applicazione per qualche giorno, per evitare il rimborso automatico.
+Si prega di mantenere l'app installata almeno per un giorno, per evitare il rimborso automatico.
 
-This app is not a a replacement for the Pro app versions. You will still have to purchase them separately, in case you want to use them.
+Questa app non sostituisce le versioni Pro delle app Dovrai comunque acquistarle separatamente, nel caso volessi usarli.
 
-L'applicazione non contiene pubblicità o permessi non necessari; è completamente opensource e la si può personalizzare con i propri colori preferiti.
+Non contiene annunci o autorizzazioni non necessarie. È completamente open source, fornisce colori personalizzabili.
 
-Questa è solamente una delle tante applicazioni della serie Simple Mobile Tools. Si possono trovare le altre su https://www.simplemobiletools.com
+<b>Dai un'occhiata alla suite completa di Simple Tools qui:</b>
+https://www.simplemobiletools.com
+
+Facebook:
+https://www.facebook.com/simplemobiletools
+
+Reddit:
+https://www.reddit.com/r/SimpleMobileTools
