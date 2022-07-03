@@ -8,7 +8,7 @@ This app is not a replacement for the Pro app versions. You will still have to p
 
 Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
 
-<b>Check out the full suite of Simple Tools here:</b>
+Check out the full suite of Simple Tools here:
 https://www.simplemobiletools.com
 
 Facebook:
