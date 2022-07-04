@@ -8,7 +8,7 @@ Aquesta aplicació no substitueix les versions Pro de les aplicacions. Encara ca
 
 No conté anuncis ni permisos innecessaris. És totalment de codi obert, proporciona colors personalitzables.
 
-<b>Consulteu el conjunt complet d'eines senzilles aquí:</b>
+Consulteu el conjunt complet d'eines senzilles aquí:
 https://www.simplemobiletools.com
 
 Facebook:
@@ -16,3 +16,6 @@ https://www.facebook.com/simplemobiletools
 
 Reddit:
 https://www.reddit.com/r/SimpleMobileTools
+
+Telegram:
+https://t.me/SimpleMobileTools
