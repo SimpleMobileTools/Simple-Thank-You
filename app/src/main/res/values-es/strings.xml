@@ -6,33 +6,6 @@
     <!-- Settings -->
     <string name="hide_launcher_icon">Ocultar el ícono del launcher</string>
     <string name="hide_launcher_icon_explanation">Para volver a mostrar el ícono del launcher, tendrás que reinstalar la aplicación. No te preocupes, no tendrás que pagar de nuevo.</string>
-
-    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
-    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
-    <string name="app_title">Simple Thank You - A nuestros seguidores</string>
-    <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">¡Gracias por apoyarnos!</string>
-    <string name="app_long_description">
-        Si te gustan nuestras aplicaciones que son gratuitas, no invasivas y sin anuncios, por favor, considera apoyarnos de alguna forma. Será enormemente apreciado.
-
-        Tener esta aplicación instalada evitará que se muestre el cuadro de "Por favor dona" en las aplicaciones gratuitas. Además de eso, también te permitirá usar un Tema Compartido, lo que significa que tan pronto como cambies un color en una aplicación, todas las demás se actualizarán. Las nuevas aplicaciones instaladas de la suite también recibirán los colores compartidos.
-
-        Podría desbloquear más características extra en el futuro. Por favor, mantén la aplicación instalada al menos por un día, para evitar ser reembolsado automáticamente.
-
-        Esta aplicación no es un remplazo de las aplicaciones de versión Pro. Aún tendrás que comprarlas por separado en caso de que quieras usarlas.
-
-        No contiene anuncios o permisos innecesarios. Es completamente de código abierto, provee colores personalizables.
-
-        <b>Check out the full suite of Simple Tools here:</b>
-        https://www.simplemobiletools.com
-
-        <b>Facebook:</b>
-        https://www.facebook.com/simplemobiletools
-
-        <b>Reddit:</b>
-        https://www.reddit.com/r/SimpleMobileTools
-    </string>
-
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res

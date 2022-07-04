@@ -12,12 +12,6 @@
     <!-- Settings -->
     <string name="hide_launcher_icon">Başlatıcı simgesini gizle</string>
     <string name="hide_launcher_icon_explanation">Başlatıcı simgesinin tekrar görüntülenmesi için uygulamayı yeniden kurmanız gerekir. Endişelenmeyin, tekrar ödeme yapmanız gerekmez.</string>
-    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
-    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
-    <string name="app_title">Basit Teşekkürler - Destekçilerimiz İçin</string>
-    <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Bizi desteklediğiniz için teşekkürler!</string>
-    <string name="app_long_description"> Ücretsiz, rahatsız edici olmayan ve reklam içermeyen uygulamalarımızı beğendiyseniz, lütfen bizi bir şekilde desteklemeyi düşünün. Bu oldukça takdir edilecektir. Bu uygulamanın kurulması, ücretsiz uygulamalarda Lütfen Bağış yapın iletişim kutusunun görüntülenmesini engelleyecektir. Bunun dışında, Paylaşılan Tema kullanımına da izin verir; yani bu, bir uygulamada bir rengi değiştirdiğiniz anda diğer tüm uygulamaların da aynı şekilde güncelleneceği anlamına gelir. Paketten yeni kurulan uygulamalar da otomatik olarak paylaşılan renkleri alacaktır. Gelecekte daha fazla ek özelliğin kilidini açabilir. Otomatik olarak para iadesi almamak için lütfen uygulamayı en az bir gün boyunca kurulu tutun. Bu uygulama, Pro uygulama sürümlerinin yerine geçmez. Kullanmak istemeniz durumunda bunları ayrıca satın almanız gerekecektir. Reklam veya gereksiz izinler içermez. Tamamen açık kaynaklıdır, özelleştirilebilir renkler sağlar. <b>Basit Araçlar paketinin tamamını buradan inceleyin:</b> https://www.simplemobiletools.com <b>Facebook:</b> https://www.facebook.com/simplemobiletools <b>Reddit:</b> https://www.reddit.com/r/SimpleMobileTools </string>
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res

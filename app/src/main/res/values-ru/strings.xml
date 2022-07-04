@@ -12,31 +12,6 @@
     <!-- Settings -->
     <string name="hide_launcher_icon">Скрыть значок приложения</string>
     <string name="hide_launcher_icon_explanation">Чтобы значок снова появился, вам потребуется переустановить приложение. Не волнуйтесь, ещё раз платить не придётся.</string>
-    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
-    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
-    <string name="app_title">Simple Thank You — поддержавшим нас</string>
-    <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Спасибо вам за поддержку!</string>
-    <string name="app_long_description">
-        If you like our apps which are free, non-intrusive and have no ads, please consider supporting us in some way. It will be hugely appreciated.
-
-        Having this app installed will prevent the displaying of a "Donate please" dialog in the free apps. Other than that, it also allows using a Shared Theme, which means that as soon as you change a color in one app, all other apps will be updated. Newly installed apps from the suite will automagically receive the shared colors too.
-
-        It might unlock more extra features in the future. Please keep the app installed at least for a day, to avoid getting automatically refunded.
-
-        This app is not a a replacement for the Pro app versions. You will still have to purchase them separately, in case you want to use them.
-
-        Contains no ads or unnecessary permissions. It is fully opensource, provides customizable colors.
-
-        <b>Check out the full suite of Simple Tools here:</b>
-        https://www.simplemobiletools.com
-
-        <b>Facebook:</b>
-        https://www.facebook.com/simplemobiletools
-
-        <b>Reddit:</b>
-        https://www.reddit.com/r/SimpleMobileTools
-    </string>
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res

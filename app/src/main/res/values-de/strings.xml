@@ -12,12 +12,6 @@
     <!-- Settings -->
     <string name="hide_launcher_icon">Das Launcher-Symbol ausblenden</string>
     <string name="hide_launcher_icon_explanation">Um die App im Menü wieder anzuzeigen, muss sie neu installiert werden. Keine Sorge, die App muss nicht erneut gekauft werden.</string>
-    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
-    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
-    <string name="app_title">Schlichtes Dankeschön – An alle unsere Unterstützer</string>
-    <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Vielen Dank für die Unterstützung!</string>
-    <string name="app_long_description"> Wenn Sie unsere kostenlosen, unaufdringlichen und werbungsfreien Apps mögen, überlegen Sie bitte, uns zu unterstützen. Wir schätzen das unglaublich! Durch die Installation dieser App wird der Bitte-spenden-Dialog in den kostenlosen Apps unterdrückt. Zusätzlich haben Sie die Möglichkeit, ein Shared Theme zu nutzen, welches von Ihnen vorgenommene Farbanpassungen in alle anderen Schlichten Apps überträgt. Neuinstallierte Apps aus der Serie werden automatisch im Shared Theme dargestellt. Möglicherweise können durch diese App zukünftige Extra-Features freigeschaltet werden. Bitte lassen Sie diese App mindestens einen Tag lang installiert, um die automatische Rückerstattung zu vermeiden. Diese Anwendung ist kein Ersatz für die Pro-App-Versionen. Sie müssen sie weiterhin separat installieren, falls Sie sie verwenden möchten. Enthält keine Werbung und benötigt keine unnötigen Berechtigungen. Sie ist vollständig quelloffen und bietet anpassbare Farben. <b>Schau dir die vollständige Serie der Schlichten Anwendungen hier an:</b> https://www.simplemobiletools.com <b>Facebook:</b> https://www.facebook.com/simplemobiletools <b>Reddit:</b> https://www.reddit.com/r/SimpleMobileTools </string>
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res

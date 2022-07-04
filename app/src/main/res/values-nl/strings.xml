@@ -6,33 +6,6 @@
     <!-- Settings -->
     <string name="hide_launcher_icon">Launcher-icoon verbergen</string>
     <string name="hide_launcher_icon_explanation">Om het launcher-icoon weer te tonen, deïnstalleer en herinstalleer de app. Wees niet bang, betalen hoeft maar een keer.</string>
-
-    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
-    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
-    <string name="app_title">Eenvoudig bedankje aan onze ondersteuners</string>
-    <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Hartelijk dank voor uw steun!</string>
-    <string name="app_long_description">
-        Door deze app aan te schaffen kunt u de ontwikkeling van onze apps steunen. Dit zou enorm op prijs worden gesteld.
-
-        Deze app zal voorkomen dat het venster \'Doneren\' wordt getoond in de gratis apps. Verder geeft het de mogelijkheid om een gedeeld thema te gebruiken, wat betekent dat kleuraanpassingen in de ene app zullen worden doorgevoerd in de andere apps. Ook nieuw geïnstalleerde apps zullen deze kleuren automatisch ontvangen.
-
-        Mogelijk zal deze app extra functies in apps ontgrendelen. Houd de app minstens een dag geïnstalleerd om te voorkomen dat de aanschaf automatisch ongedaan wordt gemaakt.
-
-        Deze app is geen vervanging voor de Pro-versies. Deze zullen apart moeten worden aangeschaft indien u de Pro-features wilt gebruiken.
-
-        Bevat geen advertenties of onnodige machtigingen. Volledig open-source. Kleuren van de app kunnen worden aangepast.
-
-        <b>Probeer ook eens de andere apps van Simple Tools:</b>
-        https://www.simplemobiletools.com
-
-        <b>Facebook:</b>
-        https://www.facebook.com/simplemobiletools
-
-        <b>Reddit:</b>
-        https://www.reddit.com/r/SimpleMobileTools
-    </string>
-
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res

@@ -12,12 +12,6 @@
     <!-- Settings -->
     <string name="hide_launcher_icon">Masquer l\'icône de l\'application</string>
     <string name="hide_launcher_icon_explanation">Pour que l\'icône de l\'application s\'affiche de nouveau dans votre lanceur d\'applications, vous devrez réinstaller l\'application. Aucune inquiétude, vous ne devrez pas effectuer un nouveau paiement.</string>
-    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
-    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
-    <string name="app_title">Simple merci – À nos soutiens</string>
-    <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Merci de votre soutien !</string>
-    <string name="app_long_description"> Si vous aimez nos applications, qui sont gratuites, non intrusives et sans publicité, pensez à nous soutenir d\'une manière ou d\'une autre. Nous vous en serons très reconnaissants. L\'installation de cette application empêchera l\'affichage de la boîte de dialogue Faire une don dans les applications gratuites. En outre, elle permet également d\'utiliser un thème partagé, ce qui signifie que dès que vous changez une couleur dans une application, toutes les autres applications sont mises à jour. Les applications de la suite nouvellement installées recevront automatiquement les couleurs partagées. Cette application pourrait débloquer d\'autres fonctionnalités supplémentaires à l\'avenir. Veuillez garder l\'application installée au moins une journée, pour éviter d\'être automatiquement remboursé. Cette application ne remplace pas les versions Pro de l\'application. Vous devrez les acheter séparément, si vous souhaitez les utiliser. Elle ne contient pas de publicités ni de permissions inutiles. Il est entièrement opensource, fournit des couleurs personnalisables. <b>Découvrez la suite complète de Simple Tools ici :</b> https://www.simplemobiletools.com <b>Facebook :</b> https://www.facebook.com/simplemobiletools <b>Reddit :</b> https://www.reddit.com/r/SimpleMobileTools </string>
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res

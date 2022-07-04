@@ -6,33 +6,6 @@
     <!-- Settings -->
     <string name="hide_launcher_icon">Skryť spúšťaciu ikonku</string>
     <string name="hide_launcher_icon_explanation">Na opätovné zobrazenie ikonky budete musieť preinštalovať apku. Nebojte sa, už nebudete musieť platiť.</string>
-
-    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
-    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
-    <string name="app_title">Jednoduché ďakujem - Pre našich podporovateľov</string>
-    <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Ďakujeme za podporu!</string>
-    <string name="app_long_description">
-        Ak máte radi naše aplikácie, ktoré sú bezplatné, nie sú dotieravé a neobsahujú ani reklamy, prosím pouvažujte nad našim podporením. Budeme za to veľmi vďační.
-
-        Ak máte nainštalovanú túto aplikáciu, nebude sa vám v bezplatných apkách zobrazovať okno "Podporte nás prosím". Taktiež budete môcť použiť Zdieľanú tému, čo znamená, že akonáhle zmeníte niektorú farbu v jednej aplikácií, ostatné sa zmenia tiež. Zdieľané farby budú automagicky aplikované aj na novo nainštalované aplikácie z tejto skupiny.
-
-        V budúcnosti bude možno odomykať dodatočné funkcie. Prosím ponechajte si aplikáciu nainštalovanú aspoň 1 deň, predídete tak automatickému vráteniu peňazí.
-
-        Táto apka nie je náhradou za Pro verzie apiek. V prípade, že ich chcete používať, si ich budete musieť kúpiť zvlášť.
-
-        Neobsahuje žiadne reklamy a nepotrebné oprávnenia. Je opensource, poskytuje možnosť zmeny farieb.
-
-        <b>Pozrite si celú sadu aplikácií na:</b>
-        https://www.simplemobiletools.com
-
-        <b>Facebook:</b>
-        https://www.facebook.com/simplemobiletools
-
-        <b>Reddit:</b>
-        https://www.reddit.com/r/SimpleMobileTools
-    </string>
-
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res

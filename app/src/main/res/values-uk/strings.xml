@@ -6,12 +6,6 @@
     <!-- Settings -->
     <string name="hide_launcher_icon">Приховати додаток у Меню</string>
     <string name="hide_launcher_icon_explanation">Щоб знову побачити додаток у Меню, вам доведеться знову встановити додаток. Не хвилюйтесь, ви не будете знову сплачувати.</string>
-    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
-    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
-    <string name="app_title">Проста Подяка - Для наших прихильників</string>
-    <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Дякуємо, що підтримуєте нас!</string>
-    <string name="app_long_description"> Якщо вам подобаються наші додатки, які є безкоштовними, ненав’язливими і не містять реклами, будь ласка, підтримайте нас у зручний для вас спосіб. Така підтримка для нас дуже важлива. Якщо ви встановите цей додаток, ви не будете бачити діалогове вікно з проханням підтримки у безкоштовних версіях додатків. Більше того, цей додаток дозволяє використовувати Спільну Тему Оформлення; це означає, що як тільки ви зміните колір в одному додатку, всі інші додатки також будуть оновлені. Щойно встановлені додатки з набору Simple Mobile Tools також автоматично отримають спільні кольори. В майбутньому цей додаток може надати доступ до інших додаткових налаштувань. Будь ласка, залиште цей додаток встановленим щонайменше на один день, щоб уникнути автоматичного повернення коштів. Ця програма не замінює Pro-версії додатків. Вам все одно доведеться окремо їх купувати, якщо бажаєте ними скористатися. Цей додаток не буде показувати рекламу; потрібні лише найнеобхідніші дозволи. Програмний код повністю відкритий, забезпечує настроювальні кольори оформлення. <b>Ознайомтеся з повним набором додатків Simple Tools тут:</b> https://www.simplemobiletools.com <b>Facebook:</b> https://www.facebook.com/simplemobiletools <b>Reddit:</b> https://www.reddit.com/r/SimpleMobileTools </string>
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res

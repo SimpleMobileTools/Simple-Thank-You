@@ -12,12 +12,6 @@
     <!-- Settings -->
     <string name="hide_launcher_icon">Peida rakenduse ikoon</string>
     <string name="hide_launcher_icon_explanation">Kui soovid rakenduse ikooni uuesti näha, siis paigalda rakendus uuesti. Ära muretse, uuesti maksta pole vaja.</string>
-    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
-    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
-    <string name="app_title">Lihtne tänuavaldus - meie toetajatele</string>
-    <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Täname, et toetad meid!</string>
-    <string name="app_long_description"> Kui sulle meeldivad meie tasuta, mittepealetükkivad ning reklaamivabad rakendused, siis palun toeta meid mõnel viisil. Ja me hindaks seda tõeliselt. Kui see rakendus on nutiseadmes olemas, siis ei teki meie tasuta rakendustes „Toeta meid“ teadet. Lisaks sellele saad määrata kõikidele meie rakendustele ühise välimuse. Ka hiljem paigaldatud meie rakendused kasutavad neid ühiseid värve. Tulevikus võime ka lisada muid lisaväärtust pakkuvaid võimalusi. Vältimaks automaatset ostusumma tagastust palun jäta rakendus paigaldatuks vähemalt üheks päevaks. See rakendus ei asenda sama tootegrupi Pro-taseme rakenduse versioone. Kui soovid neid kasutada, siis palun osta nad eraldi. Meie rakenduses pole reklaame ega asjatute õiguste eeldamist. Rakenduse lähtekood on avalikult saadaval ning välimust saad alati kohendada. <b>Teavet Lihtsate tarvikute rakendustest leiad siit:</b>https://www.simplemobiletools.com <b>Facebook:</b> https://www.facebook.com/simplemobiletools <b>Reddit:</b> https://www.reddit.com/r/SimpleMobileTools </string>
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res

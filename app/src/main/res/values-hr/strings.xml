@@ -12,12 +12,6 @@
     <!-- Settings -->
     <string name="hide_launcher_icon">Sakrij ikonu pokretanja</string>
     <string name="hide_launcher_icon_explanation">Da bi se ikona pokretanja ponovo prikazala, morat ćeš ponovo instalirati aplikaciju. Ne brini, nećeš morati ponovo platiti.</string>
-    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
-    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
-    <string name="app_title">Jednostavno hvala - Našim podržavateljima</string>
-    <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Hvala ti na podršci!</string>
-    <string name="app_long_description"> Ako ti se sviđaju naše besplatne, nenametljive aplikacije bez oglase, razmisli o tome da nas na neki način podržiš. Tvoju podršku iznimno cijenimo. Instaliranjem ove aplikacije spriječit će se prikaz dijaloškog okvira „Doniraj” u besplatnim aplikacijama. Osim toga, također omogućuje korištenje zajedničke teme, što znači da će se sve ostale aplikacije ažurirati čim promijeniš boju u jednoj aplikaciji. Novoinstalirane aplikacije iz paketa automatski će također dobiti dijeljene boje. To će možda otključati dodatne značajke u budućnosti. Ostavi aplikaciju instaliranom barem jedan dan za izbjegavanje automatskog povrata novca. Ova aplikacija nije zamjena za verzije Pro aplikacije. I dalje ćeš ih morati kupiti zasebno, u slučaju da ih želiš koristiti. Ne sadrži oglase niti nepotrebne dozvole. Potpuno je otvorenog koda, pruža prilagodljive boje. <b>Pogledaj cijeli paket „Jednostavni alati” ovdje:</b> https://www.simplemobiletools.com <b>Facebook:</b> https://www.facebook.com/simplemobiletools <b>Reddit:</b> https://www.reddit.com/r/SimpleMobileTools </string>
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res

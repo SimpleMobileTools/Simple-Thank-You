@@ -6,14 +6,6 @@
     <!-- Settings -->
     <string name="hide_launcher_icon">Skjul startikonet</string>
     <string name="hide_launcher_icon_explanation">For at få startikonet vist igen, skal du geninstallere appen. Bare rolig, du skal ikke betale igen.</string>
-    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
-    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
-    <string name="app_title">Simpel tak - til vores supportere</string>
-    <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Tak fordi du støtter os!</string>
-    <string name="app_long_description">
-        Hvis du kan lide vores apps, som er gratis, ikke påtrængende og uden reklamer, kan du overveje at støtte os på en eller anden måde. Det vil blive meget værdsat. Hvis du har denne app installeret, forhindrer du, at der vises en dialogboks med \"Donér venligst\" i de gratis apps. Udover det giver den også mulighed for at bruge et delt tema, hvilket betyder, at så snart du ændrer en farve i én app, vil alle andre apps blive opdateret. Nyligt installerede apps fra pakken vil automatisk også få de delte farver. Det vil måske låse op for flere ekstra funktioner i fremtiden. Lad venligst appen være installeret i mindst en dag for at undgå at blive automatisk refunderet. Denne app er ikke en erstatning for Pro-appversionerne. Du skal stadig købe dem separat, hvis du ønsker at bruge dem. Indeholder ingen reklamer eller unødvendige tilladelser. Den er fuldt ud opensource, giver tilpassede farver. <b>Se hele pakken af Simple Tools her:</b> https://www.simplemobiletools.com <b>Facebook:</b> https://www.facebook.com/simplemobiletools <b>Reddit:</b> https://www.reddit.com/r/SimpleMobileTools
-    </string>
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res

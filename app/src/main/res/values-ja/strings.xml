@@ -12,12 +12,6 @@
     <!-- Settings -->
     <string name="hide_launcher_icon">ランチャーアイコンを非表示にする</string>
     <string name="hide_launcher_icon_explanation">ランチャーアイコンを再度表示するには、アプリを再インストールする必要があります。支払いはもう次からはしなくても大丈夫です。</string>
-    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
-    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
-    <string name="app_title">Simple Thank You - 支援者の方々へ</string>
-    <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">応援ありがとうございます!</string>
-    <string name="app_long_description"> 無料で、邪魔にならず、広告のない私たちのアプリをもしもあなたが気に入っていただけたなら、何らかの方法で私たちをサポートすることをご検討ください。大変ありがたいことです。 このアプリをインストールすると、無料アプリに 「寄付をお願いします」 というダイアログが表示されなくなります。また、共有テーマを使用できるようになり、あるアプリで色を変更すると、他のすべてのアプリも更新されます。同じシリーズから新たにインストールされたアプリにも、共有カラーが自動で適用されます。 将来的には、さらに多くの機能が追加されるかもしれません。自動的に返金されないように、少なくとも1日はアプリをインストールしておいてください。 このアプリはPro版に代わるものではありません。ご利用の際には別途ご購入いただく必要がございます。 広告や不要なアクセス許可は含まれていません。完全にオープンソースで、色のカスタマイズも可能です。 <b>Simple Toolsの全製品はこちらをご確認ください。</b> https://www.simplemobiletools.com <b>Facebook:</b> https://www.facebook.com/simplemobiletools <b>Reddit:</b> https://www.reddit.com/r/SimpleMobileTools </string>
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res

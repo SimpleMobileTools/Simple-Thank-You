@@ -6,33 +6,6 @@
     <!-- Settings -->
     <string name="hide_launcher_icon">Paslėpti paleidimo priemonės ikonelę</string>
     <string name="hide_launcher_icon_explanation">Kad paleidimo priemonės piktograma vėl būtų rodoma, turite iš naujo įdiegti programėlę. Nesijaudinkite, jūs neturite mokėti dar kartą.</string>
-
-    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
-    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
-    <string name="app_title">Simple Thank You - To our supporters</string>
-    <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Thank you for supporting us!</string>
-    <string name="app_long_description">
-        Jei jums patinka mūsų programėlės, kurios yra laisvos, neklaidinančios ir neturinčios skelbimų, prašome apsvarstyti, ar palaikysite mus tokiu būdu. Tai bus labai vertinama.
-
-        Nepamirškite, laikyti programėlės įdiegtos mažiausiai vieną dieną, kad nebūtų automatiškai grąžinti pinigai.
-
-        Šios programėlės tikslas yra tik toks, kad nebūtų atsitiktinai matomas dialogo langas "Prašome paaukoti", tai ateityje gali atrakinti papildomų funkcijų.
-
-        This app is not a a replacement for the Pro app versions. You will still have to purchase them separately, in case you want to use them.
-
-        CNeturi reklamų ar nereikalingų leidimų. Programėlė visiškai atviro kodo, yra galimybė keisti spalvas.
-
-        <b>Check out the full suite of Simple Tools here:</b>
-        https://www.simplemobiletools.com
-
-        <b>Facebook:</b>
-        https://www.facebook.com/simplemobiletools
-
-        <b>Reddit:</b>
-        https://www.reddit.com/r/SimpleMobileTools
-    </string>
-
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res

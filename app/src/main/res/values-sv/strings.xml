@@ -6,31 +6,6 @@
     <!-- Settings -->
     <string name="hide_launcher_icon">Dölj appens ikon</string>
     <string name="hide_launcher_icon_explanation">Om du vill visa appens ikon igen, måste du installera om appen. Oroa dig inte, du behöver inte betala igen.</string>
-    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
-    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
-    <string name="app_title">Simpelt tack - till våra stödjare</string>
-    <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">Tack så mycket för att du stödjer oss!</string>
-    <string name="app_long_description">
-        Om du gillar våra appar som är gratis, inte är påträngande och inte innehåller reklam, överväg att stödja oss på något sätt. Det kommer att uppskattas enormt.
-
-        Behåll appen installerad i minst en dag för att undvika en automatisk återbetalning.
-
-        Syftet med denna app är bara att hindra dialogrutan "Donera" från att visas sporadiskt. Den kan kanske låsa upp extrafunktioner i framtiden.
-
-        This app is not a a replacement for the Pro app versions. You will still have to purchase them separately, in case you want to use them.
-
-        Innehåller ingen reklam eller onödiga behörigheter. Den har helt öppen källkod och anpassningsbara färger.
-
-        <b>Check out the full suite of Simple Tools here:</b>
-        https://www.simplemobiletools.com
-
-        <b>Facebook:</b>
-        https://www.facebook.com/simplemobiletools
-
-        <b>Reddit:</b>
-        https://www.reddit.com/r/SimpleMobileTools
-    </string>
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res

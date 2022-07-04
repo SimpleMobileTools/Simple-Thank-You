@@ -12,12 +12,6 @@
     <!-- Settings -->
     <string name="hide_launcher_icon">הסתר את סמל המפעיל</string>
     <string name="hide_launcher_icon_explanation">כדי שסמל המפעיל יוצג שוב, תצטרך להתקין מחדש את האפליקציה. אל תדאג, לא תצטרך לשלם שוב.</string>
-    <!-- Strings displayed only on Google Playstore. Optional, but good to have -->
-    <!-- App title has to have less than 50 characters. If you cannot squeeze it, just remove a part of it -->
-    <string name="app_title">פשוט תודה - לתומכים שלנו</string>
-    <!-- Short description has to have less than 80 chars -->
-    <string name="app_short_description">תודה שתמכת בנו!</string>
-    <string name="app_long_description"> אם אתה אוהב את האפליקציות שלנו שהן בחינם, לא פולשניות ואין בהן פרסומות, אנא שקול לתמוך בנו בדרך כלשהי. זה יזכה להערכה רבה. התקנת אפליקציה זו תמנע את הצגת תיבת הדו-שיח \'תרום בבקשה\' באפליקציות החינמיות. מלבד זאת, הוא גם מאפשר שימוש ב-Shared Theme, מה שאומר שברגע שתשנה צבע באפליקציה אחת, כל שאר האפליקציות יתעדכנו. אפליקציות שהותקנו לאחרונה מהחבילה יקבלו באופן אוטומטי גם את הצבעים המשותפים. זה עשוי לפתוח תכונות נוספות נוספות בעתיד. אנא השאר את האפליקציה מותקנת לפחות ליום, כדי למנוע קבלת החזר אוטומטי. אפליקציה זו אינה תחליף לגרסאות האפליקציה Pro. עדיין תצטרך לרכוש אותם בנפרד, למקרה שתרצה להשתמש בהם. אינו מכיל פרסומות או הרשאות מיותרות. זה קוד פתוח לחלוטין, מספק צבעים הניתנים להתאמה אישית. <b>בדוק את החבילה המלאה של כלים פשוטים כאן:</b> https://www.simplemobiletools.com <b>פייסבוק:</b> https://www.facebook.com/simplemobiletools <b>Reddit :</b> https://www.reddit.com/r/SimpleMobileTools </string>
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
