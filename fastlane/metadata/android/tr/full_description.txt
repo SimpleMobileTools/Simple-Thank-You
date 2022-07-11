@@ -8,7 +8,7 @@ Bu uygulama, Pro uygulama sürümlerinin yerine geçmez. Kullanmak istemeniz dur
 
 Reklam veya gereksiz izinler içermez. Tamamen açık kaynaktır, özelleştirilebilir renkler sağlar.
 
-<b>Basit Araçlar paketinin tamamını buradan inceleyin:</b>
+Basit Araçlar paketinin tamamını buradan inceleyin:
 https://www.simplemobiletools.com
 
 Facebook:
@@ -16,3 +16,6 @@ https://www.facebook.com/simplemobiletools
 
 Reddit:
 https://www.reddit.com/r/SimpleMobileTools
+
+Telegram:
+https://t.me/SimpleMobileTools
