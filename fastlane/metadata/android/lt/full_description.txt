@@ -4,8 +4,16 @@ Nepamirškite, laikyti programėlės įdiegtos mažiausiai vieną dieną, kad ne
 
 Šios programėlės tikslas yra tik toks, kad nebūtų atsitiktinai matomas dialogo langas "Prašome paaukoti", tai ateityje gali atrakinti papildomų funkcijų.
 
-This app is not a a replacement for the Pro app versions. You will still have to purchase them separately, in case you want to use them.
-
 CNeturi reklamų ar nereikalingų leidimų. Programėlė visiškai atviro kodo, yra galimybė keisti spalvas.
 
-Ši programėle yra viena iš keletos mūsų programėlių. Likusias Jūs galite rasti čia https://www.simplemobiletools.com
+Check out the full suite of Simple Tools here:
+https://www.simplemobiletools.com
+
+Facebook:
+https://www.facebook.com/simplemobiletools
+
+Reddit:
+https://www.reddit.com/r/SimpleMobileTools
+
+Telegram:
+https://t.me/SimpleMobileTools
