@@ -2,7 +2,13 @@
 <resources>
     <string name="app_name">Simple Thank You</string>
     <string name="app_launcher_name">Kiitos</string>
-    <string name="main_text">Kiitos tuestasi!\N\nLaita ihmeessä palautetta osoitteeseen\n hello@simplemobiletools.com,\n haluaisimme kuulla kaikki palautteesi ja ehdotuksesi.\N\n(Pidä sovellus asennettuna, jotta et näe \"Osta\"-valintaikkunaa ja kaikkien sovellusten ominaisuuksien lukitus on avattu)</string>
+    <string name="main_text">Kiitos tuestasi!
+\n
+\nLaita ihmeessä palautetta osoitteeseen
+\n hello@simplemobiletools.com,
+\n haluaisimme kuulla kaikki palautteesi ja ehdotuksesi.
+\n
+\n(Pidä sovellus asennettuna, jotta et näe \"Osta\"-valintaikkunaa ja kaikkien sovellusten ominaisuuksien lukitus on avattu)</string>
     <!-- Settings -->
     <string name="hide_launcher_icon">Piilota kuvake aloitusnäyttösovelluksesta</string>
     <string name="hide_launcher_icon_explanation">Kuvakkeen tuominen uudelleen näkyviin vaatii sovelluksen uudelleenasentamisen. Ei huolta, et joudu ostamaan sovellusta uudelleen.</string>
