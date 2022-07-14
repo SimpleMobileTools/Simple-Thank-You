@@ -1,8 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Jednoduché děkuji</string>
     <string name="app_launcher_name">Děkuji</string>
-    <string name="main_text">Děkujeme za vaši podporu!\n\nNapište nám na \n hello@simplemobiletools.com,\n rádi uslyšíme jakoukoliv zpětnou vazbu a doporučení.\n\n(Ponechejte si prosím aplikaci nainstalovanou, aby se vám nezobrazoval dialog \'Podpořte nás\' a měli všechny funkce aplikací odemknuté)</string>
-
+    <string name="main_text">Děkujeme za vaši podporu!
+\n
+\nNapište nám na
+\n hello@simplemobiletools.com,
+\n rádi uslyšíme jakoukoliv zpětnou vazbu a doporučení.
+\n
+\n(Ponechejte si prosím aplikaci nainstalovanou, aby se vám nezobrazoval dialog \'Podpořte nás\' a měli všechny funkce aplikací odemknuté)</string>
     <!-- Settings -->
     <string name="hide_launcher_icon">Skrýt spouštěcí ikonu</string>
     <string name="hide_launcher_icon_explanation">Pro opětovné zobrazení ikony budete muset aplikaci přeinstalovat. Nebojte se však, nebudete muset znovu platit.</string>
