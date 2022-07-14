@@ -2,7 +2,13 @@
 <resources>
     <string name="app_name">Simpelt tack</string>
     <string name="app_launcher_name">Tack</string>
-    <string name="main_text">Tack för att du stödjer oss!\n\nSkriv till oss på \n hello@simplemobiletools.com,\n vi vill gärna höra alla dina synpunkter och förslag.\n\n(Behåll appen installerad för att låsa upp alla appfunktioner och hindra dialogrutan \'Köp\' från att visas)</string>
+    <string name="main_text">Tack för att du stödjer oss!
+\n
+\nSkriv till oss på
+\n hello@simplemobiletools.com,
+\n vi vill gärna höra alla dina synpunkter och förslag.
+\n
+\n(Behåll appen installerad för att låsa upp alla appfunktioner och hindra dialogrutan \'Köp\' från att visas)</string>
     <!-- Settings -->
     <string name="hide_launcher_icon">Dölj appens ikon</string>
     <string name="hide_launcher_icon_explanation">Om du vill visa appens ikon igen, måste du installera om appen. Oroa dig inte, du behöver inte betala igen.</string>
