@@ -1,8 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Eenvoudig Bedankje</string>
     <string name="app_launcher_name">Bedankt!</string>
-    <string name="main_text">Hartelijk dank voor het steunen van Simple Mobile Tools!\n\nNeem even contact met ons op via\nhello@simplemobiletools.com,\n we stellen alle feedback en suggesties erg op prijs.\n\n(Houd deze app geïnstalleerd om alle functies te ontgrendelen en om te voorkomen dat het venster \'Kopen\' wordt getoond)</string>
-
+    <string name="main_text">Hartelijk dank voor het steunen van Simple Mobile Tools!
+\n
+\nNeem even contact met ons op via
+\nhello@simplemobiletools.com,
+\n we stellen alle feedback en suggesties erg op prijs.
+\n
+\n(Houd deze app geïnstalleerd om alle functies te ontgrendelen en om te voorkomen dat het venster \'Kopen\' wordt getoond)</string>
     <!-- Settings -->
     <string name="hide_launcher_icon">Launcher-icoon verbergen</string>
     <string name="hide_launcher_icon_explanation">Om het launcher-icoon weer te tonen, deïnstalleer en herinstalleer de app. Wees niet bang, betalen hoeft maar een keer.</string>
