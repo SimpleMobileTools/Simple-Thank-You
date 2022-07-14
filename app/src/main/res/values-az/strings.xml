@@ -1,8 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Sadə Təşəkkür</string>
     <string name="app_launcher_name">Təşəkkürlər</string>
-    <string name="main_text">Bizə dəstək olduğunuz üçün minnətdarıq!\n\nÜrək sözlərinizi buradan söyləyin \n hello@simplemobiletools.com,\n geri dönüş və tövsiyələrinizi eşitmək bizim üçün şərəfdir.\n\n(\'Al\' dialoqunu aradan qaldırmaq və bütün əlavə xüsusiyyətlərdən düzgün bir şəkildə faydalanmaq üçün xahiş edirik tətbiqi cihazınızda yüklü saxlayın.)</string>
-
+    <string name="main_text">Bizə dəstək olduğunuz üçün minnətdarıq!
+\n
+\nÜrək sözlərinizi buradan söyləyin
+\n hello@simplemobiletools.com,
+\n geri dönüş və tövsiyələrinizi eşitmək bizim üçün şərəfdir.
+\n
+\n(\'Al\' dialoqunu aradan qaldırmaq və bütün əlavə xüsusiyyətlərdən düzgün bir şəkildə faydalanmaq üçün xahiş edirik tətbiqi cihazınızda yüklü saxlayın.)</string>
     <!-- Settings -->
     <string name="hide_launcher_icon">Başlatma ikonunu gizlət</string>
     <string name="hide_launcher_icon_explanation">Başladıcı ikonu yenidən görünən etmək üçün tətbiqi yenidən yükləməlisiniz, amma tətbiqi bir də almağa ehtiyac yoxdur.</string>
