@@ -1,8 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Semplice Ringraziamento</string>
     <string name="app_launcher_name">Grazie</string>
-    <string name="main_text">Grazie per supportarci!\n\nSi può lasciare un pensiero a \n hello@simplemobiletools.com,\n saremo felici di ascoltare le opinioni e suggerimenti.\n\n(Tenere questa applicazione installata per evitare di vedere il dialogo \'Compra\' e continuare ad avere tutte le funzionalità sbloccate)</string>
-
+    <string name="main_text">Grazie per supportarci!
+\n
+\nSi può lasciare un pensiero a
+\n hello@simplemobiletools.com,
+\n saremo felici di ascoltare le opinioni e suggerimenti.
+\n
+\n(Tenere questa applicazione installata per evitare di vedere il dialogo \'Compra\' e continuare ad avere tutte le funzionalità sbloccate)</string>
     <!-- Settings -->
     <string name="hide_launcher_icon">Nascondi l\'icona nel lanciatore</string>
     <string name="hide_launcher_icon_explanation">Per fare in modo che l\'icona venga di nuovo visualizzata nel lanciatore, è necessario reinstallare l\'applicazione. Non preoccuparti, non si dovrà riacquistarla.</string>

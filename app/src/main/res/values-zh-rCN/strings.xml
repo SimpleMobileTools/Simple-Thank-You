@@ -1,8 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">简易感谢</string>
     <string name="app_launcher_name">感谢</string>
-    <string name="main_text">感谢您支持我们！Thank you for supporting us!\n\n可以通过\n hello@simplemobiletools.com 给我们留言\n 我们愿意听到您全部的反馈和建议\n\n(请保持这个应用为安装状态来避免看到\'购买\'对话框从而保持全部应用功能解锁)</string>
-
+    <string name="main_text">感谢您支持我们！Thank you for supporting us!
+\n
+\n可以通过
+\n hello@simplemobiletools.com 给我们留言
+\n 我们愿意听到您全部的反馈和建议
+\n
+\n(请保持这个应用为安装状态来避免看到\'购买\'对话框从而保持全部应用功能解锁)</string>
     <!-- Settings -->
     <string name="hide_launcher_icon">隐藏启动器图标</string>
     <string name="hide_launcher_icon_explanation">如果想要让启动器图标再次出现，你必须重新安装该应用。不要担心，您不需要再次支付。</string>

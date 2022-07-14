@@ -11,7 +11,7 @@
 \n(يرجى الاحتفاظ بالتطبيق مثبتاً لتجنب رؤية مربع الحوار \'شراء\' وفتح جميع ميزات التطبيق)</string>
     <!-- Settings -->
     <string name="hide_launcher_icon">إخفاء أيقونة مشغل التطبيق</string>
-    <string name="hide_launcher_icon_explanation">لعرض أيقونة مشغل التطبيق مرة أخرى، سيتعين عليك إعادة تثبيت التطبيق "لا تقلق"، ولن تضطر إلى الدفع مرة أخرى.</string>
+    <string name="hide_launcher_icon_explanation">لعرض أيقونة مشغل التطبيق مرة أخرى، سيتعين عليك إعادة تثبيت التطبيق لا تقلق، ولن تضطر إلى الدفع مرة أخرى.</string>
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res

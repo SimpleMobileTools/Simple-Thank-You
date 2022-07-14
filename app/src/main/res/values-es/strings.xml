@@ -1,8 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Simple Thank You</string>
     <string name="app_launcher_name">Gracias</string>
-    <string name="main_text">¡Gracias por apoyarnos!\n\nEscríbenos \n hello@simplemobiletools.com,\n nos encantaría escuchar toda tu retroalimentación y sugerencias.\n\n(Por favor, mantén la aplicación instalada para evitar ver el cuadro de \'Comprar\' y tener todas las características de las aplicaciones desbloqueadas)</string>
-
+    <string name="main_text">¡Gracias por apoyarnos!
+\n
+\nEscríbenos
+\n hello@simplemobiletools.com,
+\n nos encantaría escuchar toda tu retroalimentación y sugerencias.
+\n
+\n(Por favor, mantén la aplicación instalada para evitar ver el cuadro de \'Comprar\' y tener todas las características de las aplicaciones desbloqueadas)</string>
     <!-- Settings -->
     <string name="hide_launcher_icon">Ocultar el ícono del launcher</string>
     <string name="hide_launcher_icon_explanation">Para volver a mostrar el ícono del launcher, tendrás que reinstalar la aplicación. No te preocupes, no tendrás que pagar de nuevo.</string>

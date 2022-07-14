@@ -1,8 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Paprastas Ačiū</string>
     <string name="app_launcher_name">Ačiū</string>
-    <string name="main_text">Dėkojame, kad palaikote mus!\n\nParašykite mums adresu hello@simplemobiletools.com, mes norėtume išgirsti visus jūsų atsiliepimus ir pasiūlymus.\n\n(Prašome laikyti programėlę įdiegtą, kad nematytumėte \ "Pirkimo \" dialogo ir visos programėlės funkcijos bus atrakintos)</string>
-
+    <string name="main_text">"Dėkojame, kad palaikote mus!
+\n
+\nParašykite mums adresu hello@simplemobiletools.com, mes norėtume išgirsti visus jūsų atsiliepimus ir pasiūlymus.
+\n
+\n(Prašome laikyti programėlę įdiegtą, kad nematytumėte  Pirkimo \" dialogo ir visos programėlės funkcijos bus atrakintos)"</string>
     <!-- Settings -->
     <string name="hide_launcher_icon">Paslėpti paleidimo priemonės ikonelę</string>
     <string name="hide_launcher_icon_explanation">Kad paleidimo priemonės piktograma vėl būtų rodoma, turite iš naujo įdiegti programėlę. Nesijaudinkite, jūs neturite mokėti dar kartą.</string>

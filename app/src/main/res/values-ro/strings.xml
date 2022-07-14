@@ -1,8 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Simple Thank You</string>
     <string name="app_launcher_name">Îţi mulţumesc</string>
-    <string name="main_text">Vă mulțumim că ne sprijiniți!\n\nScrieţi-ne la \n hello@simplemobiletools.com,\n ne-ar plăcea să auzim toate comentariile și sugestiile dumneavoastră.\n\n(Vă rugăm să păstrați aplicația instalată pentru a evita să vedeți fereastra de dialog \'Cumpărare\' și pentru a debloca toate funcțiile aplicației.)</string>
-
+    <string name="main_text">Vă mulțumim că ne sprijiniți!
+\n
+\nScrieţi-ne la
+\n hello@simplemobiletools.com,
+\n ne-ar plăcea să auzim toate comentariile și sugestiile dumneavoastră.
+\n
+\n(Vă rugăm să păstrați aplicația instalată pentru a evita să vedeți fereastra de dialog \'Cumpărare\' și pentru a debloca toate funcțiile aplicației.)</string>
     <!-- Settings -->
     <string name="hide_launcher_icon">Ascunde pictograma de lansare</string>
     <string name="hide_launcher_icon_explanation">Pentru ca pictograma de lansare să fie afișată din nou, va trebui să reinstalați aplicația. Nu vă faceți griji, nu va trebui să plătiți din nou.</string>
