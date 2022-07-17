@@ -3,6 +3,7 @@ package com.simplemobiletools.thankyou.activities
 import android.os.Bundle
 import com.simplemobiletools.commons.dialogs.ConfirmationDialog
 import com.simplemobiletools.commons.extensions.*
+import com.simplemobiletools.commons.helpers.NavigationIcon
 import com.simplemobiletools.thankyou.BuildConfig
 import com.simplemobiletools.thankyou.R
 import com.simplemobiletools.thankyou.extensions.config
@@ -17,11 +18,12 @@ class SettingsActivity : SimpleActivity() {
 
     override fun onResume() {
         super.onResume()
+        setupToolbar(settings_toolbar, NavigationIcon.Arrow)
 
         setupCustomizeColors()
         setupUseEnglish()
         setupHideLauncherIcon()
-        updateTextColors(settings_holder)
+        updateTextColors(settings_nested_scrollview)
 
         arrayOf(settings_color_customization_label, settings_general_settings_label).forEach {
             it.setTextColor(getProperPrimaryColor())
