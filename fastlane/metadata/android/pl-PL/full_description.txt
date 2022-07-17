@@ -1,12 +1,14 @@
-Jeżeli lubisz nasze aplikacje, które są darmowe, nieinwazyjne oraz nie zawierają reklam, prosimy o wsparcie nas w ten sposób.
+Jeśli lubisz nasze aplikacje, które są darmowe, nieinwazyjne oraz nie zawierają reklam, prosimy o wsparcie nas w jakiś sposób. Będzie to bardzo docenione.
 
-Prosimy nie usuwać tej aplikacji przynajmniej przez dzień, aby uniknąć automatycznego zwrotu pieniędzy
+Zainstalowanie tej aplikacji uniemożliwi wyświetlanie okna „Przekaż datek” w bezpłatnych aplikacjach. Poza tym umożliwi korzystanie ze wspólnego motywu, co oznacza, że gdy tylko zmienisz kolor w jednej aplikacji, zastosuje się to do pozostałych aplikacji. Nowo zainstalowane aplikacje z zestawu również automatycznie otrzymają współdzielone kolory.
 
-Przyczyną powstania tej aplikacji jest uniknięcie sporadycznego otwierania okna "Przekaż datek" - w przyszłości może ona odblokować dodatkowe funkcje.
+Prosimy nie usuwać tej aplikacji przynajmniej przez dzień, aby uniknąć automatycznego zwrotu pieniędzy.
 
-Aplikacja nie zawiera żadnych reklam ani niepotrzebnych uprawnień. Jest też w pełni otawrtoźrodłowa.
+Aplikacja nie zastępuje wersji Pro aplikacji. Nadal będziesz musiał(a) kupić je osobno, gdy będziesz chciał(a) z nich korzystać.
 
-Check out the full suite of Simple Tools here:
+Nie zawiera reklam ani niepotrzebnych uprawnień. Jest w pełni otwartoźródłowa, zapewnia konfigurowalną kolorystykę.
+
+Sprawdź pełen zestaw od Simple Tools tutaj:
 https://www.simplemobiletools.com
 
 Facebook:
