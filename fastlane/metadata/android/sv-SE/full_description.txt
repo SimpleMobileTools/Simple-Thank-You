@@ -4,9 +4,11 @@ Behåll appen installerad i minst en dag för att undvika en automatisk återbet
 
 Syftet med denna app är bara att hindra dialogrutan "Donera" från att visas sporadiskt. Den kan kanske låsa upp extrafunktioner i framtiden.
 
+Den levereras med Material Design och mörkt tema som standard, och ger en bra användarupplevelse för enkel användning. Avsaknaden av internetåtkomst ger dig mer integritet, säkerhet och stabilitet än andra appar.
+
 Innehåller ingen reklam eller onödiga behörigheter. Den har helt öppen källkod och anpassningsbara färger.
 
-Check out the full suite of Simple Tools here:
+Kolla in hela uppsättningen enkla verktyg här:
 https://www.simplemobiletools.com
 
 Facebook:
