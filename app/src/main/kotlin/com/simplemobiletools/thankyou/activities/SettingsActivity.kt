@@ -6,58 +6,61 @@ import com.simplemobiletools.commons.extensions.*
 import com.simplemobiletools.commons.helpers.NavigationIcon
 import com.simplemobiletools.thankyou.BuildConfig
 import com.simplemobiletools.thankyou.R
+import com.simplemobiletools.thankyou.databinding.ActivitySettingsBinding
 import com.simplemobiletools.thankyou.extensions.config
-import kotlinx.android.synthetic.main.activity_settings.*
 import java.util.*
 
 class SettingsActivity : SimpleActivity() {
+    private lateinit var binding: ActivitySettingsBinding
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_settings)
+        binding = ActivitySettingsBinding.inflate(layoutInflater)
+        setContentView(binding.root)
     }
 
     override fun onResume() {
         super.onResume()
-        setupToolbar(settings_toolbar, NavigationIcon.Arrow)
+        setupToolbar(binding.settingsToolbar, NavigationIcon.Arrow)
 
         setupCustomizeColors()
         setupUseEnglish()
         setupHideLauncherIcon()
-        updateTextColors(settings_nested_scrollview)
+        updateTextColors(binding.settingsNestedScrollview)
 
-        arrayOf(settings_color_customization_label, settings_general_settings_label).forEach {
+        arrayOf(binding.settingsColorCustomizationLabel, binding.settingsGeneralSettingsLabel).forEach {
             it.setTextColor(getProperPrimaryColor())
         }
 
-        arrayOf(settings_color_customization_holder, settings_general_settings_holder).forEach {
+        arrayOf(binding.settingsColorCustomizationHolder, binding.settingsGeneralSettingsHolder).forEach {
             it.background.applyColorFilter(getProperBackgroundColor().getContrastColor())
         }
     }
 
     private fun setupCustomizeColors() {
-        settings_customize_colors_holder.setOnClickListener {
+        binding.settingsCustomizeColorsHolder.setOnClickListener {
             startCustomizationActivity()
         }
     }
 
     private fun setupUseEnglish() {
-        settings_use_english_holder.beVisibleIf(config.wasUseEnglishToggled || Locale.getDefault().language != "en")
-        settings_use_english.isChecked = config.useEnglish
+        binding.settingsUseEnglishHolder.beVisibleIf(config.wasUseEnglishToggled || Locale.getDefault().language != "en")
+        binding.settingsUseEnglish.isChecked = config.useEnglish
 
-        if (settings_use_english_holder.isGone()) {
-            settings_hide_launcher_icon_holder.background = resources.getDrawable(R.drawable.ripple_all_corners, theme)
+        if (binding.settingsUseEnglishHolder.isGone()) {
+            binding.settingsHideLauncherIconHolder.background = resources.getDrawable(R.drawable.ripple_all_corners, theme)
         }
 
-        settings_use_english_holder.setOnClickListener {
-            settings_use_english.toggle()
-            config.useEnglish = settings_use_english.isChecked
+        binding.settingsUseEnglishHolder.setOnClickListener {
+            binding.settingsUseEnglish.toggle()
+            config.useEnglish = binding.settingsUseEnglish.isChecked
             System.exit(0)
         }
     }
 
     private fun setupHideLauncherIcon() {
-        settings_hide_launcher_icon.isChecked = config.hideLauncherIcon
-        settings_hide_launcher_icon_holder.setOnClickListener {
+        binding.settingsHideLauncherIcon.isChecked = config.hideLauncherIcon
+        binding.settingsHideLauncherIconHolder.setOnClickListener {
             if (config.hideLauncherIcon) {
                 toggleHideLauncherIcon()
             } else {
@@ -69,8 +72,8 @@ class SettingsActivity : SimpleActivity() {
     }
 
     private fun toggleHideLauncherIcon() {
-        settings_hide_launcher_icon.toggle()
-        config.hideLauncherIcon = settings_hide_launcher_icon.isChecked
+        binding.settingsHideLauncherIcon.toggle()
+        config.hideLauncherIcon = binding.settingsHideLauncherIcon.isChecked
 
         val appId = BuildConfig.APPLICATION_ID
         getAppIconColors().forEachIndexed { index, color ->

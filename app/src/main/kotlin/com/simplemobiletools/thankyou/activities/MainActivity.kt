@@ -10,12 +10,15 @@ import com.simplemobiletools.commons.models.FAQItem
 import com.simplemobiletools.commons.models.Release
 import com.simplemobiletools.thankyou.BuildConfig
 import com.simplemobiletools.thankyou.R
-import kotlinx.android.synthetic.main.activity_main.*
+import com.simplemobiletools.thankyou.databinding.ActivityMainBinding
 
 class MainActivity : SimpleActivity() {
+    private lateinit var binding: ActivityMainBinding
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        binding = ActivityMainBinding.inflate(layoutInflater)
+        setContentView(binding.root)
         appLaunched(BuildConfig.APPLICATION_ID)
         setupOptionsMenu()
         checkWhatsNewDialog()
@@ -23,12 +26,12 @@ class MainActivity : SimpleActivity() {
 
     override fun onResume() {
         super.onResume()
-        updateTextColors(activity_main)
-        setupToolbar(main_toolbar)
+        updateTextColors(binding.activityMain)
+        setupToolbar(binding.mainToolbar)
     }
 
     private fun setupOptionsMenu() {
-        main_toolbar.setOnMenuItemClickListener { menuItem ->
+        binding.mainToolbar.setOnMenuItemClickListener { menuItem ->
             when (menuItem.itemId) {
                 R.id.settings -> launchSettings()
                 R.id.about -> launchAbout()
