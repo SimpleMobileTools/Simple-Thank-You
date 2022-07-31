@@ -1,10 +1,12 @@
 Si us agraden les nostres aplicacions que són gratuïtes, no intrusives i no tenen anuncis, considereu ajudar-nos d'alguna manera. Serà molt apreciat.
 
-Tenir instal·lada aquesta aplicació evitarà que es mostri el diàleg «Donació» a les aplicacions gratuïtes. A part d'això, també permet utilitzar un tema compartit, el que significa que tan aviat com canvieu un color en una aplicació, totes les altres aplicacions s'actualitzaran. Les aplicacions recentment instal·lades de la suite també tindran automàticament els colors compartits.
+Si teniu instal·lada aquesta aplicació, es permet personalitzar el color i evita que es mostri el diàleg «Donació» a les aplicacions gratuïtes. A part d'això, també permet utilitzar un tema compartit, el que significa que tan aviat com canvieu un color en una aplicació, totes les altres aplicacions s'actualitzaran. Les aplicacions recentment instal·lades de la suite també tindran automàticament els colors compartits.
 
-Si us plau, mantingueu l'aplicació instal·lada almenys durant un dia, per evitar que es reemborsin automàticament.
+Si us plau, mantingueu l'aplicació instal·lada almenys durant un dia, per evitar que es reemborsi automàticament.
 
 Aquesta aplicació no substitueix les versions Pro de les aplicacions. Encara cal comprar-les per separat si les voleu utilitzar.
+
+De manera predeterminada, inclou el «material design» i un tema fosc, proporciona una gran experiència d'usuari per a un ús fàcil. La manca d'accés a Internet us ofereix més privadesa, seguretat i estabilitat que altres aplicacions.
 
 No conté anuncis ni permisos innecessaris. És totalment de codi obert, proporciona colors personalitzables.
 
