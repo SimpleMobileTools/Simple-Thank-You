@@ -1,14 +1,16 @@
-Ücretsiz, rahatsız edici olmayan ve reklamsız uygulamalarımızı beğenirseniz, lütfen bizi bir şekilde desteklemeyi düşünün. Bu oldukça takdir edilecektir.
+Ücretsiz, izinsiz giriş yapmayan ve reklam bulunmayan uygulamalarımızı beğenirseniz lütfen bize bir şekilde destek vermeyi düşünün. Çok takdir edilir.
 
-Bu uygulamanın kurulu olması, ücretsiz uygulamalarda "Lütfen bağış yapın" iletişim kutusunun görüntülenmesini önleyecektir. Bunun dışında, Paylaşılan Tema kullanımına da izin verir, bu da bir uygulamada bir rengi değiştirdiğiniz anda diğer tüm uygulamaların güncelleneceği anlamına gelir. Paketten yeni kurulan uygulamalar da otomatik olarak paylaşılan renkleri alacaktır.
+Bu uygulamanın yüklü olması tüm özelliklerin kilidini açar, renk özelleştirmesine izin verir ve ücretsiz uygulamalarda "bağış yapma" iletişim kutusunun görüntülenmesini engeller. Bunun dışında, Paylaşılan Tema kullanımına da izin verir; yani bir uygulamada renk değiştirdiğinizde diğer tüm uygulamalar güncellenir. Paketten yeni yüklenen uygulamalar da otomatik olarak paylaşılan renkleri alır.
 
-Otomatik olarak iade edilmesini önlemek için lütfen uygulamayı en az bir gün boyunca yüklü tutun.
+Otomatik olarak para iadesi almamak için lütfen uygulamayı en az bir gün boyunca yüklü tutun.
 
-Bu uygulama, Pro uygulama sürümlerinin yerine geçmez. Kullanmak istemeniz durumunda bunları ayrıca satın almanız gerekecektir.
+Bu uygulama, Pro uygulama sürümlerinin yerine geçmez. Kullanmak isterseniz bunları ayrı olarak satın almanız gerekir.
 
-Reklam veya gereksiz izinler içermez. Tamamen açık kaynaktır, özelleştirilebilir renkler sağlar.
+Malzeme tasarımı ve varsayılan olarak koyu renkli temasıyla birlikte, kolay kullanım için mükemmel bir kullanıcı deneyimi sunar. İnternet erişiminin olmaması size diğer uygulamalardan daha fazla gizlilik, güvenlik ve kararlılık sağlar.
 
-Basit Araçlar paketinin tamamını buradan inceleyin:
+Reklam veya gereksiz izinler içermez. Tamamen açık kaynaktır ve özelleştirilebilir renkler sunar.
+
+Basit Araçlar paketinin tamamına buradan göz atın:
 https://www.simplemobiletools.com
 
 Facebook:
@@ -17,5 +19,5 @@ https://www.facebook.com/simplemobiletools
 Reddit:
 https://www.reddit.com/r/SimpleMobileTools
 
-Telegram:
+Telgraf:
 https://t.me/SimpleMobileTools
