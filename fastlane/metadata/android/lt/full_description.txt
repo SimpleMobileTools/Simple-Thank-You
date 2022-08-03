@@ -1,15 +1,19 @@
-Jei jums patinka mūsų programėlės, kurios yra laisvos, neklaidinančios ir neturinčios skelbimų, prašome apsvarstyti, ar palaikysite mus tokiu būdu. Tai bus labai vertinama.
+Jei jums patinka mūsų programėlės, kurios yra nemokamos, neįkyrios ir jose nėra reklamų, apsvarstykite galimybę mus kaip nors paremti. Tai bus labai vertinama.
 
-Nepamirškite, laikyti programėlės įdiegtos mažiausiai vieną dieną, kad nebūtų automatiškai grąžinti pinigai.
+Įdiegus šią programėlę bus atrakintos visos funkcijos, bus galima pritaikyti spalvas ir nemokamose programėlėse nebus rodomas dialogo langas "Donate please". Be to, ji taip pat leidžia naudoti bendrąją temą, o tai reiškia, kad vos tik vienoje programėlėje pakeisite spalvą, visos kitos programėlės bus atnaujintos. Naujai įdiegtoms programoms iš rinkinio taip pat bus automatiškai pritaikytos bendros spalvos.
 
-Šios programėlės tikslas yra tik toks, kad nebūtų atsitiktinai matomas dialogo langas "Prašome paaukoti", tai ateityje gali atrakinti papildomų funkcijų.
+Laikykite programėlę įdiegtą bent vieną dieną, kad ji nebūtų automatiškai grąžinta.
 
-CNeturi reklamų ar nereikalingų leidimų. Programėlė visiškai atviro kodo, yra galimybė keisti spalvas.
+Ši programėlė nepakeičia "Pro" programėlių versijų. Jei norėsite jas naudoti, vis tiek turėsite jas įsigyti atskirai.
 
-Check out the full suite of Simple Tools here:
-https://www.simplemobiletools.com
+Pagal numatytuosius nustatymus įdiegtas "Material" dizainas ir tamsi tema, užtikrinantys puikią naudotojo patirtį, kad būtų lengva naudotis. Interneto prieigos nebuvimas suteikia daugiau privatumo, saugumo ir stabilumo nei kitos programėlės.
 
-Facebook:
+Nėra reklamų ar nereikalingų leidimų. Ji yra visiškai atviro kodo ir suteikia galimybę keisti spalvas.
+
+Visą "Simple Tools" rinkinį rasite čia:
+https://www.simplemobiletools.com.
+
+"Facebook":
 https://www.facebook.com/simplemobiletools
 
 Reddit:
