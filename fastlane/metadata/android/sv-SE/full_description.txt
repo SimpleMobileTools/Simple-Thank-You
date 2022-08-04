@@ -1,14 +1,16 @@
-Om du gillar våra appar som är gratis, inte är påträngande och inte innehåller reklam, överväg att stödja oss på något sätt. Det kommer att uppskattas enormt.
+Om du gillar våra appar, som är gratis, inte är störande och inte innehåller några annonser, kan du överväga att stödja oss på något sätt. Det kommer att vara mycket uppskattat.
 
-Behåll appen installerad i minst en dag för att undvika en automatisk återbetalning.
+Om du har den här appen installerad kommer du att låsa upp alla funktioner, tillåta färganpassning och förhindra att dialogrutan "Donera tack" visas i gratisapparna. Utöver det gör den också att du kan använda ett delat tema, vilket innebär att så snart du ändrar en färg i en app kommer alla andra appar att uppdateras. Nyinstallerade appar från sviten kommer automatiskt att få de delade färgerna också.
 
-Syftet med denna app är bara att hindra dialogrutan "Donera" från att visas sporadiskt. Den kan kanske låsa upp extrafunktioner i framtiden.
+Låt appen vara installerad i minst en dag för att undvika att den automatiskt återbetalas.
 
-Den levereras med Material Design och mörkt tema som standard, och ger en bra användarupplevelse för enkel användning. Avsaknaden av internetåtkomst ger dig mer integritet, säkerhet och stabilitet än andra appar.
+Den här appen är inte en ersättning för Pro-appversionerna. Du måste fortfarande köpa dem separat om du vill använda dem.
 
-Innehåller ingen reklam eller onödiga behörigheter. Den har helt öppen källkod och anpassningsbara färger.
+Den levereras med materialdesign och mörkt tema som standard, ger en bra användarupplevelse för enkel användning. Avsaknaden av internetåtkomst ger dig mer integritet, säkerhet och stabilitet än andra appar.
 
-Kolla in hela uppsättningen enkla verktyg här:
+Innehåller inga annonser eller onödiga behörigheter. Den är helt öppen källkod, ger anpassningsbara färger.
+
+Kolla in hela sviten av Simple Tools här:
 https://www.simplemobiletools.com
 
 Facebook:
