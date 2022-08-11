@@ -25,7 +25,7 @@ https://www.reddit.com/r/SimpleMobileTools
 Telegram:  
 https://t.me/SimpleMobileTools
 
-<a href='https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou'><img src='https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png' alt='Get it on Google Play' height=80/></a>
+<a href='https://play.google.com/store/apps/details?id=com.simplemobiletools.thankyou'><img src='https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png' alt='Get it on Google Play' height=45/></a>
 
 <div style="display:flex;">
 <img alt="App image" src="fastlane/metadata/android/en-GB/images/phoneScreenshots/1_en-GB.jpeg" width="30%">
