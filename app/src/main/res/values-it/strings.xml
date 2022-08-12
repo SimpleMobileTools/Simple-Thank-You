@@ -10,8 +10,8 @@
 \n
 \n(Tenere questa applicazione installata per evitare di vedere il dialogo \'Compra\' e continuare ad avere tutte le funzionalità sbloccate)</string>
     <!-- Settings -->
-    <string name="hide_launcher_icon">Nascondi l\'icona nel lanciatore</string>
-    <string name="hide_launcher_icon_explanation">Per fare in modo che l\'icona venga di nuovo visualizzata nel lanciatore, è necessario reinstallare l\'applicazione. Non preoccuparti, non si dovrà riacquistarla.</string>
+    <string name="hide_launcher_icon">Nascondi l\'icona di avvio</string>
+    <string name="hide_launcher_icon_explanation">Per visualizzare nuovamente l\'icona di avvio, è necessario reinstallare l\'applicazione. Non preoccuparti, non dovrai pagare di nuovo.</string>
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res

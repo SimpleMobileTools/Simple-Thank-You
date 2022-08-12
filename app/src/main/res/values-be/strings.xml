@@ -2,16 +2,15 @@
 <resources>
     <string name="app_name">Simple Thank You</string>
     <string name="app_launcher_name">Падзяка</string>
-    <string name="main_text">Thank you for supporting us!
+    <string name="main_text">Дзякуй за падтрымку! 
 \n
-\nDrop us a line at
-\n hello@simplemobiletools.com,
-\n we\'d love to hear all your feedback and suggestions.
+\nНапішыце нам па адрасе hello@simplemobiletools.com, 
+\nмы будзем рады пачуць усе вашы водгукі і прапановы. 
 \n
-\n(Please keep the app installed to avoid seeing the \'Purchase\' dialog and have all app features unlocked)</string>
+\n(Калі ласка, пакіньце праграму ўсталяванай, каб не бачыць дыялогавае акно «Купля» і каб усе функцыі праграмы былі разблакіраваны)</string>
     <!-- Settings -->
-    <string name="hide_launcher_icon">Hide the launcher icon</string>
-    <string name="hide_launcher_icon_explanation">To have the launcher icon displayed again, you will have to reinstall the app. Don\'t worry, you won\'t have to pay again.</string>
+    <string name="hide_launcher_icon">Схаваць значок праграмы запуску</string>
+    <string name="hide_launcher_icon_explanation">Каб значок праграмы запуску зноў адлюстроўваўся, вам трэба будзе пераўсталяваць праграму. Не хвалюйцеся, вам больш не прыйдзецца плаціць.</string>
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res

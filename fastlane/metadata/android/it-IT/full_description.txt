@@ -1,8 +1,10 @@
 Se piaccono le applicazioni gratuite, non intrusive e senza pubblicità, si può considerare di supportarci in qualche modo. Verrà molto apprezzato.
 
-Avere questa applicazione installata impedisce la visualizzazione del dialogo "Dona". Oltre a questo, potrai utilizzare i temi condivisi, il che significa che se si cambia cambi il colore in un'applicazione, anche le altre applicazioni verranno aggiornate. Le nuove applicazioni installate della serie automagicamente utilizzeranno il tema condiviso.
+Avere questa applicazione installata sblocca tutte le funzioni, consente la personalizzazione dei colori e impedisce la visualizzazione del dialogo "Dona". Oltre a questo, potrai utilizzare i temi condivisi, il che significa che se si cambia cambi il colore in un'applicazione, anche le altre applicazioni verranno aggiornate. Le nuove applicazioni installate della serie automagicamente utilizzeranno il tema condiviso.
 
 Potrebbe sbloccare funzionalità aggiuntive in futuro. Si consiglia di mantenere quest'applicazione per qualche giorno, per evitare il rimborso automatico.
+
+È dotato di Material Design e tema scuro, per un'ottima esperienza utente dal facile utilizzo. L'assenza di accesso a Internet offre maggiore privacy, sicurezza e stabilità rispetto ad altre applicazioni.
 
 L'applicazione non contiene pubblicità o permessi non necessari; è completamente opensource e la si può personalizzare con i propri colori preferiti.
 
