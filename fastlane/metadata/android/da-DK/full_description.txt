@@ -1,12 +1,14 @@
-Hvis du kan lide vores apps, som er gratis, ikke påtrængende og uden reklamer, kan du overveje at støtte os på en eller anden måde. Det vil blive meget værdsat. 
+Hvis du kan lide vores apps, som er gratis, ikke påtrængende og uden reklamer, kan du overveje at støtte os på en eller anden måde. Det vil blive enormt værdsat.
 
-Hvis du har denne app installeret, forhindrer du, at der vises en dialogboks med \"Donér venligst\" i de gratis apps. Udover det giver den også mulighed for at bruge et delt tema, hvilket betyder, at så snart du ændrer en farve i én app, vil alle andre apps blive opdateret. 
+Hvis du har denne app installeret, vil du låse alle funktioner op, tillade farvetilpasning og forhindre, at der vises en "Donér venligst"-dialog i de gratis apps. Derudover giver den også mulighed for at bruge et delt tema, hvilket betyder, at så snart du ændrer en farve i én app, vil alle andre apps blive opdateret. Nyinstallerede apps fra suiten vil også automatisk få de delte farver.
 
-Nyligt installerede apps fra pakken vil automatisk også få de delte farver. Det vil måske låse op for flere ekstra funktioner i fremtiden. 
+Lad appen forblive installeret i mindst en dag, for at undgå at blive automatisk refunderet.
 
-Lad venligst appen være installeret i mindst en dag for at undgå at blive automatisk refunderet. Denne app er ikke en erstatning for Pro-appversionerne. 
+Denne app er ikke en erstatning for Pro-appversionerne. Du skal stadig købe dem separat, hvis du ønsker at bruge dem.
 
-Du skal stadig købe dem separat, hvis du ønsker at bruge dem. Indeholder ingen reklamer eller unødvendige tilladelser. Den er fuldt ud opensource, giver tilpassede farver. 
+Den leveres med material design og et mørkt tema som standard, hvilket giver en fantastisk brugeroplevelse for nem brug. Den manglende internet adgang giver dig mere privatliv, sikkerhed og stabilitet end andre apps.
+
+Indeholder ingen reklamer eller unødvendige tilladelser. Den er fuldt ud open source og giver tilpassede farver.
 
 Se hele pakken af Simple Tools her:
 https://www.simplemobiletools.com
