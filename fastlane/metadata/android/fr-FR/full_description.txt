@@ -1,14 +1,16 @@
 Si vous aimez nos application gratuites, non intrusives et sans publicité, vous pouvez nous soutenir en achetant cette application. Ce sera énormément apprécié.
-        
-Veuillez conserver l'application installée au moins pendant une journée, pour éviter d'être automatiquement remboursé.
 
-Le but de cette application est simplement d'éviter l'affichage du bouton "Vous pouvez faire un don". Elle pourra débloquer des fonctionnalités supplémentaires à l'avenir.
+Avoir cette application installée va déverrouiller chaque fonctionnalité, permettre la personnalisation des couleurs, et empêcher l’affichage d’un "Faire un don s’il vous plaît" dialogue dans les applications gratuites. Autre que cela, il permet également d’utiliser un thème partagé, ce qui signifie que dès que vous changez une couleur dans une application, toutes les autres applications seront mises à jour. Les applications nouvellement installées de la suite recevront automatiquement les couleurs partagées.
 
-Cette application n'est pas un remplacement des versions Pro des autres applications. Vous aurez toujours besoin de les acheter séparément si vous voulez les utiliser.
+S’il vous plaît garder l’application installée au moins pour une journée, pour éviter d’être automatiquement remboursé.
+
+Cette application ne remplace pas les versions Pro. Vous devrez tout de même les acheter séparément, au cas où vous voudriez les utiliser.
+
+Il est livré avec la conception du matériel et un thème sombre par défaut, offrant une grande expérience utilisateur pour une utilisation facile. Le manque d’accès à Internet vous donne plus de confidentialité, de sécurité et de stabilité que d’autres applications.
 
 L'application ne contient ni publicité, ni autorisation inutile. Elle est totalement opensource et est également fournie avec des couleurs personnalisables.
-          
-Check out the full suite of Simple Tools here:
+
+Découvrez la gamme complète d’outils simples ici:
 https://www.simplemobiletools.com
 
 Facebook:
