@@ -1,12 +1,16 @@
-Ako Vam se sviđaju naše aplikacije koje su besplatne, neupadljive i nemaju oglasa, razmotrite opciju da nas podržite na neki način. To će biti iznimno cijenjeno.
+Ako vam se sviđaju naše aplikacije koje su besplatne, nenametljive i nemaju oglase, razmislite o tome da nas na neki način podržite. Bit će vrlo cijenjena.
 
-Aplikacija mora biti instalirana najmanje jedan dan, kako bi se izbjegao auomatski povrat sredstava.
+Instaliranjem ove aplikacije otključat će se svaka značajka, omogućiti prilagođavanje boje i spriječiti prikazivanje dijaloga "Donate molim te" u besplatnim aplikacijama. Osim toga, omogućuje i korištenje zajedničke teme, što znači da čim promijenite boju u jednoj aplikaciji, sve ostale aplikacije će se ažurirati. Novo instalirane aplikacije iz apartmana automatski će dobiti i zajedničke boje.
 
-Svrha ove aplikacije je da izbjegnete povremeno gledanje dijaloškog okvira "Doniraj molim", što bi moglo otključati dodatne značajke u budućnosti.
+Molimo vas da aplikaciju instalirate najmanje jedan dan kako biste izbjegli automatski povrat.
 
-Ne sadrži oglase ili nepotrebne dozvole. Aplikacije je otvorenog koda, pruža prilagodljive boje.
+Ova aplikacija nije zamjena za verzije Pro aplikacije. I dalje ćete ih morati kupiti odvojeno, u slučaju da ih želite koristiti.
 
-Check out the full suite of Simple Tools here:
+Dolazi s dizajnom materijala i tamnom temom prema zadanim postavkama, pružajući sjajno korisničko iskustvo za jednostavno korištenje. Nedostatak pristupa internetu daje vam više privatnosti, sigurnosti i stabilnosti od ostalih aplikacija.
+
+Ne sadrži oglase ili nepotrebne dozvole. Potpuno je open-source i pruža prilagođene boje.
+
+Ovdje pogledajte cijeli paket jednostavnih alata:
 https://www.simplemobiletools.com
 
 Facebook:
