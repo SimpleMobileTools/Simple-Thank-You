@@ -6,6 +6,8 @@ Es könnte in Zukunft weitere zusätzliche Funktionen freischalten. Bitte lassen
 
 Diese Anwendung ist kein Ersatz für die Pro-Anwendungsversionen. Sie müssen sie trotzdem separat erwerben, falls Sie sie benutzen möchten.
 
+Es kommt standardmäßig mit einem Materialdesign und einem dunklen Design, das eine großartige Benutzererfahrung für eine einfache Verwendung bietet. Der fehlende Internetzugang bietet Ihnen mehr Privatsphäre, Sicherheit und Stabilität als andere Apps.
+
 Enthält keine Werbung oder unnötige Berechtigungen. Vollständig quelloffen. Die Farben sind anpassbar.
 
 Einen Überblick über die komplette Suite von Simple Tools gibt es hier:
