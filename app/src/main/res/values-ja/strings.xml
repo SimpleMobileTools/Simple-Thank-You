@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Simple Thank You</string>
-    <string name="app_launcher_name">Thank You</string>
+    <string name="app_name">Simple どうも</string>
+    <string name="app_launcher_name">どうも</string>
     <string name="main_text">応援ありがとうございます!
 \n
 \nhello@simplemobiletools.com
