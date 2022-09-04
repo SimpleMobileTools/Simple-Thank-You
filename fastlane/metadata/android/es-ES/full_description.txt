@@ -4,7 +4,7 @@ Al tener esta aplicación instalada, se desbloquearán todas las funciones, se p
 
 Por favor, mantén la aplicación instalada al menos durante un día, para evitar que se reembolse automáticamente.
 
-Esta aplicación no sustituye a las versiones de la aplicación Pro. Tendrás que comprarlas por separado, en caso de que quieras usarlas.
+Esta aplicación no sustituye a las versiones de la aplicación Pro. Tendrás que comprarlas por separado, en caso de que quieras utilizarlas.
 
 Viene con material design y tema oscuro por defecto, proporciona una gran experiencia de usuario para un uso fácil. La falta de acceso a Internet le da más privacidad, seguridad y estabilidad que otras aplicaciones.
 
