@@ -1,16 +1,16 @@
-Wenn Ihnen unsere Apps gefallen, die kostenlos sind, nicht aufdringlich wirken und keine Werbung enthalten, ziehen Sie bitte in Betracht, uns in irgendeiner Weise zu unterstützen. Wir werden das sehr schätzen.
+Wenn Ihnen unsere Apps gefallen, die kostenlos und werbefrei sind, dann unterstützen Sie uns bitte auf irgendeine Weise. Wir werden es sehr zu schätzen wissen.
 
-Wenn diese Anwendung installiert ist, wird die Anzeige eines "Bitte spenden"-Dialogs in den kostenlosen Anwendungen verhindert. Abgesehen davon erlaubt sie auch die Verwendung eines Shared Theme, d.h. sobald Sie eine Farbe in einer Anwendung ändern, werden alle anderen Anwendungen aktualisiert. Neu installierte Anwendungen aus der Suite erhalten automatisch auch die gemeinsamen Farben.
+Mit der Installation dieser App werden alle Funktionen freigeschaltet, die Farbanpassung ermöglicht und die Anzeige eines "Bitte spenden"-Dialogs in den kostenlosen Apps verhindert. Außerdem ermöglicht sie die Verwendung eines gemeinsamen Themas, d. h. sobald Sie eine Farbe in einer App ändern, werden alle anderen Apps aktualisiert. Neu installierte Apps aus der Suite erhalten automatisch auch die gemeinsamen Farben.
 
-Es könnte in Zukunft weitere zusätzliche Funktionen freischalten. Bitte lassen Sie die Anwendung mindestens einen Tag lang installiert, um eine automatische Rückerstattung zu vermeiden.
+Bitte lassen Sie die App mindestens einen Tag lang installiert, um eine automatische Rückerstattung zu vermeiden.
 
-Diese Anwendung ist kein Ersatz für die Pro-Anwendungsversionen. Sie müssen sie trotzdem separat erwerben, falls Sie sie benutzen möchten.
+Diese App ist kein Ersatz für die Pro-App-Versionen. Sie müssen diese weiterhin separat erwerben, falls Sie sie nutzen möchten.
 
-Es kommt standardmäßig mit einem Materialdesign und einem dunklen Design, das eine großartige Benutzererfahrung für eine einfache Verwendung bietet. Der fehlende Internetzugang bietet Ihnen mehr Privatsphäre, Sicherheit und Stabilität als andere Apps.
+Die App ist standardmäßig im Material Design und mit einem dunklen Thema ausgestattet, was die Bedienung sehr erleichtert. Der fehlende Internetzugang bietet Ihnen mehr Privatsphäre, Sicherheit und Stabilität als andere Apps.
 
-Enthält keine Werbung oder unnötige Berechtigungen. Vollständig quelloffen. Die Farben sind anpassbar.
+Enthält keine Werbung oder unnötige Berechtigungen. Es ist vollständig OpenSource und bietet anpassbare Farben.
 
-Einen Überblick über die komplette Suite von Simple Tools gibt es hier:
+Sehen Sie sich die vollständige Suite von Simple Tools hier an:
 https://www.simplemobiletools.com
 
 Facebook:
@@ -19,5 +19,5 @@ https://www.facebook.com/simplemobiletools
 Reddit:
 https://www.reddit.com/r/SimpleMobileTools
 
-Telegram:
+Telegramm:
 https://t.me/SimpleMobileTools
