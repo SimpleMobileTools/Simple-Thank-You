@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Simple Thank You</string>
+    <string name="app_name">Obrigado Simples</string>
     <string name="app_launcher_name">Obrigado</string>
-    <string name="main_text">Obrigado pelo seu apoio!
+    <string name="main_text">Obrigado por nos apoiar!
 \n
-\nEscreva-nos para
+\nEscreva para
 \nhello@simplemobiletools.com,
-\nadorávamos saber o que acha e que nos deixasse as suas sugestões.
+\nadoraríamos ouvir todos os seus comentários e sugestões.
 \n
-\n(Por favor mantenha a aplicação instalada para que não apareça a solicitação \'Comprar\' e possa manter todas as mais-valias desbloqueadas)</string>
+\n(Por favor, mantenha a aplicação instalada para evitar ver o diálogo \'Comprar\' e ter todos os recursos da aplicação desbloqueadas)</string>
     <!-- Settings -->
-    <string name="hide_launcher_icon">Ocultar o ícone do launcher</string>
-    <string name="hide_launcher_icon_explanation">Para voltar a exibir o íone do launcher, terá de reinstalar a aplicação. Não se preocupe, não terá de pagar novamente.</string>
+    <string name="hide_launcher_icon">Ocultar o ícone do iniciador</string>
+    <string name="hide_launcher_icon_explanation">Deverá reinstalar a aplicação para o ícone do iniciador aparecer de novo. Não se preocupe, não deverá pagar de novo.</string>
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
