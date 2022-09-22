@@ -10,8 +10,8 @@
 \n
 \n(Por favor, mantenha o aplicativo instalado para evitar ver o diálogo \'Comprar\' e ter todos os recursos do aplicativo desbloqueados)</string>
     <!-- Settings -->
-    <string name="hide_launcher_icon">Ocultar o ícone do aplicativo</string>
-    <string name="hide_launcher_icon_explanation">Para que o ícone do aplicativo seja exibido novamente, você terá que reinstalar o aplicativo. Não se preocupe, você não precisará pagar novamente.</string>
+    <string name="hide_launcher_icon">Ocultar o ícone do iniciador</string>
+    <string name="hide_launcher_icon_explanation">Deverá reinstalar o aplicativo para o ícone do iniciador aparecer de novo. Não se preocupe, não deverá pagar de novo.</string>
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res

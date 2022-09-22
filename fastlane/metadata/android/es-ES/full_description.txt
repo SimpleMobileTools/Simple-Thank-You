@@ -1,6 +1,6 @@
 Si le gustan nuestras aplicaciones, que son gratuitas, no intrusivas y sin anuncios, considere apoyarnos de alguna manera. Se lo agradeceremos enormemente.
 
-Al tener esta aplicación instalada, se desbloquearán todas las funciones, se podrá personalizar el color y se evitará que aparezca el diálogo "Done por favor" en las aplicaciones gratuitas. Además, también permite utilizar un Tema Compartido, lo que significa que en cuanto cambies un color en una aplicación, todas las demás se actualizarán. Las aplicaciones recién instaladas de la suite también recibirán automáticamente los colores compartidos.
+Se desbloquearán todas las funciones, se podrá personalizar el color y se evitará que aparezca el diálogo "Done por favor" en las aplicaciones gratuitas al tener esta aplicación instalada. Además, también permite utilizar un Tema Compartido, lo que significa que todas las demás se actualizarán en cuanto cambies un color en una aplicación. Las aplicaciones recién instaladas de la suite también recibirán automáticamente los colores compartidos.
 
 Por favor, mantén la aplicación instalada al menos durante un día, para evitar que se reembolse automáticamente.
 
@@ -10,7 +10,7 @@ Viene con material design y tema oscuro por defecto, proporciona una gran experi
 
 No contiene anuncios ni permisos innecesarios. Es totalmente opensource, proporciona colores personalizables.
 
-Consulta el conjunto completo de Simple Tools aquí:
+Consulte el conjunto completo de Herramientas Simples aquí:
 https://www.simplemobiletools.com
 
 Facebook:

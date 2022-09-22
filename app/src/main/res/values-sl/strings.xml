@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Thank You</string>
+    <string name="app_launcher_name">Hvala</string>
+    <string name="main_text">Hvala za vašo podporo!
+\n
+\nPišite nam na
+\n hello@simplemobiletools.com,
+\n z veseljem bomo prisluhnili vašemu odzivu in predlogom.
+\n
+\n(prosimo vas, da aplikacija ostane nameščena, saj se na ta način izognete pogovornemu oknu \"Nakup\" in ohranite vse funkcije aplikacije odklenjene)</string>
+    <!-- Settings -->
+    <string name="hide_launcher_icon">Skrij ikono zaganjalnika</string>
+    <string name="hide_launcher_icon_explanation">Če želite znova prikazati ikono zaganjalnika, morate znova namestiti aplikacijo. Ne skrbite, ne bo vam treba ponovno plačati.</string>
+</resources>
