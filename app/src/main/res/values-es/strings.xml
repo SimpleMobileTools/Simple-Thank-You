@@ -11,7 +11,7 @@
 \n(Por favor, mantén la aplicación instalada para evitar ver el cuadro de diálogo \"Comprar\" y tener todas las funciones de la aplicación desbloqueadas)</string>
     <!-- Settings -->
     <string name="hide_launcher_icon">Oculta el icono del lanzador</string>
-    <string name="hide_launcher_icon_explanation">Deberá reinstalar la aplicación para el icono del lanzador volver a aparecer. No te preocupes, no deberá volver a pagar.</string>
+    <string name="hide_launcher_icon_explanation">Para que el icono del aplicación vuelva a aparecer, tendrás que volver a instalar la aplicación. No te preocupes, no tendrás que volver a pagar.</string>
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
