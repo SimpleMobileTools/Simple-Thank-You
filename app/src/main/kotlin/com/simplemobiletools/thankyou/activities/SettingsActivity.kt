@@ -4,6 +4,7 @@ import android.os.Bundle
 import com.simplemobiletools.commons.dialogs.ConfirmationDialog
 import com.simplemobiletools.commons.extensions.*
 import com.simplemobiletools.commons.helpers.NavigationIcon
+import com.simplemobiletools.commons.helpers.isTiramisuPlus
 import com.simplemobiletools.thankyou.BuildConfig
 import com.simplemobiletools.thankyou.R
 import com.simplemobiletools.thankyou.extensions.config
@@ -22,6 +23,7 @@ class SettingsActivity : SimpleActivity() {
 
         setupCustomizeColors()
         setupUseEnglish()
+        setupLanguage()
         setupHideLauncherIcon()
         updateTextColors(settings_nested_scrollview)
 
@@ -41,17 +43,25 @@ class SettingsActivity : SimpleActivity() {
     }
 
     private fun setupUseEnglish() {
-        settings_use_english_holder.beVisibleIf(config.wasUseEnglishToggled || Locale.getDefault().language != "en")
+        settings_use_english_holder.beVisibleIf((config.wasUseEnglishToggled || Locale.getDefault().language != "en") && !isTiramisuPlus())
         settings_use_english.isChecked = config.useEnglish
-
-        if (settings_use_english_holder.isGone()) {
-            settings_hide_launcher_icon_holder.background = resources.getDrawable(R.drawable.ripple_all_corners, theme)
-        }
-
         settings_use_english_holder.setOnClickListener {
             settings_use_english.toggle()
             config.useEnglish = settings_use_english.isChecked
             System.exit(0)
+        }
+    }
+
+    private fun setupLanguage() {
+        settings_language.text = Locale.getDefault().displayLanguage
+        settings_language_holder.beVisibleIf(isTiramisuPlus())
+
+        if (settings_use_english_holder.isGone() && settings_language_holder.isGone()) {
+            settings_hide_launcher_icon_holder.background = resources.getDrawable(R.drawable.ripple_all_corners, theme)
+        }
+
+        settings_language_holder.setOnClickListener {
+            launchChangeAppLanguageIntent()
         }
     }
 
