@@ -1,6 +1,13 @@
 Changelog
 ==========
 
+Version 5.7.0 *(2022-10-03)*
+----------------------------
+
+ * Adding a Get Simple Phone button into the About section
+ * Added Monochrome icon and Language picker support on Android 13+
+ * Added some translation and UX improvements
+
 Version 5.6.1 *(2022-08-12)*
 ----------------------------
 
