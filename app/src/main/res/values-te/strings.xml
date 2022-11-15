@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Simple Thank You</string>
-    <string name="app_launcher_name">Thank You</string>
-    <string name="main_text">Thank you for supporting us!
+    <string name="app_name">సింపుల్ ధన్యవాదాలు</string>
+    <string name="app_launcher_name">ధన్యవాదాలు</string>
+    <string name="main_text">మాకు మద్దతు ఇచ్చినందుకు ధన్యవాదాలు!
 \n
-\nDrop us a line at
+\nమాకు ఒక లైన్ వదలండి
 \n hello@simplemobiletools.com,
-\n we\'d love to hear all your feedback and suggestions.
+\n మేము మీ అన్ని అభిప్రాయాలు మరియు సూచనలను వినడానికి ఇష్టపడతాము.
 \n
 \n(Please keep the app installed to avoid seeing the \'Purchase\' dialog and have all app features unlocked)</string>
-    <string name="hide_launcher_icon_explanation">To have the launcher icon displayed again, you will have to reinstall the app. Don\'t worry, you won\'t have to pay again.</string>
-    <string name="hide_launcher_icon">Hide the launcher icon</string>
+    <string name="hide_launcher_icon_explanation">లాంచర్ చిహ్నాన్ని మళ్లీ ప్రదర్శించడానికి, మీరు యాప్‌ని మళ్లీ ఇన్‌స్టాల్ చేయాలి. చింతించకండి, మీరు మళ్లీ చెల్లించాల్సిన అవసరం లేదు.</string>
+    <string name="hide_launcher_icon">లాంచర్ చిహ్నాన్ని దాచండి</string>
 </resources>
