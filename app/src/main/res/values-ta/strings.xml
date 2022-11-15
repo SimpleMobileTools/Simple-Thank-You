@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Simple Thank You</string>
-    <string name="app_launcher_name">Thank You</string>
-    <string name="main_text">Thank you for supporting us!
+    <string name="app_name">எளிமையான நன்றி</string>
+    <string name="app_launcher_name">நன்றி</string>
+    <string name="main_text">எங்களை ஆதரித்ததற்கு நன்றி!
 \n
-\nDrop us a line at
+\nஎங்களுக்கு ஒரு வரியை விடுங்கள்
 \n hello@simplemobiletools.com,
-\n we\'d love to hear all your feedback and suggestions.
+\n உங்களின் அனைத்து கருத்துகளையும் பரிந்துரைகளையும் கேட்க விரும்புகிறோம்.
 \n
 \n(Please keep the app installed to avoid seeing the \'Purchase\' dialog and have all app features unlocked)</string>
-    <string name="hide_launcher_icon">Hide the launcher icon</string>
-    <string name="hide_launcher_icon_explanation">To have the launcher icon displayed again, you will have to reinstall the app. Don\'t worry, you won\'t have to pay again.</string>
+    <string name="hide_launcher_icon">துவக்கி ஐகானை மறை</string>
+    <string name="hide_launcher_icon_explanation">துவக்கி ஐகானை மீண்டும் காட்ட, நீங்கள் பயன்பாட்டை மீண்டும் நிறுவ வேண்டும். கவலைப்பட வேண்டாம், நீங்கள் மீண்டும் பணம் செலுத்த வேண்டியதில்லை.</string>
 </resources>
