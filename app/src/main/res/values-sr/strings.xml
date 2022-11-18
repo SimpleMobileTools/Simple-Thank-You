@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Једноставно хвала</string>
+    <string name="app_launcher_name">Хвала вам</string>
+    <string name="main_text">Хвала вам што нас подржавате!
+\n
+\nЈавите нам се на
+\nhello@simplemobiletools.com,
+\nволели бисмо да чујемо све ваше повратне информације и сугестије.
+\n
+\n(Молимо да задржите инсталирану апликацију да не бисте видели дијалог „Куповина“ и да бисте откључали све функције апликације)</string>
+    <string name="hide_launcher_icon">Сакријте икону покретача</string>
+    <string name="hide_launcher_icon_explanation">Да би се икона покретача поново приказала, мораћете поново да инсталирате апликацију. Не брините, нећете морати поново да плаћате.</string>
+</resources>

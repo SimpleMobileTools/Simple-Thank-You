@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಸರಳ ಧನ್ಯವಾದಗಳು</string>
+    <string name="app_launcher_name">ಧನ್ಯವಾದಗಳು</string>
+    <string name="main_text">ನಮ್ಮನ್ನು ಬೆಂಬಲಿಸಿದ್ದಕ್ಕಾಗಿ ಧನ್ಯವಾದಗಳು!
+\n
+\nನಮಗೆ ಒಂದು ಸಾಲನ್ನು ಬಿಡಿ
+\n hello@simplemobiletools.com,
+\n ನಿಮ್ಮ ಎಲ್ಲಾ ಪ್ರತಿಕ್ರಿಯೆ ಮತ್ತು ಸಲಹೆಗಳನ್ನು ಕೇಳಲು ನಾವು ಇಷ್ಟಪಡುತ್ತೇವೆ.
+\n
+\n(Please keep the app installed to avoid seeing the \'Purchase\' dialog and have all app features unlocked)</string>
+    <string name="hide_launcher_icon">ಲಾಂಚರ್ ಐಕಾನ್ ಅನ್ನು ಮರೆಮಾಡಿ</string>
+    <string name="hide_launcher_icon_explanation">ಲಾಂಚರ್ ಐಕಾನ್ ಅನ್ನು ಮತ್ತೆ ಪ್ರದರ್ಶಿಸಲು, ನೀವು ಅಪ್ಲಿಕೇಶನ್ ಅನ್ನು ಮರುಸ್ಥಾಪಿಸಬೇಕು. ಚಿಂತಿಸಬೇಡ, ನೀವು ಮತ್ತೆ ಪಾವತಿಸಬೇಕಾಗಿಲ್ಲ.</string>
+</resources>
