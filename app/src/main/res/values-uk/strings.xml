@@ -8,10 +8,10 @@
 \n hello@simplemobiletools.com,
 \n ми б хотіли почути ваші відгуки і пропозиції.
 \n
-\n(Будь ласка, залиште додаток встановленим, щоб не бачити діалогове вікно \'Купити\' , а також розблокувати всі можливості, які надає додаток)</string>
+\n(Будь ласка, залиште застосунок встановленим, щоб не бачити діалогове вікно \'Купити\' , а також розблокувати всі можливості, які надає застосунок)</string>
     <!-- Settings -->
-    <string name="hide_launcher_icon">Приховати додаток у Меню</string>
-    <string name="hide_launcher_icon_explanation">Щоб знову побачити додаток у Меню, вам доведеться знову встановити додаток. Не хвилюйтесь, ви не будете знову сплачувати.</string>
+    <string name="hide_launcher_icon">Приховати значок лаунчера</string>
+    <string name="hide_launcher_icon_explanation">Щоб знову побачити значок лаунчеру, вам доведеться знову встановити застосунок. Не хвилюйтесь, ви не будете знову сплачувати.</string>
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
