@@ -2,10 +2,7 @@ package com.simplemobiletools.thankyou.activities
 
 import android.content.Intent
 import android.os.Bundle
-import com.simplemobiletools.commons.extensions.appLaunched
-import com.simplemobiletools.commons.extensions.checkWhatsNew
-import com.simplemobiletools.commons.extensions.hideKeyboard
-import com.simplemobiletools.commons.extensions.updateTextColors
+import com.simplemobiletools.commons.extensions.*
 import com.simplemobiletools.commons.models.FAQItem
 import com.simplemobiletools.commons.models.Release
 import com.simplemobiletools.thankyou.BuildConfig
@@ -13,23 +10,34 @@ import com.simplemobiletools.thankyou.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : SimpleActivity() {
+
     override fun onCreate(savedInstanceState: Bundle?) {
+        isMaterialActivity = true
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         appLaunched(BuildConfig.APPLICATION_ID)
+        refreshMenuItems()
         setupOptionsMenu()
         checkWhatsNewDialog()
+        updateMaterialActivityViews(main_coordinator, activity_main, true)
     }
 
     override fun onResume() {
         super.onResume()
         updateTextColors(activity_main)
-        setupToolbar(main_toolbar)
+        setupToolbar(main_toolbar, statusBarColor = getProperBackgroundColor())
+    }
+
+    private fun refreshMenuItems() {
+        main_toolbar.menu.apply {
+            findItem(R.id.more_apps_from_us).isVisible = !resources.getBoolean(R.bool.hide_google_relations)
+        }
     }
 
     private fun setupOptionsMenu() {
         main_toolbar.setOnMenuItemClickListener { menuItem ->
             when (menuItem.itemId) {
+                R.id.more_apps_from_us -> launchMoreAppsFromUsIntent()
                 R.id.settings -> launchSettings()
                 R.id.about -> launchAbout()
                 else -> return@setOnMenuItemClickListener false

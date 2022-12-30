@@ -13,7 +13,7 @@ android {
 
     defaultConfig {
         applicationId "com.simplemobiletools.thankyou"
-        minSdkVersion 21
+        minSdkVersion 23
         targetSdkVersion 33
         versionCode 28
         versionName "5.7.0"
@@ -61,5 +61,5 @@ android {
 }
 
 dependencies {
-    implementation 'com.github.SimpleMobileTools:Simple-Commons:f74a128e2e'
+    implementation 'com.github.SimpleMobileTools:Simple-Commons:7e489f7121'
 }
