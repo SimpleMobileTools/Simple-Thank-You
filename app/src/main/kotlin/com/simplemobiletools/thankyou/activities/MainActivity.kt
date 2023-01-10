@@ -19,7 +19,7 @@ class MainActivity : SimpleActivity() {
         refreshMenuItems()
         setupOptionsMenu()
         checkWhatsNewDialog()
-        updateMaterialActivityViews(main_coordinator, activity_main, true)
+        updateMaterialActivityViews(main_coordinator, activity_main, useTransparentNavigation = true, useTopSearchMenu = false)
     }
 
     override fun onResume() {
