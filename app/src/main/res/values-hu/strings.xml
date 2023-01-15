@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Egyszerű „köszönöm”</string>
-    <string name="app_launcher_name">Köszönöm</string>
+    <string name="app_name">Egyszerű köszönet</string>
+    <string name="app_launcher_name">Köszönet</string>
     <string name="main_text">Köszönjük, hogy támogat minket!
 \n
 \nÍrjunk nekik a következő címre:
