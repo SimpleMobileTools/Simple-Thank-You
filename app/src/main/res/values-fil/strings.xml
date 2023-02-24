@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hide_launcher_icon">Hide the launcher icon</string>
-    <string name="hide_launcher_icon_explanation">To have the launcher icon displayed again, you will have to reinstall the app. Don\'t worry, you won\'t have to pay again.</string>
-    <string name="app_name">Simple Thank You</string>
-    <string name="app_launcher_name">Thank You</string>
-    <string name="main_text">Thank you for supporting us!
+    <string name="hide_launcher_icon">Itago ang icon sa lancher</string>
+    <string name="hide_launcher_icon_explanation">Kailangan mong i-reinstall ang app para magpakita ulit ang icon sa launcher. Huwag mag-alala, hindi mo na kailangang magbayad ulit.</string>
+    <string name="app_name">Simpleng Pasasalamat</string>
+    <string name="app_launcher_name">Salamat</string>
+    <string name="main_text">Salamat sa pagsuporta sa amin!
 \n
-\nDrop us a line at
+\nKausapin kami sa
 \n hello@simplemobiletools.com,
-\n we\'d love to hear all your feedback and suggestions.
+\n gusto naming marinig ang mga feeback at mungkahi mo.
 \n
-\n(Please keep the app installed to avoid seeing the \'Purchase\' dialog and have all app features unlocked)</string>
+\n(Mangyaring panatilihing naka-install ang app para ma-unlock ang lahat ng mga feature ng mga app at maiwasan ang diyalogong \'Bilhin\')</string>
 </resources>
