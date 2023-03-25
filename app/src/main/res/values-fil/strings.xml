@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simpleng Pasasalamat</string>
+    <string name="app_launcher_name">Salamat</string>
+    <string name="main_text">Salamat sa pagsuporta sa amin!
+\n
+\nKausapin kami sa
+\n hello@simplemobiletools.com,
+\n gusto naming marinig ang mga feeback at mungkahi mo.
+\n
+\n(Mangyaring panatilihing naka-install ang app para ma-unlock ang lahat ng mga feature ng mga app at maiwasan ang diyalogong \'Bilhin\')</string>
+    <!-- Settings -->
+    <string name="hide_launcher_icon">Itago ang icon sa lancher</string>
+    <string name="hide_launcher_icon_explanation">Kailangan mong i-reinstall ang app para magpakita ulit ang icon sa launcher. Huwag mag-alala, hindi mo na kailangang magbayad ulit.</string>
+</resources>
