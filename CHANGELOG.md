@@ -1,7 +1,12 @@
 Changelog
 ==========
 
-Version 5.8.0 *(2023-01-11)*
+Version 5.7.2 *(2023-05-15)*
+----------------------------
+
+ * Added some translation improvements
+
+Version 5.7.1 *(2023-01-11)*
 ----------------------------
 
  * Use Material You design by default on Android 12+
