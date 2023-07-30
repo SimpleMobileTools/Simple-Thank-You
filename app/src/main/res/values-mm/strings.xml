@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ရိုးရှင်းပရီမီယမ်</string>
+    <string name="app_launcher_name">​ကျေးဇူး</string>
+    <string name="main_text">ငါတို့ကိုထောက်ပံ့​ ပေးတဲ့အတွက်​ကျေးဇူးတင်ပါတယ်!\n\nnအီး​မေးလ်ပို့လိုပါက \n hello@simplemobiletools.com,\n ငါတို့\'d မင်းဆီကတုန့်ပြန်မှုကိုကြားချင်ပါတယ်.\n\n(ကျေးဇူးပြု၍ ဒီအက်ပ်ကိုမဖျက်ပစ်ပါနဲ့ ဖော်ပြပါစာသားကို \'Purchase\' မ​တွေ့ချင်ရင် ဒါမှမဟုတ် အက်ပ်လုပ်​ဆောင်ချက်​တွေအကုန်လုံးသုံးချင်ရင်)</string>
+
+    <!-- Settings -->
+    <string name="hide_launcher_icon">ပင်မစာမျက်နှာမှအိုင်ကွန်ကို ဖျောက်ထားပါ</string>
+    <string name="hide_launcher_icon_explanation">အိုင်ကွန်ကိုပြန်ပြချင်ရင် ဒီအက်ပ်ကိုပြန်သွင်းရန်လိုပါသည်။သင်​နောက်တခါ​ငွေထပ်​ပေး​ချေစရာမလိုပါဘူး.</string>
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>
