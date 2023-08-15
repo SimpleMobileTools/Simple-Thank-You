@@ -1,6 +1,5 @@
 apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
-apply plugin: 'kotlin-android-extensions'
 
 def keystorePropertiesFile = rootProject.file("keystore.properties")
 def keystoreProperties = new Properties()
@@ -9,12 +8,13 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    compileSdkVersion 33
+    namespace "com.simplemobiletools.thankyou"
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.simplemobiletools.thankyou"
-        minSdkVersion 23
-        targetSdkVersion 33
+        minSdk 23
+        targetSdk 34
         versionCode 30
         versionName "5.7.2"
         setProperty("archivesBaseName", "thank-you")
@@ -31,6 +31,11 @@ android {
         }
     }
 
+    buildFeatures {
+        buildConfig true
+        viewBinding true
+    }
+
     buildTypes {
         debug {
 	        applicationIdSuffix ".debug"
@@ -44,7 +49,16 @@ android {
         }
     }
 
-    flavorDimensions "variants"
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    kotlinOptions {
+        jvmTarget = '17'
+    }
+
+    flavorDimensions = ["variants"]
     productFlavors {
         core {}
         fdroid {}
@@ -61,5 +75,5 @@ android {
 }
 
 dependencies {
-    implementation 'com.github.SimpleMobileTools:Simple-Commons:4c83ec8740'
+    implementation 'com.github.SimpleMobileTools:Simple-Commons:d1629c7f1a'
 }
