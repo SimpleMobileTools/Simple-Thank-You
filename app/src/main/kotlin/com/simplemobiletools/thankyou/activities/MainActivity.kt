@@ -7,35 +7,36 @@ import com.simplemobiletools.commons.models.FAQItem
 import com.simplemobiletools.commons.models.Release
 import com.simplemobiletools.thankyou.BuildConfig
 import com.simplemobiletools.thankyou.R
-import kotlinx.android.synthetic.main.activity_main.*
+import com.simplemobiletools.thankyou.databinding.ActivityMainBinding
 
 class MainActivity : SimpleActivity() {
+    private val binding by viewBinding(ActivityMainBinding::inflate)
 
     override fun onCreate(savedInstanceState: Bundle?) {
         isMaterialActivity = true
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(binding.root)
         appLaunched(BuildConfig.APPLICATION_ID)
         refreshMenuItems()
         setupOptionsMenu()
         checkWhatsNewDialog()
-        updateMaterialActivityViews(main_coordinator, activity_main, useTransparentNavigation = true, useTopSearchMenu = false)
+        updateMaterialActivityViews(binding.mainCoordinator, binding.activityMain, useTransparentNavigation = true, useTopSearchMenu = false)
     }
 
     override fun onResume() {
         super.onResume()
-        updateTextColors(activity_main)
-        setupToolbar(main_toolbar, statusBarColor = getProperBackgroundColor())
+        updateTextColors(binding.activityMain)
+        setupToolbar(binding.mainToolbar, statusBarColor = getProperBackgroundColor())
     }
 
     private fun refreshMenuItems() {
-        main_toolbar.menu.apply {
+        binding.mainToolbar.menu.apply {
             findItem(R.id.more_apps_from_us).isVisible = !resources.getBoolean(R.bool.hide_google_relations)
         }
     }
 
     private fun setupOptionsMenu() {
-        main_toolbar.setOnMenuItemClickListener { menuItem ->
+        binding.mainToolbar.setOnMenuItemClickListener { menuItem ->
             when (menuItem.itemId) {
                 R.id.more_apps_from_us -> launchMoreAppsFromUsIntent()
                 R.id.settings -> launchSettings()

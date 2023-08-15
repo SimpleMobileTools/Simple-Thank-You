@@ -7,63 +7,72 @@ import com.simplemobiletools.commons.helpers.NavigationIcon
 import com.simplemobiletools.commons.helpers.isTiramisuPlus
 import com.simplemobiletools.thankyou.BuildConfig
 import com.simplemobiletools.thankyou.R
+import com.simplemobiletools.thankyou.databinding.ActivitySettingsBinding
 import com.simplemobiletools.thankyou.extensions.config
-import kotlinx.android.synthetic.main.activity_settings.*
-import java.util.*
+import java.util.Locale
 
 class SettingsActivity : SimpleActivity() {
+    private val binding by viewBinding(ActivitySettingsBinding::inflate)
 
     override fun onCreate(savedInstanceState: Bundle?) {
         isMaterialActivity = true
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_settings)
+        setContentView(binding.root)
 
-        updateMaterialActivityViews(settings_coordinator, settings_holder, useTransparentNavigation = true, useTopSearchMenu = false)
-        setupMaterialScrollListener(settings_nested_scrollview, settings_toolbar)
+        binding.apply {
+            updateMaterialActivityViews(settingsCoordinator, settingsHolder, useTransparentNavigation = true, useTopSearchMenu = false)
+            setupMaterialScrollListener(settingsNestedScrollview, settingsToolbar)
+        }
     }
 
     override fun onResume() {
         super.onResume()
-        setupToolbar(settings_toolbar, NavigationIcon.Arrow)
+        setupToolbar(binding.settingsToolbar, NavigationIcon.Arrow)
 
         setupCustomizeColors()
         setupUseEnglish()
         setupLanguage()
         setupHideLauncherIcon()
-        updateTextColors(settings_nested_scrollview)
+        updateTextColors(binding.settingsNestedScrollview)
 
-        arrayOf(settings_color_customization_section_label, settings_general_settings_label).forEach {
-            it.setTextColor(getProperPrimaryColor())
+        binding.apply {
+            arrayOf(settingsColorCustomizationSectionLabel, settingsGeneralSettingsLabel).forEach {
+                it.setTextColor(getProperPrimaryColor())
+            }
         }
     }
 
     private fun setupCustomizeColors() {
-        settings_color_customization_holder.setOnClickListener {
+        binding.settingsColorCustomizationHolder.setOnClickListener {
             startCustomizationActivity()
         }
     }
 
     private fun setupUseEnglish() {
-        settings_use_english_holder.beVisibleIf((config.wasUseEnglishToggled || Locale.getDefault().language != "en") && !isTiramisuPlus())
-        settings_use_english.isChecked = config.useEnglish
-        settings_use_english_holder.setOnClickListener {
-            settings_use_english.toggle()
-            config.useEnglish = settings_use_english.isChecked
-            System.exit(0)
+        binding.apply {
+            settingsUseEnglishHolder.beVisibleIf((config.wasUseEnglishToggled || Locale.getDefault().language != "en") && !isTiramisuPlus())
+            settingsUseEnglish.isChecked = config.useEnglish
+            settingsUseEnglishHolder.setOnClickListener {
+                settingsUseEnglish.toggle()
+                config.useEnglish = settingsUseEnglish.isChecked
+                System.exit(0)
+            }
         }
     }
 
     private fun setupLanguage() {
-        settings_language.text = Locale.getDefault().displayLanguage
-        settings_language_holder.beVisibleIf(isTiramisuPlus())
-        settings_language_holder.setOnClickListener {
-            launchChangeAppLanguageIntent()
+        binding.apply {
+            settingsLanguage.text = Locale.getDefault().displayLanguage
+            settingsLanguageHolder.beVisibleIf(isTiramisuPlus())
+            settingsLanguageHolder.setOnClickListener {
+                launchChangeAppLanguageIntent()
+            }
         }
     }
 
     private fun setupHideLauncherIcon() {
-        settings_hide_launcher_icon.isChecked = config.hideLauncherIcon
-        settings_hide_launcher_icon_holder.setOnClickListener {
+        binding.settingsHideLauncherIcon.isChecked = config.hideLauncherIcon
+        binding.settingsHideLauncherIconHolder.setOnClickListener {
             if (config.hideLauncherIcon) {
                 toggleHideLauncherIcon()
             } else {
@@ -75,8 +84,8 @@ class SettingsActivity : SimpleActivity() {
     }
 
     private fun toggleHideLauncherIcon() {
-        settings_hide_launcher_icon.toggle()
-        config.hideLauncherIcon = settings_hide_launcher_icon.isChecked
+        binding.settingsHideLauncherIcon.toggle()
+        config.hideLauncherIcon = binding.settingsHideLauncherIcon.isChecked
 
         val appId = BuildConfig.APPLICATION_ID
         getAppIconColors().forEachIndexed { index, color ->
