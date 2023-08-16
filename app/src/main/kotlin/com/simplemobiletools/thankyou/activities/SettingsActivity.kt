@@ -12,7 +12,7 @@ import com.simplemobiletools.thankyou.extensions.config
 import java.util.Locale
 
 class SettingsActivity : SimpleActivity() {
-    private val binding by viewBinding(ActivitySettingsBinding::inflate)
+    private val binding by lazy(LazyThreadSafetyMode.NONE) { ActivitySettingsBinding.inflate(layoutInflater) }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         isMaterialActivity = true
