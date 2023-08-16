@@ -10,7 +10,7 @@ import com.simplemobiletools.thankyou.R
 import com.simplemobiletools.thankyou.databinding.ActivityMainBinding
 
 class MainActivity : SimpleActivity() {
-    private val binding by viewBinding(ActivityMainBinding::inflate)
+    private val binding by lazy(LazyThreadSafetyMode.NONE) { ActivityMainBinding.inflate(layoutInflater) }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         isMaterialActivity = true
