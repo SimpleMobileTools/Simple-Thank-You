@@ -75,5 +75,5 @@ android {
 }
 
 dependencies {
-    implementation 'com.github.SimpleMobileTools:Simple-Commons:d1629c7f1a'
+    implementation 'com.github.SimpleMobileTools:Simple-Commons:de113ad025'
 }
