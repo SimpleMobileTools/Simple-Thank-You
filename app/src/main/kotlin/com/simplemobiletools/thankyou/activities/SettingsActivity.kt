@@ -10,6 +10,7 @@ import com.simplemobiletools.thankyou.R
 import com.simplemobiletools.thankyou.databinding.ActivitySettingsBinding
 import com.simplemobiletools.thankyou.extensions.config
 import java.util.Locale
+import kotlin.system.exitProcess
 
 class SettingsActivity : SimpleActivity() {
     private val binding by lazy(LazyThreadSafetyMode.NONE) { ActivitySettingsBinding.inflate(layoutInflater) }
@@ -55,7 +56,7 @@ class SettingsActivity : SimpleActivity() {
             settingsUseEnglishHolder.setOnClickListener {
                 settingsUseEnglish.toggle()
                 config.useEnglish = settingsUseEnglish.isChecked
-                System.exit(0)
+                exitProcess(0)
             }
         }
     }

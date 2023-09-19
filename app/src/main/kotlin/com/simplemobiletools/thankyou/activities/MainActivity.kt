@@ -2,51 +2,38 @@ package com.simplemobiletools.thankyou.activities
 
 import android.content.Intent
 import android.os.Bundle
-import com.simplemobiletools.commons.extensions.*
+import androidx.activity.compose.setContent
+import com.simplemobiletools.commons.compose.extensions.enableEdgeToEdgeSimple
+import com.simplemobiletools.commons.compose.extensions.onEventValue
+import com.simplemobiletools.commons.compose.theme.AppThemeSurface
+import com.simplemobiletools.commons.extensions.appLaunched
+import com.simplemobiletools.commons.extensions.checkWhatsNew
+import com.simplemobiletools.commons.extensions.hideKeyboard
+import com.simplemobiletools.commons.extensions.launchMoreAppsFromUsIntent
 import com.simplemobiletools.commons.models.FAQItem
 import com.simplemobiletools.commons.models.Release
 import com.simplemobiletools.thankyou.BuildConfig
 import com.simplemobiletools.thankyou.R
-import com.simplemobiletools.thankyou.databinding.ActivityMainBinding
+import com.simplemobiletools.thankyou.screens.MainScreen
 
 class MainActivity : SimpleActivity() {
-    private val binding by lazy(LazyThreadSafetyMode.NONE) { ActivityMainBinding.inflate(layoutInflater) }
-
     override fun onCreate(savedInstanceState: Bundle?) {
-        isMaterialActivity = true
         super.onCreate(savedInstanceState)
-        setContentView(binding.root)
-        appLaunched(BuildConfig.APPLICATION_ID)
-        refreshMenuItems()
-        setupOptionsMenu()
-        checkWhatsNewDialog()
-        updateMaterialActivityViews(binding.mainCoordinator, binding.activityMain, useTransparentNavigation = true, useTopSearchMenu = false)
-    }
-
-    override fun onResume() {
-        super.onResume()
-        updateTextColors(binding.activityMain)
-        setupToolbar(binding.mainToolbar, statusBarColor = getProperBackgroundColor())
-    }
-
-    private fun refreshMenuItems() {
-        binding.mainToolbar.menu.apply {
-            findItem(R.id.more_apps_from_us).isVisible = !resources.getBoolean(R.bool.hide_google_relations)
-        }
-    }
-
-    private fun setupOptionsMenu() {
-        binding.mainToolbar.setOnMenuItemClickListener { menuItem ->
-            when (menuItem.itemId) {
-                R.id.more_apps_from_us -> launchMoreAppsFromUsIntent()
-                R.id.settings -> launchSettings()
-                R.id.about -> launchAbout()
-                else -> return@setOnMenuItemClickListener false
+        enableEdgeToEdgeSimple()
+        setContent {
+            AppThemeSurface {
+                val showMoreApps = onEventValue { !resources.getBoolean(R.bool.hide_google_relations) }
+                MainScreen(
+                    showMoreApps = showMoreApps,
+                    openSettings = ::launchSettings,
+                    openAbout = ::launchAbout,
+                    moreAppsFromUs = ::launchMoreAppsFromUsIntent
+                )
             }
-            return@setOnMenuItemClickListener true
         }
+        appLaunched(BuildConfig.APPLICATION_ID)
+        checkWhatsNewDialog()
     }
-
     private fun launchSettings() {
         hideKeyboard()
         startActivity(Intent(this, SettingsActivity::class.java))
