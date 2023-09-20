@@ -5,7 +5,6 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.runtime.Composable
-import androidx.compose.runtime.remember
 import com.simplemobiletools.commons.compose.extensions.enableEdgeToEdgeSimple
 import com.simplemobiletools.commons.compose.extensions.onEventValue
 import com.simplemobiletools.commons.compose.theme.AppThemeSurface
@@ -24,7 +23,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdgeSimple()
         setContent {
             AppThemeSurface {
-                val linkColor = rememberLinkColor()
+                val linkColor = linkColor()
                 val showMoreApps = onEventValue { !resources.getBoolean(R.bool.hide_google_relations) }
                 MainScreen(
                     linkColor = linkColor,
@@ -40,7 +39,7 @@ class MainActivity : ComponentActivity() {
     }
 
     @Composable
-    private fun rememberLinkColor() = remember {
+    private fun linkColor() = onEventValue {
         when {
             isWhiteTheme() || isBlackAndWhiteTheme() -> baseConfig.accentColor
             else -> getProperPrimaryColor()
