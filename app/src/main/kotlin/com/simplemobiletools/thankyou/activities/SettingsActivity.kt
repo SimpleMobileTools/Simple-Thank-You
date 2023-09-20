@@ -51,7 +51,7 @@ class SettingsActivity : ComponentActivity() {
                     }
                 }
                 val alertDialogState = rememberAlertDialogState()
-                ConfirmationDialog(alertDialogState)
+                ConfirmaHideLauncherDialog(alertDialogState)
 
                 SettingsScreen(
                     displayLanguage = displayLanguage,
@@ -79,7 +79,7 @@ class SettingsActivity : ComponentActivity() {
     }
 
     @Composable
-    private fun ConfirmationDialog(alertDialogState: AlertDialogState) {
+    private fun ConfirmaHideLauncherDialog(alertDialogState: AlertDialogState) {
         alertDialogState.DialogMember {
             AlertDialog(
                 modifier = Modifier.fillMaxWidth(0.9f),
