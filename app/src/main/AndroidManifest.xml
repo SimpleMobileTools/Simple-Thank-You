@@ -28,12 +28,14 @@
         <activity
             android:name=".activities.MainActivity"
             android:configChanges="orientation"
+            android:enableOnBackInvokedCallback="true"
             android:exported="false" />
 
         <activity
             android:name=".activities.SettingsActivity"
             android:configChanges="orientation"
             android:exported="true"
+            android:enableOnBackInvokedCallback="true"
             android:label="@string/settings"
             android:parentActivityName=".activities.MainActivity">
 
