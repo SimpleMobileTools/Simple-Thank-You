@@ -107,8 +107,6 @@ android {
 }
 
 dependencies {
-    implementation(libs.kotlin.immutable.collections)
-
     implementation(libs.simple.tools.commons)
     implementation(libs.bundles.lifecycle)
     implementation(libs.bundles.compose)

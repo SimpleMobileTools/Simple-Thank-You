@@ -82,17 +82,6 @@ internal fun MainScreen(
 }
 
 @Composable
-fun topAppBarColors(
-    statusBarColor: Int,
-    colorTransitionFraction: Float,
-    contrastColor: Color
-) = TopAppBarDefaults.topAppBarColors(
-    scrolledContainerColor = Color(statusBarColor),
-    containerColor = if (colorTransitionFraction == 1f) contrastColor else MaterialTheme.colorScheme.surface,
-    navigationIconContentColor = if (colorTransitionFraction == 1f) contrastColor else MaterialTheme.colorScheme.surface
-)
-
-@Composable
 @MyDevices
 private fun MainScreenPreview() {
     AppThemeSurface {

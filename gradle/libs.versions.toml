@@ -1,9 +1,8 @@
 [versions]
 #jetbrains
 kotlin = "1.9.10"
-kotlin-immutable-collections = "0.3.5" #todo remove
 #Simple tools
-simple-commons = "eceb48949e"
+simple-commons = "985e1da5f9"
 #Compose
 composeActivity = "1.8.0-beta01"
 compose = "1.6.0-alpha05"
@@ -47,7 +46,6 @@ compose-ui = { module = "androidx.compose.ui:ui", version.ref = "compose" }
 compose-runtime = { module = "androidx.compose.runtime:runtime", version.ref = "compose" }
 compose-uiTooling-debug = { module = "androidx.compose.ui:ui-tooling", version.ref = "compose" }
 compose-uiTooling-preview = { module = "androidx.compose.ui:ui-tooling-preview", version.ref = "compose" }
-kotlin-immutable-collections = {module = "org.jetbrains.kotlinx:kotlinx-collections-immutable", version.ref = "kotlin-immutable-collections"} #todo remove
 [bundles]
 compose = [
     "compose-activity",
