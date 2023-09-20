@@ -69,7 +69,6 @@ internal fun MainScreen(
                     textSize = 16.sp.value
                     setLineSpacing(3.dp.value, 1f)
                     gravity = Gravity.CENTER_HORIZONTAL
-                    setLinkTextColor(linkColor)
                     Linkify.addLinks(this, Linkify.WEB_URLS)
                     Linkify.addLinks(this, Linkify.EMAIL_ADDRESSES)
                 }
@@ -78,6 +77,7 @@ internal fun MainScreen(
                 .padding(bottom = paddingValues.calculateBottomPadding())
                 .padding(40.dp),
             update = { textView ->
+                textView.setLinkTextColor(linkColor)
                 textView.setTextColor(textColor)
             }
         )
