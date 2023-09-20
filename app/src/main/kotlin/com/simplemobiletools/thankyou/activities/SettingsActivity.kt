@@ -14,6 +14,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.window.DialogProperties
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
+import com.simplemobiletools.commons.compose.alert_dialog.AlertDialogState
+import com.simplemobiletools.commons.compose.alert_dialog.rememberAlertDialogState
 import com.simplemobiletools.commons.compose.extensions.enableEdgeToEdgeSimple
 import com.simplemobiletools.commons.compose.theme.AppThemeSurface
 import com.simplemobiletools.commons.compose.theme.Shapes
@@ -26,8 +28,6 @@ import com.simplemobiletools.thankyou.extensions.config
 import com.simplemobiletools.thankyou.extensions.launchChangeAppLanguageIntent
 import com.simplemobiletools.thankyou.extensions.startCustomizationActivity
 import com.simplemobiletools.thankyou.screens.SettingsScreen
-import com.simplemobiletools.thankyou.screens.alert_dialog.AlertDialogState
-import com.simplemobiletools.thankyou.screens.alert_dialog.rememberAlertDialogState
 import java.util.Locale
 import kotlin.system.exitProcess
 
