@@ -33,6 +33,7 @@ internal fun MainScreen(
     openSettings: () -> Unit,
     openAbout: () -> Unit,
     moreAppsFromUs: () -> Unit,
+    linkColor: Int,
 ) {
     SettingsLazyScaffold(customTopBar = { scrolledColor: Color, _: MutableInteractionSource, scrollBehavior: TopAppBarScrollBehavior, statusBarColor: Int, colorTransitionFraction: Float, contrastColor: Color ->
         TopAppBar(
@@ -60,6 +61,7 @@ internal fun MainScreen(
         )
     }) { paddingValues ->
         val textColor = MaterialTheme.colorScheme.onSurface.toArgb()
+
         AndroidView(
             factory = { context ->
                 TextView(context).apply {
@@ -67,6 +69,7 @@ internal fun MainScreen(
                     textSize = 16.sp.value
                     setLineSpacing(3.dp.value, 1f)
                     gravity = Gravity.CENTER_HORIZONTAL
+                    setLinkTextColor(linkColor)
                     Linkify.addLinks(this, Linkify.WEB_URLS)
                     Linkify.addLinks(this, Linkify.EMAIL_ADDRESSES)
                 }
@@ -85,6 +88,6 @@ internal fun MainScreen(
 @MyDevices
 private fun MainScreenPreview() {
     AppThemeSurface {
-        MainScreen(showMoreApps = true, openSettings = {}, openAbout = {}, moreAppsFromUs = {})
+        MainScreen(showMoreApps = true, openSettings = {}, openAbout = {}, moreAppsFromUs = {}, linkColor = MaterialTheme.colorScheme.onSurface.toArgb())
     }
 }

@@ -4,12 +4,12 @@ import android.content.Intent
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
+import androidx.compose.runtime.Composable
+import androidx.compose.runtime.remember
 import com.simplemobiletools.commons.compose.extensions.enableEdgeToEdgeSimple
 import com.simplemobiletools.commons.compose.extensions.onEventValue
 import com.simplemobiletools.commons.compose.theme.AppThemeSurface
-import com.simplemobiletools.commons.extensions.appLaunched
-import com.simplemobiletools.commons.extensions.hideKeyboard
-import com.simplemobiletools.commons.extensions.launchMoreAppsFromUsIntent
+import com.simplemobiletools.commons.extensions.*
 import com.simplemobiletools.commons.models.FAQItem
 import com.simplemobiletools.commons.models.Release
 import com.simplemobiletools.thankyou.BuildConfig
@@ -24,8 +24,10 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdgeSimple()
         setContent {
             AppThemeSurface {
+                val linkColor = rememberLinkColor()
                 val showMoreApps = onEventValue { !resources.getBoolean(R.bool.hide_google_relations) }
                 MainScreen(
+                    linkColor = linkColor,
                     showMoreApps = showMoreApps,
                     openSettings = ::launchSettings,
                     openAbout = ::launchAbout,
@@ -35,6 +37,14 @@ class MainActivity : ComponentActivity() {
         }
         appLaunched(BuildConfig.APPLICATION_ID)
         checkWhatsNewDialog()
+    }
+
+    @Composable
+    private fun rememberLinkColor() = remember {
+        when {
+            isWhiteTheme() || isBlackAndWhiteTheme() -> baseConfig.accentColor
+            else -> getProperPrimaryColor()
+        }
     }
 
     private fun launchSettings() {
