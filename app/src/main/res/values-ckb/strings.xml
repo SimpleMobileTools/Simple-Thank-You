@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">سوپاسگوزاری</string>
+    <string name="app_launcher_name">سوپاس</string>
+    <string name="main_text">سوپاس بۆ پاڵپشتیت!
+\n
+\nپەیامێک بنێرە بۆمان
+\n hello@simplemobiletools.com,
+\n هەر سەرنج و تێبینی و پێشنیارێکت هەیە پێمان بڵێ.
+\n
+\n(تکایە ئەم بەرنامەیە لای خۆت بهێڵەوە و مەیسڕەوە بۆ ئەوەی تایبەتمەندییەکانی وەشانی پارەدان لەدەست نەدەیت)</string>
+    <!-- Settings -->
+    <string name="hide_launcher_icon">شاردنەوەی ئایکۆن</string>
+    <string name="hide_launcher_icon_explanation">بۆ دووبارە پیشاندانەوەی ئایکۆنەکە پێویستە دووبارە بەرنامەکە دابەزێنیتەوە، بێخەمبە پێویست ناکات دووبارە پارە بدەیتەوە.</string>
+    <!--
+        Haven't found some strings? There's more at
+        https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
+    -->
+</resources>
