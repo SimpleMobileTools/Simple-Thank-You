@@ -2,7 +2,7 @@
 #jetbrains
 kotlin = "1.9.10"
 #Simple tools
-simple-commons = "5598de895b"
+simple-commons = "c6094c0db2"
 #Compose
 composeActivity = "1.8.0-beta01"
 compose = "1.6.0-alpha05"
