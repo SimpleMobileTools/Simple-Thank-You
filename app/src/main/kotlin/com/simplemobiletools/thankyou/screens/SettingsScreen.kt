@@ -32,7 +32,7 @@ internal fun SettingsScreen(
             SettingsTitleTextComponent(text = stringResource(id = R.string.color_customization))
         }) {
             SettingsPreferenceComponent(
-                preferenceTitle = stringResource(id = R.string.customize_colors),
+                label = stringResource(id = R.string.customize_colors),
                 doOnPreferenceClick = customizeColors,
             )
         }
@@ -43,21 +43,21 @@ internal fun SettingsScreen(
 
             if (isUseEnglishEnabled) {
                 SettingsCheckBoxComponent(
-                    title = stringResource(id = R.string.use_english_language),
+                    label = stringResource(id = R.string.use_english_language),
                     initialValue = isUseEnglishChecked,
                     onChange = onUseEnglishPress,
                 )
             }
             if (isTiramisuPlus()) {
                 SettingsPreferenceComponent(
-                    preferenceTitle = stringResource(id = R.string.language),
-                    preferenceSummary = displayLanguage,
+                    label = stringResource(id = R.string.language),
+                    value = displayLanguage,
                     doOnPreferenceClick = onSetupLanguagePress,
-                    preferenceSummaryColor = MaterialTheme.colorScheme.onSurface,
+                    preferenceLabelColor = MaterialTheme.colorScheme.onSurface,
                 )
             }
             SettingsCheckBoxComponent(
-                title = stringResource(id = com.simplemobiletools.thankyou.R.string.hide_launcher_icon),
+                label = stringResource(id = com.simplemobiletools.thankyou.R.string.hide_launcher_icon),
                 initialValue = isHidingLauncherIcon,
                 onChange = hideLauncherIconClick,
             )
