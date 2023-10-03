@@ -2,18 +2,18 @@
 #jetbrains
 kotlin = "1.9.10"
 #Simple tools
-simple-commons = "b7dd6ad428"
+simple-commons = "a32b3b41a5"
 #Compose
-composeActivity = "1.8.0-beta01"
-compose = "1.6.0-alpha05"
+composeActivity = "1.8.0-rc01"
+compose = "1.6.0-alpha06"
 composeCompiler = "1.5.3"
-composeMaterial3 = "1.2.0-alpha07"
+composeMaterial3 = "1.2.0-alpha08"
 #Androidx
 androidx-customView = "1.2.0-alpha02"
 androidx-customViewPooling = "1.0.0"
 androidx-lifecycle = "2.7.0-alpha02"
 #Gradle
-gradlePlugins-agp = "8.1.1"
+gradlePlugins-agp = "8.1.2"
 app-build-compileSDKVersion = "34"
 app-build-targetSDK = "34"
 app-build-minimumSDK = "23"

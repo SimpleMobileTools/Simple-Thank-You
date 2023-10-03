@@ -33,7 +33,7 @@ internal fun MainScreen(
     openSettings: () -> Unit,
     openAbout: () -> Unit,
     moreAppsFromUs: () -> Unit,
-    linkColor: Int,
+    linkColor: Color,
 ) {
     SettingsLazyScaffold(customTopBar = { scrolledColor: Color, _: MutableInteractionSource, scrollBehavior: TopAppBarScrollBehavior, statusBarColor: Int, colorTransitionFraction: Float, contrastColor: Color ->
         TopAppBar(
@@ -77,7 +77,7 @@ internal fun MainScreen(
                 .padding(bottom = paddingValues.calculateBottomPadding())
                 .padding(40.dp),
             update = { textView ->
-                textView.setLinkTextColor(linkColor)
+                textView.setLinkTextColor(linkColor.toArgb())
                 textView.setTextColor(textColor)
             }
         )
@@ -88,6 +88,6 @@ internal fun MainScreen(
 @MyDevices
 private fun MainScreenPreview() {
     AppThemeSurface {
-        MainScreen(showMoreApps = true, openSettings = {}, openAbout = {}, moreAppsFromUs = {}, linkColor = MaterialTheme.colorScheme.onSurface.toArgb())
+        MainScreen(showMoreApps = true, openSettings = {}, openAbout = {}, moreAppsFromUs = {}, linkColor = MaterialTheme.colorScheme.onSurface)
     }
 }
