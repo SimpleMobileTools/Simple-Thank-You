@@ -8,23 +8,18 @@ import androidx.compose.runtime.*
 import androidx.compose.runtime.snapshots.SnapshotStateList
 import com.simplemobiletools.commons.compose.alert_dialog.AlertDialogState
 import com.simplemobiletools.commons.compose.alert_dialog.rememberAlertDialogState
-import com.simplemobiletools.commons.compose.extensions.enableEdgeToEdgeSimple
-import com.simplemobiletools.commons.compose.extensions.linkColor
-import com.simplemobiletools.commons.compose.extensions.onEventValue
+import com.simplemobiletools.commons.compose.extensions.*
 import com.simplemobiletools.commons.compose.theme.AppThemeSurface
 import com.simplemobiletools.commons.dialogs.DonateAlertDialog
 import com.simplemobiletools.commons.dialogs.RateStarsAlertDialog
-import com.simplemobiletools.commons.dialogs.UpgradeToProAlertDialog
 import com.simplemobiletools.commons.dialogs.WhatsNewAlertDialog
-import com.simplemobiletools.commons.extensions.*
+import com.simplemobiletools.commons.extensions.hideKeyboard
+import com.simplemobiletools.commons.extensions.launchMoreAppsFromUsIntent
 import com.simplemobiletools.commons.models.FAQItem
 import com.simplemobiletools.commons.models.Release
 import com.simplemobiletools.thankyou.BuildConfig
 import com.simplemobiletools.thankyou.R
 import com.simplemobiletools.thankyou.extensions.startAboutActivity
-import com.simplemobiletools.thankyou.helpers.appLaunchedCompose
-import com.simplemobiletools.thankyou.helpers.checkWhatsNewCompose
-import com.simplemobiletools.thankyou.helpers.upgradeToPro
 import com.simplemobiletools.thankyou.screens.MainScreen
 import kotlinx.collections.immutable.toImmutableList
 
@@ -55,14 +50,13 @@ class MainActivity : ComponentActivity() {
     private fun AppLaunched(
         donateAlertDialogState: AlertDialogState = getDonateAlertDialogState(),
         rateStarsAlertDialogState: AlertDialogState = getRateStarsAlertDialogState(),
-        upgradeToProAlertDialogState: AlertDialogState = getUpgradeToProAlertDialogState()
     ) {
         LaunchedEffect(Unit) {
             appLaunchedCompose(
                 appId = BuildConfig.APPLICATION_ID,
                 showDonateDialog = donateAlertDialogState::show,
                 showRateUsDialog = rateStarsAlertDialogState::show,
-                showUpgradeDialog = upgradeToProAlertDialogState::show
+                showUpgradeDialog = {}
             )
         }
     }
@@ -91,16 +85,6 @@ class MainActivity : ComponentActivity() {
     }
 
     @Composable
-    private fun getUpgradeToProAlertDialogState() = rememberAlertDialogState().apply {
-        DialogMember {
-            UpgradeToProAlertDialog(
-                alertDialogState = this, onMoreInfoClick = ::upgradeToPro, onUpgradeClick = ::launchUpgradeToProIntent
-            )
-        }
-    }
-
-
-    @Composable
     private fun getCheckWhatsNewAlertDialogState(releasesList: SnapshotStateList<Release>) = rememberAlertDialogState().apply {
         DialogMember {
             WhatsNewAlertDialog(alertDialogState = this, releases = releasesList.toImmutableList())
@@ -118,13 +102,7 @@ class MainActivity : ComponentActivity() {
     @Composable
     private fun getRateStarsAlertDialogState() = rememberAlertDialogState().apply {
         DialogMember {
-            RateStarsAlertDialog(alertDialogState = this) { stars ->
-                if (stars == 5) {
-                    redirectToRateUs()
-                }
-                toast(com.simplemobiletools.commons.R.string.thank_you)
-                baseConfig.wasAppRated = true
-            }
+            RateStarsAlertDialog(alertDialogState = this, onRating = ::rateStarsRedirectAndThankYou)
         }
     }
 
