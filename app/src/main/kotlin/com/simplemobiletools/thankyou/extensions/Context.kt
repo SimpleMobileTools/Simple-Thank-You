@@ -8,9 +8,7 @@ import android.os.Build
 import android.provider.Settings
 import androidx.annotation.RequiresApi
 import com.simplemobiletools.commons.activities.AboutActivity
-import com.simplemobiletools.commons.activities.BaseSimpleActivity
 import com.simplemobiletools.commons.activities.CustomizationActivity
-import com.simplemobiletools.commons.compose.theme.getAppLauncherName
 import com.simplemobiletools.commons.dialogs.ConfirmationDialog
 import com.simplemobiletools.commons.dialogs.WhatsNewDialog
 import com.simplemobiletools.commons.extensions.baseConfig

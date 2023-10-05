@@ -25,6 +25,7 @@ import com.simplemobiletools.commons.compose.menus.ActionMenu
 import com.simplemobiletools.commons.compose.menus.OverflowMode
 import com.simplemobiletools.commons.compose.settings.scaffold.*
 import com.simplemobiletools.commons.compose.theme.AppThemeSurface
+import com.simplemobiletools.commons.compose.theme.SimpleTheme
 import kotlinx.collections.immutable.toImmutableList
 
 @Composable
@@ -33,24 +34,13 @@ internal fun MainScreen(
     openSettings: () -> Unit,
     openAbout: () -> Unit,
     moreAppsFromUs: () -> Unit,
-    linkColor: Int,
+    linkColor: Color,
 ) {
     SettingsLazyScaffold(customTopBar = { scrolledColor: Color, _: MutableInteractionSource, scrollBehavior: TopAppBarScrollBehavior, statusBarColor: Int, colorTransitionFraction: Float, contrastColor: Color ->
         TopAppBar(
             title = {},
             actions = {
-                val actionMenus = remember {
-                    val settings =
-                        ActionItem(R.string.settings, icon = Icons.Filled.Settings, doAction = openSettings, overflowMode = OverflowMode.NEVER_OVERFLOW)
-                    val about = ActionItem(R.string.about, icon = Icons.Outlined.Info, doAction = openAbout, overflowMode = OverflowMode.NEVER_OVERFLOW)
-
-                    val list = if (showMoreApps) {
-                        listOf(settings, about, ActionItem(R.string.more_apps_from_us, doAction = moreAppsFromUs, overflowMode = OverflowMode.ALWAYS_OVERFLOW))
-                    } else {
-                        listOf(settings, about)
-                    }
-                    list.toImmutableList()
-                }
+                val actionMenus = rememberActionItems(openSettings, openAbout, showMoreApps, moreAppsFromUs)
                 var isMenuVisible by remember { mutableStateOf(false) }
                 ActionMenu(items = actionMenus, numIcons = 2, isMenuVisible = isMenuVisible, onMenuToggle = { isMenuVisible = it }, iconsColor = scrolledColor)
             },
@@ -60,7 +50,7 @@ internal fun MainScreen(
             windowInsets = topAppBarInsets()
         )
     }) { paddingValues ->
-        val textColor = MaterialTheme.colorScheme.onSurface.toArgb()
+        val textColor = SimpleTheme.colorScheme.onSurface.toArgb()
 
         AndroidView(
             factory = { context ->
@@ -77,7 +67,7 @@ internal fun MainScreen(
                 .padding(bottom = paddingValues.calculateBottomPadding())
                 .padding(40.dp),
             update = { textView ->
-                textView.setLinkTextColor(linkColor)
+                textView.setLinkTextColor(linkColor.toArgb())
                 textView.setTextColor(textColor)
             }
         )
@@ -85,9 +75,28 @@ internal fun MainScreen(
 }
 
 @Composable
+private fun rememberActionItems(
+    openSettings: () -> Unit,
+    openAbout: () -> Unit,
+    showMoreApps: Boolean,
+    moreAppsFromUs: () -> Unit
+) = remember {
+    val settings =
+        ActionItem(R.string.settings, icon = Icons.Filled.Settings, doAction = openSettings, overflowMode = OverflowMode.NEVER_OVERFLOW)
+    val about = ActionItem(R.string.about, icon = Icons.Outlined.Info, doAction = openAbout, overflowMode = OverflowMode.NEVER_OVERFLOW)
+
+    val list = if (showMoreApps) {
+        listOf(settings, about, ActionItem(R.string.more_apps_from_us, doAction = moreAppsFromUs, overflowMode = OverflowMode.ALWAYS_OVERFLOW))
+    } else {
+        listOf(settings, about)
+    }
+    list.toImmutableList()
+}
+
+@Composable
 @MyDevices
 private fun MainScreenPreview() {
     AppThemeSurface {
-        MainScreen(showMoreApps = true, openSettings = {}, openAbout = {}, moreAppsFromUs = {}, linkColor = MaterialTheme.colorScheme.onSurface.toArgb())
+        MainScreen(showMoreApps = true, openSettings = {}, openAbout = {}, moreAppsFromUs = {}, linkColor = SimpleTheme.colorScheme.onSurface)
     }
 }
