@@ -5,10 +5,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.res.stringResource
 import com.simplemobiletools.commons.R
 import com.simplemobiletools.commons.compose.extensions.MyDevices
-import com.simplemobiletools.commons.compose.settings.SettingsCheckBoxComponent
-import com.simplemobiletools.commons.compose.settings.SettingsGroup
-import com.simplemobiletools.commons.compose.settings.SettingsPreferenceComponent
-import com.simplemobiletools.commons.compose.settings.SettingsTitleTextComponent
+import com.simplemobiletools.commons.compose.settings.*
 import com.simplemobiletools.commons.compose.settings.scaffold.SettingsScaffold
 import com.simplemobiletools.commons.compose.theme.AppThemeSurface
 import com.simplemobiletools.commons.compose.theme.SimpleTheme
@@ -36,7 +33,7 @@ internal fun SettingsScreen(
                 doOnPreferenceClick = customizeColors,
             )
         }
-        HorizontalDivider(color = divider_grey)
+        SettingsHorizontalDivider()
         SettingsGroup(title = {
             SettingsTitleTextComponent(text = stringResource(id = R.string.general_settings))
         }) {
