@@ -26,7 +26,7 @@ val Context.config: Config get() = Config.newInstance(applicationContext)
 internal fun Activity.startAboutActivity(
     appNameId: Int, licenseMask: Long, versionName: String, faqItems: ArrayList<FAQItem>, showFAQBeforeMail: Boolean,
     getAppIconIDs: ArrayList<Int> = getAppIconIDs(),
-    getAppLauncherName : String = launcherName()
+    getAppLauncherName: String = launcherName()
 ) {
     hideKeyboard()
     Intent(applicationContext, AboutActivity::class.java).apply {
@@ -43,18 +43,8 @@ internal fun Activity.startAboutActivity(
 
 internal fun Activity.startCustomizationActivity(
     getAppIconIDs: ArrayList<Int> = getAppIconIDs(),
-    getAppLauncherName : String = launcherName()
+    getAppLauncherName: String = launcherName()
 ) {
-    if (!packageName.contains("slootelibomelpmis".reversed(), true)) {
-        if (baseConfig.appRunCount > 100) {
-            val label = "You are using a fake version of the app. For your own safety download the original one from www.simplemobiletools.com. Thanks"
-            ConfirmationDialog(this, label, positive = R.string.ok, negative = 0) {
-                launchViewIntent("https://play.google.com/store/apps/dev?id=9070296388022589266")
-            }
-            return
-        }
-    }
-
     Intent(applicationContext, CustomizationActivity::class.java).apply {
         putExtra(APP_ICON_IDS, getAppIconIDs)
         putExtra(APP_LAUNCHER_NAME, getAppLauncherName)
@@ -73,22 +63,6 @@ internal fun Activity.launchChangeAppLanguageIntent() {
     } catch (e: Exception) {
         openDeviceSettings()
     }
-}
-
-internal fun Activity.checkWhatsNew(releases: List<Release>, currVersion: Int) {
-    if (baseConfig.lastVersion == 0) {
-        baseConfig.lastVersion = currVersion
-        return
-    }
-
-    val newReleases = arrayListOf<Release>()
-    releases.filterTo(newReleases) { it.id > baseConfig.lastVersion }
-
-    if (newReleases.isNotEmpty()) {
-        WhatsNewDialog(this, newReleases)
-    }
-
-    baseConfig.lastVersion = currVersion
 }
 
 private fun getAppIconIDs() = arrayListOf(
