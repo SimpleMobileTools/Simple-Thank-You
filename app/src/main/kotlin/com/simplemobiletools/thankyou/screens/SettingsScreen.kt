@@ -54,7 +54,7 @@ internal fun SettingsScreen(
                     value = displayLanguage,
                     doOnPreferenceClick = onSetupLanguagePress,
                     preferenceLabelColor = SimpleTheme.colorScheme.onSurface,
-                    preferenceValueColor = SimpleTheme.colorScheme.onSurface.copy(alpha = 0.7f),
+                    preferenceValueColor = SimpleTheme.colorScheme.onSurface.copy(alpha = 0.6f),
                 )
             }
             SettingsCheckBoxComponent(
