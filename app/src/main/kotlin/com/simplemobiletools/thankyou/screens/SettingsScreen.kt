@@ -1,15 +1,13 @@
 package com.simplemobiletools.thankyou.screens
 
-import androidx.compose.material3.HorizontalDivider
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.res.stringResource
 import com.simplemobiletools.commons.R
 import com.simplemobiletools.commons.compose.extensions.MyDevices
+import com.simplemobiletools.commons.compose.lists.SimpleColumnScaffold
 import com.simplemobiletools.commons.compose.settings.*
-import com.simplemobiletools.commons.compose.settings.scaffold.SettingsScaffold
 import com.simplemobiletools.commons.compose.theme.AppThemeSurface
 import com.simplemobiletools.commons.compose.theme.SimpleTheme
-import com.simplemobiletools.commons.compose.theme.divider_grey
 import com.simplemobiletools.commons.helpers.isTiramisuPlus
 
 @Composable
@@ -24,7 +22,7 @@ internal fun SettingsScreen(
     customizeColors: () -> Unit,
     goBack: () -> Unit,
 ) {
-    SettingsScaffold(title = stringResource(id = R.string.settings), goBack = goBack) {
+    SimpleColumnScaffold(title = stringResource(id = R.string.settings), goBack = goBack) {
         SettingsGroup(title = {
             SettingsTitleTextComponent(text = stringResource(id = R.string.color_customization))
         }) {
