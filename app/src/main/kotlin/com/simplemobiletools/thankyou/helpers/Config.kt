@@ -15,6 +15,4 @@ class Config(context: Context) : BaseConfig(context) {
         set(hideLauncherIcon) = prefs.edit().putBoolean(HIDE_LAUNCHER_ICON, hideLauncherIcon).apply()
 
     val hideLauncherIconFlow: Flow<Boolean> = ::hideLauncherIcon.asFlowNonNull()
-    val wasUseEnglishToggledFlow: Flow<Boolean> = ::wasUseEnglishToggled.asFlowNonNull()
-    val useEnglishFlow: Flow<Boolean> = ::useEnglish.asFlowNonNull()
 }

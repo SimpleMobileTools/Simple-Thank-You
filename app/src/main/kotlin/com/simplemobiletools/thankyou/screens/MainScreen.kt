@@ -20,10 +20,10 @@ import androidx.compose.ui.unit.sp
 import androidx.compose.ui.viewinterop.AndroidView
 import com.simplemobiletools.commons.R
 import com.simplemobiletools.commons.compose.extensions.MyDevices
+import com.simplemobiletools.commons.compose.lists.*
 import com.simplemobiletools.commons.compose.menus.ActionItem
 import com.simplemobiletools.commons.compose.menus.ActionMenu
 import com.simplemobiletools.commons.compose.menus.OverflowMode
-import com.simplemobiletools.commons.compose.settings.scaffold.*
 import com.simplemobiletools.commons.compose.theme.AppThemeSurface
 import com.simplemobiletools.commons.compose.theme.SimpleTheme
 import kotlinx.collections.immutable.toImmutableList
@@ -36,7 +36,7 @@ internal fun MainScreen(
     moreAppsFromUs: () -> Unit,
     linkColor: Color,
 ) {
-    SettingsLazyScaffold(customTopBar = { scrolledColor: Color, _: MutableInteractionSource, scrollBehavior: TopAppBarScrollBehavior, statusBarColor: Int, colorTransitionFraction: Float, contrastColor: Color ->
+    SimpleScaffold(customTopBar = { scrolledColor: Color, _: MutableInteractionSource, scrollBehavior: TopAppBarScrollBehavior, statusBarColor: Int, colorTransitionFraction: Float, contrastColor: Color ->
         TopAppBar(
             title = {},
             actions = {
@@ -45,7 +45,7 @@ internal fun MainScreen(
                 ActionMenu(items = actionMenus, numIcons = 2, isMenuVisible = isMenuVisible, onMenuToggle = { isMenuVisible = it }, iconsColor = scrolledColor)
             },
             scrollBehavior = scrollBehavior,
-            colors = topAppBarColors(statusBarColor, colorTransitionFraction, contrastColor),
+            colors = simpleTopAppBarColors(statusBarColor, colorTransitionFraction, contrastColor),
             modifier = Modifier.topAppBarPaddings(),
             windowInsets = topAppBarInsets()
         )
