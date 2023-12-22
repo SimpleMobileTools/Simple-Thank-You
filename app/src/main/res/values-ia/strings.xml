@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hide_launcher_icon">Celar le icone del lanceator</string>
+    <string name="hide_launcher_icon_explanation">To have the icone del lanceator displayed again, you will have to reinstall the app. Don\'t worry, you won\'t have to pay again.</string>
+    <string name="app_launcher_name">Gratias</string>
+    <string name="app_name">Gratias simple</string>
+    <string name="main_text">Gratias por supportar nos!
+\n
+\nInvia nos un linea at
+\n hello@simplemobiletools.com,
+\n we\'d love to hear all your feedback and suggestions.
+\n
+\n(Please mantene le application installate pro evitar seeing le dialogo \'Purchase\' e haber tote le functionalitates de application disblocate)</string>
+</resources>

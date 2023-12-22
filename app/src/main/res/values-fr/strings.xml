@@ -6,12 +6,12 @@
 \n
 \nÉcrivez-nous un petit message à l\'adresse
 \n hello@simplemobiletools.com,
-\n nous aimerions connaître votre avis et vos suggestions.
+\n nous aimerions lire tous vos commentaires et suggestions.
 \n
-\n(Veuillez conserver l\'application installée pour éviter l\'affichage de la boîte de dialogue d\'achat et avoir accès aux fonctionnalités déverrouillées par cette application)</string>
+\n(Veillez à ce que cette application soit bien installée pour éviter l\'affichage de la fenêtre d\'achat et pour que toutes les fonctionnalités de l\'application soient déverrouillées)</string>
     <!-- Settings -->
     <string name="hide_launcher_icon">Masquer l\'icône de l\'application</string>
-    <string name="hide_launcher_icon_explanation">Pour que l\'icône de l\'application s\'affiche de nouveau dans votre lanceur d\'applications, vous devrez réinstaller l\'application. Aucune inquiétude, vous ne devrez pas effectuer un nouveau paiement.</string>
+    <string name="hide_launcher_icon_explanation">Pour que l\'icône de l\'application s\'affiche à nouveau dans votre lanceur d\'applications, vous devrez réinstaller l\'application. Aucune inquiétude, vous ne devrez pas effectuer de nouveau paiement.</string>
     <!--
         Haven't found some strings? There's more at
         https://github.com/SimpleMobileTools/Simple-Commons/tree/master/commons/src/main/res
